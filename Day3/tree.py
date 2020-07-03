@@ -1,5 +1,6 @@
 import turtle
 import random
+from math import *
 import datetime
 random.seed(datetime.datetime.now())
 
@@ -14,6 +15,8 @@ def square(size, color, t):
 
 # 画叶子
 def leaf(size, color, t):
+    tempcolor = t.pencolor()
+    t.pencolor(color)
     t.rt(90)
     t.backward(size/2)
     #square(size, '#f44a55') #中
@@ -31,29 +34,41 @@ def leaf(size, color, t):
     t.rt(90)
     t.fd(size/2)
     t.rt(90)
+    t.pencolor(tempcolor)
+'''def leaf(size, color, t):
+    tempcolor = t.pencolor()
+    t.pencolor(color)
+    t.dot(size*5, color)
+    t.pencolor(tempcolor)'''
 
 
 # 画树
 def tree(branch_len, t):
-    ang = random.randint(30,40)
+    t.pensize(branch_len/3)
+    t.fd(branch_len)
     if branch_len > random.choice((10, 15)):
-        t.pensize(branch_len/3)
-        per = random.randint(75,83)/100#枝长缩短因子
-        t.fd(branch_len)
+        ang = random.randint(30,40)
         t.rt(ang)
+        per = random.randint(80,85)/100#枝长缩短因子    
         tree(branch_len*per, t)
         for _ in range(2):
             t.lt(ang)
-            tree(branch_len*per, t)
+        tree(branch_len*per, t)
         t.rt(ang)
-        t.backward(branch_len)
 
     else:
         tow = t.heading()
         t1.seth(0)
-        leaf(1.5, '#f44a55', t)
+        n = random.random()/10 + 0.9
+        uselessturtle = turtle.Turtle()
+        uselessturtle.pencolor(n, 0.8*n, 0.8*n)
+        LeafColor = uselessturtle.pencolor()
+        leaf(1.5, LeafColor, t)
         t.seth(tow)
 
+    t.penup()
+    t.backward(branch_len)
+    t.pendown()
 #点缀
 def addition(n):
     for _ in range(n):
@@ -156,12 +171,15 @@ t.rt(90)
 t.pencolor('#f44a55')
 draw_by_str(ls, 2, '#f44a55', t, True)
 tt = turtle.Turtle()
-tt.rt(180)
+
+#tt.rt(180)
 tt.penup()
 tt.fd(20)
-tt.lt(90)
-tt.fd(21*2)
+#tt.lt(90)
 tt.rt(90)
+tt.fd(21*2)
+#tt.rt(90)
+tt.lt(90)
 tt.pencolor('white')
 draw_by_str(ls, 2, 'white', tt, False)
 
