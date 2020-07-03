@@ -3,7 +3,7 @@ import turtle
 import cmath
 
 t = turtle.Turtle()
-turtle.setworldcoordinates(0, 0, 1000, 1000)
+turtle.setworldcoordinates(0, 0, 1050, 1050)
 turtle.tracer(0)
 
 n = 10000
@@ -18,8 +18,8 @@ t.fd(1000)
 t.end_fill()
 count = 0
 for _ in range(n):
-    x = random.random()*1000
-    y = random.random()*1000
+    x = random.random() * 1000
+    y = random.random() * 1000
     t.penup()
     t.goto(x, y)
     t.pendown()
@@ -30,8 +30,11 @@ for _ in range(n):
         count += 1
     else:
         t.dot(2, 'blue')
+t.penup()
+t.goto(500, 1000)
+t.pendown()
+t.write("n = %d(pi = %f)" % (n, count / n * 4))
 t.hideturtle()
 turtle.update()
-turtle.done()
-
 print(count / n * 4)
+turtle.done()
