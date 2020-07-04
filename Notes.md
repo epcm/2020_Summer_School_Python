@@ -54,4 +54,4 @@ key必须为不可变类型
 sep = " ", end = '\n'
 
 读入数据：一行多个整数值
-	alist = list(map(int, input().split()))
+	alist = list(map(int, input().split())) 

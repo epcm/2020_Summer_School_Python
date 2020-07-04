@@ -13,3 +13,4 @@ for _ in range(10):
     t.fd(100)
     print(temp)
 turtle.done()
+colors = ['#f44a55', 'white', '#ffcccc']

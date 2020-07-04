@@ -4,13 +4,37 @@ from math import *
 import datetime
 random.seed(datetime.datetime.now())
 
+# 小恐龙
+ls = [
+'***********########*',
+'**********##########',
+'**********##*#######',
+'**********##########',
+'**********##########', 
+'**********#####*****', 
+'**********########**',
+'#********#####******',
+'#*******######******',
+'##*****#########****',
+'###***########*#****',
+'##############******',
+'##############******',
+'*############*******',
+'**##########********',
+'***########*********',
+'****######**********',
+'****###*##**********',
+'****##***#**********',
+'****#****#**********',
+'****##***##*********']
+
 branch_len_control = (10, 15)
-angle_control = [30, 40]
-branch_shorten_rate = [80, 85]
+angle_control = [27, 32]#30, 33
+branch_shorten_rate = [80, 85]#80, 85
 colors = ['#f44a55', 'white', '#ffcccc']
 #colors = ['black', 'white', 'black']
 #colors = ['#c71e2f', 'black', '#ffcccc']
-#colors = ['#896206', 'white', '#ffcccc']
+#colors = ['#774b30', 'white', '#ffcccc']
 
 # 画正方形
 def square(size, color, t):
@@ -51,32 +75,45 @@ def leaf(size, color, t):
 
 
 # 画树
-def tree(branch_len, t):
-    t.pensize(branch_len/3)
-    t.fd(branch_len)
-    if branch_len > random.choice(branch_len_control):
-        ang = random.randint(angle_control[0], angle_control[1])
-        t.rt(ang)
-        per = random.randint(branch_shorten_rate[0], branch_shorten_rate[1])/100#枝长缩短因子    
-        tree(branch_len*per, t)
+def tree(branch_len):
+    ang = random.randint(angle_control[0], angle_control[1])
+    per = random.randint(branch_shorten_rate[0], branch_shorten_rate[1])/100#枝长缩短因子
+    len = random.choice(branch_len_control)    
+
+    if branch_len > len:
+        t1.pensize(branch_len/3)
+        t1.fd(branch_len)
+        t1.rt(ang)
+        t2.pensize(branch_len/3)
+        t2.fd(branch_len)
+        t2.lt(ang)
+        tree(branch_len*per)
         for _ in range(2):
-            t.lt(ang)
-        tree(branch_len*per, t)
-        t.rt(ang)
+            t1.lt(ang)
+            t2.rt(ang)
+        tree(branch_len*per)
+        t1.rt(ang)
+        t2.lt(ang)
 
+        t1.penup()
+        t1.backward(branch_len)
+        t1.pendown()
+        t2.penup()
+        t2.backward(branch_len)
+        t2.pendown()
     else:
-        tow = t.heading()
+        tow = t1.heading()
         t1.seth(0)
-        n = random.random()/10 + 0.9
-        '''uselessturtle = turtle.Turtle()
-        uselessturtle.pencolor(n, 0.8*n, 0.8*n)
-        LeafColor = uselessturtle.pencolor()'''
-        leaf(1.5, colors[2], t)
-        t.seth(tow)
+        leaf(1.5, colors[2], t1)
+        t1.seth(tow)
 
-    t.penup()
-    t.backward(branch_len)
-    t.pendown()
+        tow = t2.heading()
+        t2.seth(0)
+        leaf(1.5, colors[2], t2)
+        t2.seth(tow)
+    
+
+
 #点缀
 def addition(n):
     for _ in range(n):
@@ -93,30 +130,7 @@ def addition(n):
         #leaf(2, colors[0], t1)
         #leaf(2, colors[1], t2)
 
-# 小恐龙
-ls = [
-'***********########*',
-'**********##########',
-'**********##*#######',
-'**********##########',
-'**********##########', 
-'**********#####*****', 
-'**********########**',
-'#********#####******',
-'#*******######******',
-'##*****#########****',
-'###***########*#****',
-'##############******',
-'##############******',
-'*############*******',
-'**##########********',
-'***########*********',
-'****######**********',
-'****###*##**********',
-'****##***#**********',
-'****#****#**********',
-'****##***##*********']
-
+# 根据字符矩阵绘制图像
 def draw_by_str(ls, size, color, t, flag):
     for i in ls:
         x = t.xcor()
@@ -133,9 +147,12 @@ def draw_by_str(ls, size, color, t, flag):
         else:
             t.goto(x, y + size)
 
+
+
+
+
 turtle.setworldcoordinates(-200, -300, 200, 300)
 turtle.tracer(0)
-#ang = 30
 t1 = turtle.Turtle()
 t2 = turtle.Turtle()
 t1.pencolor(colors[0])
@@ -158,15 +175,9 @@ t1.end_fill()
 t2.pencolor(colors[1])
 t1.left(90)
 t2.right(90)
-'''
-t.penup()
-t.backward(45)
-t.pendown()
-'''
 t1.pensize(20)
 t2.pensize(20)
-tree(60, t1)
-tree(60, t2)
+tree(60, True)
 
 addition(200)
 
