@@ -31,10 +31,11 @@ ls = [
 branch_len_control = (10,13,15) #控制出现叶片时的枝条长度
 angle_control = [29, 32]#30, 33
 branch_shorten_rate = [82, 85]#80, 85
-colors = ['#f44a55', 'white', '#ffcccc', 'white'] #上树树干（下侧背景），下树树干（上侧背景），上树的花，下树的花
-#colors = ['black', 'white', 'black', 'white']
-#colors = ['#c71e2f', 'black', '#ffcccc', '#ffcccc']
-#colors = ['#774b30', 'white', '#ffcccc', 'white']
+
+
+colors = random.choice([('black', 'white', 'black', 'white'),('#c71e2f', 'black', '#ffcccc', '#ffcccc'),('#f44a55', 'white', '#ffcccc', 'white')])
+#上树树干（下侧背景），下树树干（上侧背景），上树的花，下树的花
+#三种配色随机选择其一 黑白，红黑，粉白
 
 
 # 画正方形
