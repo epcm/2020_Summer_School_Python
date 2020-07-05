@@ -81,10 +81,13 @@ def leaf(size, color, t):
 # 画树
 def tree(branch_len):
     ang = random.randint(angle_control[0], angle_control[1])
-    per = random.randint(branch_shorten_rate[0], branch_shorten_rate[1])/100#枝长缩短因子
+    per = random.randint(branch_shorten_rate[0], branch_shorten_rate[1])/100 #枝长缩短因子
     len = random.choice(branch_len_control)    
 
     if branch_len > len:
+        '''if(random.choice([True, False])):
+            leaf(1.5, colors[2], t1)
+            leaf(1.5, colors[3], t2)'''
         t1.pensize(branch_len/3)
         t1.fd(branch_len)
         t1.rt(ang)
