@@ -28,13 +28,14 @@ ls = [
 '****#****#**********',
 '****##***##*********']
 
-branch_len_control = (10, 15)
-angle_control = [27, 32]#30, 33
-branch_shorten_rate = [80, 85]#80, 85
-colors = ['#f44a55', 'white', '#ffcccc']
-#colors = ['black', 'white', 'black']
-#colors = ['#c71e2f', 'black', '#ffcccc']
-#colors = ['#774b30', 'white', '#ffcccc']
+branch_len_control = (10,13,15) #控制出现叶片时的枝条长度
+angle_control = [29, 32]#30, 33
+branch_shorten_rate = [82, 85]#80, 85
+colors = ['#f44a55', 'white', '#ffcccc', 'white'] #上树树干（下侧背景），下树树干（上侧背景），上树的花，下树的花
+#colors = ['black', 'white', 'black', 'white']
+#colors = ['#c71e2f', 'black', '#ffcccc', '#ffcccc']
+#colors = ['#774b30', 'white', '#ffcccc', 'white']
+
 
 # 画正方形
 def square(size, color, t):
@@ -45,7 +46,8 @@ def square(size, color, t):
         t.lt(90)
     t.end_fill()
 
-# 画叶子
+
+# 画十字叶子
 def leaf(size, color, t):
     tempcolor = t.pencolor()
     t.pencolor(color)
@@ -67,7 +69,9 @@ def leaf(size, color, t):
     t.fd(size/2)
     t.rt(90)
     t.pencolor(tempcolor)
-'''def leaf(size, color, t):
+
+'''点状叶片
+def leaf(size, color, t):
     tempcolor = t.pencolor()
     t.pencolor(color)
     t.dot(size*5, color)
@@ -109,16 +113,15 @@ def tree(branch_len):
 
         tow = t2.heading()
         t2.seth(0)
-        leaf(1.5, colors[2], t2)
+        leaf(1.5, colors[3], t2)
         t2.seth(tow)
     
-
 
 #点缀
 def addition(n):
     for _ in range(n):
         x = random.randint(-180, 180)
-        y = random.randint(0, 300)
+        y = random.randint(5, 300)
         t1.penup()
         t2.penup()
         t1.goto(x, y)
@@ -129,6 +132,7 @@ def addition(n):
         t2.dot(6, colors[1])
         #leaf(2, colors[0], t1)
         #leaf(2, colors[1], t2)
+
 
 # 根据字符矩阵绘制图像
 def draw_by_str(ls, size, color, t, flag):
@@ -150,7 +154,6 @@ def draw_by_str(ls, size, color, t, flag):
 
 
 
-
 turtle.setworldcoordinates(-200, -300, 200, 300)
 turtle.tracer(0)
 t1 = turtle.Turtle()
@@ -161,15 +164,15 @@ t1.pencolor(colors[0])
 turtle.bgcolor(colors[1])
 t1.fillcolor(colors[0])
 t1.begin_fill()
-t1.fd(200)
+t1.fd(220)
 t1.rt(90)
 t1.fd(300)
 t1.rt(90)
-t1.fd(400)
+t1.fd(440)
 t1.rt(90)
 t1.fd(300)
 t1.rt(90)
-t1.fd(200)
+t1.fd(220)
 t1.end_fill()
 
 t2.pencolor(colors[1])
@@ -177,7 +180,7 @@ t1.left(90)
 t2.right(90)
 t1.pensize(20)
 t2.pensize(20)
-tree(60, True)
+tree(60)
 
 addition(200)
 
