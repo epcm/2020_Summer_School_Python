@@ -55,3 +55,4 @@ sep = " ", end = '\n'
 
 读入数据：一行多个整数值
 	alist = list(map(int, input().split())) 
+

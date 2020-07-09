@@ -1,0 +1,2525 @@
+
+######3D打印######
+
+标题：初创公司利用3D打印技术打造只属于你一个人的眼镜
+链接：http://gis4g.pku.edu.cn/3dprint-glass/
+摘要：每个人的脸、鼻子的大小、耳朵的位置都不尽相同，这也意味着没有一副眼镜能够适合所有 …
+
+标题：3D打印笔将塑料瓶和塑料袋转化成雕塑
+链接：http://gis4g.pku.edu.cn/chupacut/
+摘要：3Doodler等传统的3D打印笔都结合了热胶枪和3D打印机的功能，将塑料长丝加 …
+
+标题：[图+视频]俏皮Marty：一款面向孩子推出的编程学习机器人
+链接：http://gis4g.pku.edu.cn/marty-3d-print-robot/
+摘要：据外媒报道，Marty是一款用于教授孩子学习编程的机器人。虽然市面上不乏这种类型 …
+
+标题：印度大学生20天造出廉价3D打印机 获现金奖励
+链接：http://gis4g.pku.edu.cn/3d-printer-diy/
+摘要：据印度《经济时报》 6月15日报道，在印度南部班加罗尔，4名学生毅然决定利用厚木 …
+
+标题：经济方便的3D打印眼科检查工具正式上市
+链接：http://gis4g.pku.edu.cn/3d-print-visoscope/
+摘要：新西兰的眼部护理企业oDocs始终致力于失明的治疗和预防，特别是关注世界上一些没 …
+
+标题：花费3000美金就能3D打印出一个全尺寸的自己
+链接：http://gis4g.pku.edu.cn/body-labs-3d-print/
+摘要：据外媒报道， 近日纽约Body Labs公司与Voodoo Manufactur …
+
+标题：全世界最小的机器人面世 整体重量不足2克
+链接：http://gis4g.pku.edu.cn/nano-robot/
+摘要：在近日举行的 ICRA 2016 机器人与自动化大会上，来自美国马里兰大学的 S …
+
+标题：中国首幅3D打印民用地图问世 精确度0.075毫米
+链接：http://gis4g.pku.edu.cn/3d-print-map-hebei/
+摘要：昨日，记者从河北省地理信息局了解到，在河北省地理空间技术创新基地，一张3D打印的 …
+
+标题：北大发明成果荣获第44届日内瓦国际发明展特别金奖
+链接：http://gis4g.pku.edu.cn/mobile-server-geneva/
+摘要：日期： 2016-04-25  信息来源： 科技开发部 2016年4月13日至1 …
+
+标题：3D打印机现在可以定制打印软糖
+链接：http://gis4g.pku.edu.cn/3d-print-candy/
+摘要：3D打印是革命性的技术，包括鞋和电动摩托车现在都可以使用3D打印出来。但现在，3 …
+
+标题：[图]门票只需13欧：快带谢耳朵来德国汉堡 看微缩景观世界
+链接：http://gis4g.pku.edu.cn/hamburg-3d-model/
+摘要：在带着家人驾车横穿德国的旅途中，TheVerge编辑Jordan Golson带 …
+
+标题：[动图]FormBox：一台能快速打印出任何形状的3D打印机
+链接：http://gis4g.pku.edu.cn/3d-print-box/
+摘要：据外媒报道，在过去10年时间里，3D打印技术带来了一场新的工业革命。虽然现在人们 …
+
+标题：[图]3D打印红裙：1600片拼装 花费3000美元
+链接：http://gis4g.pku.edu.cn/3dprint-dress/
+摘要：国外一家名为Nervous System的设计室制作了一款由1600片3D打印材 …
+
+标题：CAD已放出：大家可以修改Steam游戏手柄和3D打印其配件了
+链接：http://gis4g.pku.edu.cn/3d-print-controller/
+摘要：去年6月的时候，游戏巨头Valve为Steam游戏主机推出了配套的基于触控板游戏 …
+
+标题：3D打印定制矫形器帮助手部残疾男子实现抓握动作
+链接：http://gis4g.pku.edu.cn/3d-hand/
+摘要：3D打印技术的不断进步正掀起医疗健康领域的革命，目前市面上已经有不少专为残疾人士 …
+
+标题：世界最小3D打印笔LIX体验 品控存疑
+链接：http://gis4g.pku.edu.cn/3dprint-lix/
+摘要：3D打印笔LIX首次亮相距今已有两年时间，它号称是世界最小的3D打印装置，可像传 …
+
+标题：美国新研究：用陶瓷材料进行3D打印成为可能
+链接：http://gis4g.pku.edu.cn/3dprint-ceramic/
+摘要：北京时间1月2日上午消息，美国HRL实验室的研究人员近期宣布，成功实现了采用陶瓷 …
+
+标题：联想Stack上手：模块化小工具的初次尝试
+链接：http://gis4g.pku.edu.cn/lenovo-stack/
+摘要：“模块化”是一个非常宽泛的概念，但对于数码产品来说适用性也非常强，手机、智能手表 …
+
+标题：3D打印轮椅帮助前肢残疾小狗行走
+链接：http://gis4g.pku.edu.cn/doggie-3d-wheelchair/
+摘要：据外媒报道，在美国俄亥俄州，一只失去前肢的小狗Tumbles在一家非营利组织的照 …
+
+标题：柏树一样坚固的3D打印雨伞 配独立悬架系统
+链接：http://gis4g.pku.edu.cn/%e6%9f%8f%e6%a0%91%e4%b8%80%e6%a0%b7%e5%9d%9a%e5%9b%ba%e7%9a%843d%e6%89%93%e5%8d%b0%e9%9b%a8%e4%bc%9e-%e9%85%8d%e7%8b%ac%e7%ab%8b%e6%82%ac%e6%9e%b6%e7%b3%bb%e7%bb%9f/
+摘要：11月2日消息，3D打印的神奇力量，许多网友都有所了解，如今3D打印技术应用于日 …
+
+标题：MobileFusion可将手机变身为一台3D扫描仪
+链接：http://gis4g.pku.edu.cn/mobilefusion/
+摘要：你有没有想过用手机来拍摄3D图像？微软研究院的MobileFusion项目或者可 …
+
+标题：Wound Up：咖啡废弃物转制而成的3D打印原材料
+链接：http://gis4g.pku.edu.cn/3d-coffee-filament/
+摘要：泡完咖啡后的废弃物又有了一个新的用途。尽管很多人难以将之与3D打印联系起来，但是 …
+
+标题：创客教您用单挤出3D打印机打印多材料
+链接：http://gis4g.pku.edu.cn/multiple-filament/
+摘要：有点像拥有自己的小型工厂，但是这座“工厂”的功能却需要您花心思去挖掘，否则它的用 …
+
+标题：艺术家3D打印超精细大型猫科动物解剖模型
+链接：http://gis4g.pku.edu.cn/3dprint-cat/
+摘要：Jun Huang在众筹平台Kickstarter发起了一次募资活动，其目的是制 …
+
+标题：KU E-Racing车队准备使用3D打印制作的汽车零部件参赛
+链接：http://gis4g.pku.edu.cn/3dprint-racing-car/
+摘要：感谢中国3D打印网的投递 现在3D打印汽车已不是什么新鲜事了，随着去年本地汽车首 …
+
+标题：第一辆可上路的3D打印汽车会是怎样的？
+链接：http://gis4g.pku.edu.cn/3dpcar/
+摘要：现在大多数人都认为汽车未来的发展趋势只会是自动驾驶技术，但是大家都忽略了另一点— …
+
+标题：FormFutura发布强大的碳基础3D打印线材CarbonFil
+链接：http://gis4g.pku.edu.cn/carbonfil/
+摘要：总部位于荷兰的FormFutura公司近日又发布了一款碳基础3D打印线材—Car …
+
+标题：福特宣布联合Carbon3D 新3D打印技术加速量产过程
+链接：http://gis4g.pku.edu.cn/ford-carbon-3d/
+摘要：福特正式宣布联合3D打印厂商Carbon3D，开始用3D打印制造高质量汽车配件， …
+
+标题：科技与宗教：日本寺庙开始用3D打印佛像
+链接：http://gis4g.pku.edu.cn/budha-3dprint/
+摘要：即使是古老的宗教，到了现代也会与科技进行十分耐人寻味的融合。在日本，不少寺庙竟开始供起了 3D 打印佛像。虽说日本人素以乱点科技天赋和用现代元素包装传统文化出名，但这一次他们倒不是在赶时髦，而是一种无奈之举。3D 打印的佛像作为一种替代，可以保护那些真正古老、珍贵的佛像不被盗走。
+
+标题：[图]食物另类观察角度 – 把果蔬肉切成立方体
+链接：http://gis4g.pku.edu.cn/food-minecraft/
+摘要：食物有各种各样的形状、各种各样的尺寸大小，但如果把它们都切割成一样的形式和大小会怎么样呢？
+
+标题：WASP把3D打印的房屋里混上植物种子让它更坚固
+链接：http://gis4g.pku.edu.cn/3d-print-house-wasp/
+摘要：在我们农村，做土墙时会在墙里加上竹条让土墙更坚固，现在我们住在混泥土房里，在建设时同样会在墙里加上钢筑让房子更牢固。虽然我们已经看到不少3D打印房屋的案例，但是如果完全依靠3D打印技术创建房屋，那么如何让我们3D打印的房屋更坚固更安全这就是个新的问题。在意大利，WASP公司马西莫·莫雷蒂和他的团队一直在积极探索大型3D打印全尺寸房屋的可能性。
+
+标题：海尔推出世界首台3D打印空调
+链接：http://gis4g.pku.edu.cn/haier-3d-print-air-conditioner/
+摘要：如果你恰好拥有一台3D打印机，那么你一定会想着如何用它来创造各种各样的东西。但是在上周于上海举办的世界家电博览会(Appliance World Expo 2015)上，海尔集团却为我们展示了一款3D打印出来的空调。当然，它的售价也着实不菲，不知道有多少消费者愿意掏出6395美元去购买一台呢？
+
+标题：《终结者2》般黑科技：液体里长出3D打印
+链接：http://gis4g.pku.edu.cn/liquid-3d-print/
+摘要：一家名为Carbon3D的创业公司发明了一种新的3D打印技术，看起来犹如科幻电影《终结者2》中液态金属机器人。该公司采用的技术不同于以往的3D打印技术，但是却和传统技术有着相同的原理：通过在平台上一层层地堆叠物质使之成型。
+
+
+######cnbeta######
+
+标题：为了把设计图变得更直观 建筑公司也在用VR
+链接：http://gis4g.pku.edu.cn/vr-building-plan/
+摘要：荷兰的ZGF建筑师事务所在设计西雅图市中心一座44层楼的高塔时，采用了虚拟现实技 …
+
+标题：澳大利亚研发沙漠蕃茄 只需海水阳光便可种植
+链接：http://gis4g.pku.edu.cn/desert-farm/
+摘要：缺乏充足的饮用水与粮食，是人口快速成长的地球未来必须面对的重要课题。台湾“中时电 …
+
+标题：[视频]谷歌艺术文化网站再添50余座自然艺术博物馆的虚拟之旅
+链接：http://gis4g.pku.edu.cn/google-art-vr/
+摘要：谷歌街景已经记录下了全球很多城市和道路，但也偶尔带领用户去探索大堡礁、大峡谷、亚 …
+
+标题：大疆的一个无人机植保订单是如何完成的
+链接：http://gis4g.pku.edu.cn/dji-drone-farm/
+摘要：对于湖南郴州的村民来说，9月是个农忙的时节，大片的水稻田需要进行喷洒作业，尤其是 …
+
+标题：[图]奥迪推出VR看车 内部零件统统看得一清二楚
+链接：http://gis4g.pku.edu.cn/audi-vr/
+摘要：VR正在渗入各行各业，而不仅仅是作为个人玩家的娱乐设备。在上月的Audi Spo …
+
+标题：IBM深度布局医药产业 Watson系统首入中国
+链接：http://gis4g.pku.edu.cn/watson-health/
+摘要：8月11日，IBM宣布其将于合作伙伴杭州认知网络科技有限公司一起，在中国推广基于 …
+
+标题：交通堵塞怎么办 交给无人驾驶去解决
+链接：http://gis4g.pku.edu.cn/robot-driver/
+摘要：一提到交通拥堵的原因，除了道路规划不合理、上下班车流量大之外，不遵守交通规则的司 …
+
+标题：德国制造的VR背包电脑 配英特尔酷睿i7芯片
+链接：http://gis4g.pku.edu.cn/htc-vive-back-computer/
+摘要：虚拟现实(VR)的兴起激发了背包电脑等许多令人兴奋的电脑设计，因为目前主流的虚拟 …
+
+标题：神秘无线电信号来自地球 搜寻地外文明不会止步
+链接：http://gis4g.pku.edu.cn/seti-signal/
+摘要：ET粉丝又要失望了！俄罗斯天文学家1日确认，去年5月探测到的神秘无线电信号来自地 …
+
+标题：NASA火星生存模拟项目今日收官 6人与世隔绝生活一年
+链接：http://gis4g.pku.edu.cn/mars-live-test/
+摘要：据外媒报道，NASA长达一年的火星生存模拟项目于今日结束，这是NASA进行的第三 …
+
+标题：研究：全球变暖始于工业革命 人类180年前开始影响气候
+链接：http://gis4g.pku.edu.cn/global-warming-industry/
+摘要：由人类的各种行为所导致的气候变化已不算是什么新现象，不过对于气候变化究竟始于何时 …
+
+标题：[视频]《我的世界》Windows 10版本正式加入Oculus Rift VR支持
+链接：http://gis4g.pku.edu.cn/minecraft-oculus-rift/
+摘要：微软近日正式推出了《我的世界》Windows 10版本大型更新，增加了许多玩家期 …
+
+标题：学生团队研发廉价迷你卫星 外形酷似玩具
+链接：http://gis4g.pku.edu.cn/suncube/
+摘要：据香港“东网”8月16日报道，人造卫星技术普及，美国一些具有科研能力的高等学府， …
+
+标题：[视频]小学生现在可以通过美味的百奇饼干学习编程
+链接：http://gis4g.pku.edu.cn/glicode/
+摘要：由日本江崎格力高株式会社生产百奇(Pocky)因为其各式各样的口味而受到世界各地 …
+
+标题：AlphaGo后台数据首次公开 免费网站8月中旬将面世
+链接：http://gis4g.pku.edu.cn/alphago-opensource/
+摘要：俄罗斯时间7月25日下午6点(北京时间11：00pm)，谷歌旗下DeepMind …
+
+标题：麦肯锡报告：机器人时代来袭将致60%行业受波折
+链接：http://gis4g.pku.edu.cn/robots-labor/
+摘要：据英国媒体《每日邮报》7月18日报道，麦肯锡公司最近的一份报告称，随着自动化的进 …
+
+标题：编程也能好玩：Swift Playgrounds上手评测
+链接：http://gis4g.pku.edu.cn/swift-playgrounds/
+摘要：如果你已经安装了 iOS 10 公共测试版，而且使用的还是 iPad，那么你很可 …
+
+标题：3D打印笔将塑料瓶和塑料袋转化成雕塑
+链接：http://gis4g.pku.edu.cn/chupacut/
+摘要：3Doodler等传统的3D打印笔都结合了热胶枪和3D打印机的功能，将塑料长丝加 …
+
+标题：ARToolkit：使用最广泛的 AR SDK
+链接：http://gis4g.pku.edu.cn/artoolkit/
+摘要：感谢开源派的投递 听说你在玩 Pokemon Go？这是一款是由任天堂、Poké …
+
+标题：因为怕水学不会游泳？VR技术说不定能帮你
+链接：http://gis4g.pku.edu.cn/vr-swimming-training/
+摘要：即使是在这个游泳池遍布，信息很发达的现代，仍然有许多人是旱鸭子。在学不会游泳的几 …
+
+标题：[图]《精灵宝可梦GO》澳洲玩家已疯狂 半夜墓地都是人
+链接：http://gis4g.pku.edu.cn/pokemon-go-hot/
+摘要：《精灵宝可梦GO》已经在澳大利亚和新西兰上架多日，澳洲人民已经彻底疯狂了。昨天给 …
+
+标题：机器人世界杯落下帷幕 德国队凭点球大战夺冠
+链接：http://gis4g.pku.edu.cn/robocup-2016/
+摘要：据科技网站TechRadar报道，今夏，欧洲杯战火重燃，机器人们也没闲着，201 …
+
+标题：深度学习用途广：Nvidia工程师机智赶跑草坪上撒野的邻家喵星人
+链接：http://gis4g.pku.edu.cn/nvidia-jetson-cat-detector/
+摘要：铲屎并不是一件轻松的差事，尤其是邻居家的喵星人隔三差五地到你家草坪上“撒野”的情 …
+
+标题：新研究成果让未来农业离我们又近了一步
+链接：http://gis4g.pku.edu.cn/aerofarms/
+摘要：如今，地球的人口数仍以每年 8000 万的量飞速增长。新增人口需要食物，这让农耕 …
+
+标题：超人类主义：将大脑上传电脑获得永生
+链接：http://gis4g.pku.edu.cn/transhumanism/
+摘要：据英国每日邮报报道，人们可能一直都梦想着突破身体的限制：疼痛、疾病以及死亡。而现 …
+
+标题：[人物]那些未曾毕业的科技大佬们
+链接：http://gis4g.pku.edu.cn/vip-give-up-academic/
+摘要：又是一年毕业季，本是快乐的，然而科技界的一些大佬们也许正默默的郁闷着，原因很简单 …
+
+标题：无人机高速播种堪比向土壤中射子弹
+链接：http://gis4g.pku.edu.cn/drone-seed/
+摘要：据美国财经网站MarketWatch 6月16日报道，位于美国俄勒冈州西北部城镇 …
+
+标题：[图+视频]俏皮Marty：一款面向孩子推出的编程学习机器人
+链接：http://gis4g.pku.edu.cn/marty-3d-print-robot/
+摘要：据外媒报道，Marty是一款用于教授孩子学习编程的机器人。虽然市面上不乏这种类型 …
+
+标题：印度大学生20天造出廉价3D打印机 获现金奖励
+链接：http://gis4g.pku.edu.cn/3d-printer-diy/
+摘要：据印度《经济时报》 6月15日报道，在印度南部班加罗尔，4名学生毅然决定利用厚木 …
+
+标题：[图+视频]艺术家打造出一台违反阿西莫夫第一法则的机器人
+链接：http://gis4g.pku.edu.cn/robot-rules-art/
+摘要：在《2001太空漫游》这部科幻作品中，太空飞船上的人工智能电脑哈尔 9000 变 …
+
+标题：经济方便的3D打印眼科检查工具正式上市
+链接：http://gis4g.pku.edu.cn/3d-print-visoscope/
+摘要：新西兰的眼部护理企业oDocs始终致力于失明的治疗和预防，特别是关注世界上一些没 …
+
+标题：最新板块构造学说或将改写日后教科书
+链接：http://gis4g.pku.edu.cn/new-plate-theory/
+摘要：据英国每日邮报报道，一直以来人们都以为山峦形成和地震活动都是地球巨大板块边界相互 …
+
+标题：眼控家居亮相：用虚拟现实眼镜开电脑
+链接：http://gis4g.pku.edu.cn/vr-glass-hci/
+摘要：像霍金那样用眼睛安排生活？在昨日闭幕的第十一届中国国际养老、辅具及康复医疗博览会 …
+
+标题：[图]Minecraft Battle Mini-Game将于6月21日上线
+链接：http://gis4g.pku.edu.cn/minecraft-battle/
+摘要：接下来是主机端Minecraft玩家时间！昨天，Xbox官方推特账号宣布Mine …
+
+标题：联想发布首款Project Tango AR手机 – Phab2 Pro
+链接：http://gis4g.pku.edu.cn/tango-phab2-pro/
+摘要：在刚刚开始的Tech World大会上，联想和Google合作的全球第一款使用P …
+
+标题：国产无人机公司亿航：将在美内华达州测试载人无人机
+链接：http://gis4g.pku.edu.cn/ehang-drone/
+摘要：据英国《每日邮报》报道，中国无人机公司亿航今年在拉斯维加斯国际消费电子展（CES …
+
+标题：京东送货无人机成功完成首笔订单 全程5公里
+链接：http://gis4g.pku.edu.cn/drone-jd/
+摘要：6月8日上午9点，在江苏宿迁市曹集乡同庵村居委会内，一架三轴无人机缓缓起飞，十分 …
+
+标题：VR体感游戏Draw Your Blade让你随意画出武器
+链接：http://gis4g.pku.edu.cn/vr-game-draw-blade/
+摘要：HTC Vive虚拟现实设备中的体感控制为开发者们提供了许多创造可能，现在出现了 …
+
+标题：花费3000美金就能3D打印出一个全尺寸的自己
+链接：http://gis4g.pku.edu.cn/body-labs-3d-print/
+摘要：据外媒报道， 近日纽约Body Labs公司与Voodoo Manufactur …
+
+标题：罗永浩自曝VR产品 或先于锤子T3发布
+链接：http://gis4g.pku.edu.cn/smartisan-vr-display/
+摘要：锤子科技在去年底发布了Smartisan T2，不过没有能够最大程度上地满足消费 …
+
+标题：特斯拉车主福利：MIT愿意花1000美元看你开车
+链接：http://gis4g.pku.edu.cn/mit-agelab-tesla-data/
+摘要：据科技网站DigitalTrends报道，新技术和文化在以前所未有的速度向前发展 …
+
+标题：北极在今年可能就会无冰 近十万年来首次
+链接：http://gis4g.pku.edu.cn/polar-ice-disappear/
+摘要：据俄罗斯“卫星”新闻网6月5日消息，剑桥大学教授彼得•沃德汉姆斯得出结论称，北极 …
+
+标题：樊麾：接受AI的过程很痛苦 但早就不委屈了
+链接：http://gis4g.pku.edu.cn/fanhui-ai/
+摘要：李世石与AlphaGo比赛结束的当天，樊麾和其他DeepMind团队的成员一起站 …
+
+标题：谷歌：市面上所有Android手机都达不到VR标准
+链接：http://gis4g.pku.edu.cn/daydream-vr/
+摘要：谷歌那极富野心的 Daydream VR 平台旨在将安卓的软件和硬件结合起来，打 …
+
+标题：谷歌在与甲骨文版权诉讼中获胜 结束6年拉锯战
+链接：http://gis4g.pku.edu.cn/google-wins-java-case/
+摘要：据今日美国报报道，美国旧金山联邦法庭陪审团今日做出裁决，认定谷歌安卓操作系统并未 …
+
+标题：[图]大学课堂上竟然可以发弹幕 段子表情包刷屏
+链接：http://gis4g.pku.edu.cn/new-media-classroom/
+摘要：“不能好好上课了哈哈哈哈哈哈哈哈！” 提到弹幕，很多人还认为只存在二次元网络世界 …
+
+标题：首个基于龙芯的机器人控制器众筹成功即将量产
+链接：http://gis4g.pku.edu.cn/loongson-soc/
+摘要：感谢星原的投递 近日，龙芯俱乐部开发的业内首个基于国产龙芯的机器人控制器登陆聚丰 …
+
+标题：辨识度强：专为编程设计的免费字体Mononoki
+链接：http://gis4g.pku.edu.cn/coding-font-mononoki/
+摘要：许多程序员不会去特别关注他们每天都在面对的编程字体,但编码工作需要长时间盯着屏幕 …
+
+标题：1480光年外恒星亮度神秘变化：人工设施还是自然现象？
+链接：http://gis4g.pku.edu.cn/dyson-ring/
+摘要：北京时间5月13日消息，据物理学家组织网站报道，可能会让很多外星人爱好者们感到失 …
+
+标题：IBM类脑超算平台TrueNorth芯片将于本周送往劳伦斯利弗莫尔
+链接：http://gis4g.pku.edu.cn/llnl-truenorth/
+摘要：过去，我们经常听到把芯片当做是计算机的“电子大脑”的说法。不过劳伦斯·利弗莫尔国 …
+
+标题：三星申请手势识别专利 双手凌空操作Gear VR
+链接：http://gis4g.pku.edu.cn/gear-vr-ui/
+摘要：根据美国专利局发布的一项三星的专利申请，三星为旗下移动虚拟现实头显Gear VR …
+
+标题：[图]3D打印红裙：1600片拼装 花费3000美元
+链接：http://gis4g.pku.edu.cn/3dprint-dress/
+摘要：国外一家名为Nervous System的设计室制作了一款由1600片3D打印材 …
+
+
+######GIS######
+
+标题：中国首幅3D打印民用地图问世 精确度0.075毫米
+链接：http://gis4g.pku.edu.cn/3d-print-map-hebei/
+摘要：昨日，记者从河北省地理信息局了解到，在河北省地理空间技术创新基地，一张3D打印的 …
+
+
+######Minecraft######
+
+标题：这届学生会玩 广州一高校在游戏中“开发”毕业典礼 – 网游 – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e8%bf%99%e5%b1%8a%e5%ad%a6%e7%94%9f%e4%bc%9a%e7%8e%a9-%e5%b9%bf%e5%b7%9e%e4%b8%80%e9%ab%98%e6%a0%a1%e5%9c%a8%e6%b8%b8%e6%88%8f%e4%b8%ad%e5%bc%80%e5%8f%91%e6%af%95%e4%b8%9a%e5%85%b8/
+摘要：广州大学华软软件学院一款在游戏中“开发”的毕业典礼在网络上“火”了。这是该校21 …
+
+标题：微软用《我的世界》吸引学生走向编程的大门
+链接：http://gis4g.pku.edu.cn/code-org-mc/
+摘要：伴随着游戏销量突破百万，《我的世界》（Minecraft）受到了当代众多儿童的热 …
+
+标题：[视频]《我的世界》Windows 10版本正式加入Oculus Rift VR支持
+链接：http://gis4g.pku.edu.cn/minecraft-oculus-rift/
+摘要：微软近日正式推出了《我的世界》Windows 10版本大型更新，增加了许多玩家期 …
+
+标题：[图]Minecraft Battle Mini-Game将于6月21日上线
+链接：http://gis4g.pku.edu.cn/minecraft-battle/
+摘要：接下来是主机端Minecraft玩家时间！昨天，Xbox官方推特账号宣布Mine …
+
+标题：网易正式宣布代理《我的世界》国服
+链接：http://gis4g.pku.edu.cn/163-minecraft/
+摘要：感谢李海的投递 当微软以25亿美元收购Mojang的《我的世界》时，全世界的玩家 …
+
+标题：[图+视频]《我的世界》玩家耗费400小时打造的杰作”Phain”
+链接：http://gis4g.pku.edu.cn/minecraft-phain/
+摘要：《我的世界》资深玩家Darastlix和他的团队最近完成了一个非常了不起的项目， …
+
+标题：[视频]在VR体验中你可以真实接触到Minecraft砖块
+链接：http://gis4g.pku.edu.cn/minecraft-vr/
+摘要：普遍认为虚拟现实（VR）是交互体验的下一站，且拥有无限的应用前景和发展潜能。但V …
+
+标题：[图+视频]国人用《我的世界》重现圆明园建筑群
+链接：http://gis4g.pku.edu.cn/minecraft-yuanmingyuan/
+摘要：沙盒游戏《我的世界》因为极大的自由度催生了很多新鲜的创意，这个立足于建筑设计的想 …
+
+标题：[图]乐高大师拼出世界著名建筑 逼真壮观
+链接：http://gis4g.pku.edu.cn/lego-building/
+摘要：据英国《每日邮报》3月15日报道，美国44岁男子亚当·塔克（Adam Reed  …
+
+标题：《Minecraft》游戏被微软用于训练人工智能
+链接：http://gis4g.pku.edu.cn/minecraft-ai/
+摘要：报道称，微软的研究人员正在最新的AIX平台上实现将《我的世界》沙盒游戏机制应用至 …
+
+标题：[图]别人的世界 – 15岁少年靠《我的世界》创办公司
+链接：http://gis4g.pku.edu.cn/minecraft-company/
+摘要：这个英国少年叫Brandon Relph，今年15岁，就靠着玩《我的世界》，他已 …
+
+标题：Minecraft虚拟燕园项目获得“北大研究”课题立项
+链接：http://gis4g.pku.edu.cn/minecraftyanyuan/
+摘要：“基于Minecraft的虚拟燕园”项目参与了2015年度“北大研究”课题申报。 …
+
+标题：这款《我的世界》MOD能把游戏和现实世界连接起来
+链接：http://gis4g.pku.edu.cn/bitcraft/
+摘要：《我的世界（Minecraft）》里面那些像像素一样，由各种方块构成的世界，因为 …
+
+标题：微软为教孩子们编程 用《我的世界》做了个编程教程
+链接：http://gis4g.pku.edu.cn/code_minecraft/
+摘要：作为“Hour of Code（编程一小时）”的一部分，微软最近发布了一个基于《 …
+
+
+######python######
+
+标题：Python绘制地图及其它图表 – 知乎
+链接：http://gis4g.pku.edu.cn/python%e7%bb%98%e5%88%b6%e5%9c%b0%e5%9b%be%e5%8f%8a%e5%85%b6%e5%ae%83%e5%9b%be%e8%a1%a8-%e7%9f%a5%e4%b9%8e/
+摘要：from pyecharts.charts import Map,Geo fro …
+
+标题：python如何画出漂亮的地图？
+链接：http://gis4g.pku.edu.cn/python%e5%a6%82%e4%bd%95%e7%94%bb%e5%87%ba%e6%bc%82%e4%ba%ae%e7%9a%84%e5%9c%b0%e5%9b%be%ef%bc%9f/
+摘要：推荐一个超好用的python包folium, 专门用于地理数据可视化，官方英文教 …
+
+标题：pygame-zero-book
+链接：http://gis4g.pku.edu.cn/pygame-zero-book/
+摘要：来源： pygame-book
+
+标题：[翻译]10分钟快速入门Python函数式编程
+链接：http://gis4g.pku.edu.cn/%e7%bf%bb%e8%af%9110%e5%88%86%e9%92%9f%e5%bf%ab%e9%80%9f%e5%85%a5%e9%97%a8python%e5%87%bd%e6%95%b0%e5%bc%8f%e7%bc%96%e7%a8%8b/
+摘要：最近在学习python，对函数式编程特别感兴趣，当然，这并不是python的专利 …
+
+标题：能分清直方图和柱状图，你就是图表届的“头号”玩家
+链接：http://gis4g.pku.edu.cn/%e8%83%bd%e5%88%86%e6%b8%85%e7%9b%b4%e6%96%b9%e5%9b%be%e5%92%8c%e6%9f%b1%e7%8a%b6%e5%9b%be%ef%bc%8c%e4%bd%a0%e5%b0%b1%e6%98%af%e5%9b%be%e8%a1%a8%e5%b1%8a%e7%9a%84%e5%a4%b4%e5%8f%b7/
+摘要：虽然直方图是柱状图的一种（毕竟乍眼看都是很多柱子的样子），但是其实它俩一个喜欢数 …
+
+标题：GeoPython
+链接：http://gis4g.pku.edu.cn/geopython/
+摘要：geopython.github.io: The geopython Commu …
+
+标题：中位数的小技巧 – 寻找两个有序数组的中位数 – 力扣（LeetCode）
+链接：http://gis4g.pku.edu.cn/%e4%b8%ad%e4%bd%8d%e6%95%b0%e7%9a%84%e5%b0%8f%e6%8a%80%e5%b7%a7-%e5%af%bb%e6%89%be%e4%b8%a4%e4%b8%aa%e6%9c%89%e5%ba%8f%e6%95%b0%e7%bb%84%e7%9a%84%e4%b8%ad%e4%bd%8d%e6%95%b0-%e5%8a%9b%e6%89%a3/
+摘要：来源： 中位数的小技巧 – 寻找两个有序数组的中位数 – …
+
+标题：SimPy: Simulating Real-World Processes With Python – Real Python
+链接：http://gis4g.pku.edu.cn/simpy-simulating-real-world-processes-with-python-real-python/
+摘要：In this step-by-step tutorial, you&#8217 …
+
+标题：在 EV3 机器人中使用 Python 进行编程
+链接：http://gis4g.pku.edu.cn/%e5%9c%a8-ev3-%e6%9c%ba%e5%99%a8%e4%ba%ba%e4%b8%ad%e4%bd%bf%e7%94%a8-python-%e8%bf%9b%e8%a1%8c%e7%bc%96%e7%a8%8b/
+摘要：来源： 在 EV3 机器人中使用 Python 进行编程
+
+标题：Python Extension Packages for Windows – Christoph Gohlke
+链接：http://gis4g.pku.edu.cn/python-extension-packages-for-windows-christoph-gohlke/
+摘要：Windows安装许多需要编译底层库的Python包，麻烦。 这里有编译好的wh …
+
+标题：Panda3D | Open Source Framework for 3D Rendering & Games
+链接：http://gis4g.pku.edu.cn/panda3d-open-source-framework-for-3d-rendering-games/
+摘要：Panda3D is an open-source, cross-platfor …
+
+标题：python sort函数内部实现原理 – 焦国峰的随笔日记 – 博客园
+链接：http://gis4g.pku.edu.cn/python-sort%e5%87%bd%e6%95%b0%e5%86%85%e9%83%a8%e5%ae%9e%e7%8e%b0%e5%8e%9f%e7%90%86-%e7%84%a6%e5%9b%bd%e5%b3%b0%e7%9a%84%e9%9a%8f%e7%ac%94%e6%97%a5%e8%ae%b0-%e5%8d%9a%e5%ae%a2%e5%9b%ad/
+摘要：来源： python sort函数内部实现原理 – 焦国峰的随笔日记 …
+
+标题：Python内置方法的时间复杂度_Python_Jack Lee-CSDN博客
+链接：http://gis4g.pku.edu.cn/python%e5%86%85%e7%bd%ae%e6%96%b9%e6%b3%95%e7%9a%84%e6%97%b6%e9%97%b4%e5%a4%8d%e6%9d%82%e5%ba%a6_python_jack-lee-csdn%e5%8d%9a%e5%ae%a2/
+摘要：来源： Python内置方法的时间复杂度_Python_Jack Lee-CSD …
+
+标题：使用Python「秒开」100GB+数据 – 柚柚科技
+链接：http://gis4g.pku.edu.cn/%e4%bd%bf%e7%94%a8python%e3%80%8c%e7%a7%92%e5%bc%80%e3%80%8d100gb%e6%95%b0%e6%8d%ae-%e6%9f%9a%e6%9f%9a%e7%a7%91%e6%8a%80/
+摘要：https://github.com/vaexio/vaex   &n …
+
+标题：Pypi | 镜像站使用帮助 | 清华大学开源软件镜像站 | pip pip3 更换源
+链接：http://gis4g.pku.edu.cn/pypi-%e9%95%9c%e5%83%8f%e7%ab%99%e4%bd%bf%e7%94%a8%e5%b8%ae%e5%8a%a9-%e6%b8%85%e5%8d%8e%e5%a4%a7%e5%ad%a6%e5%bc%80%e6%ba%90%e8%bd%af%e4%bb%b6%e9%95%9c%e5%83%8f%e7%ab%99-pip-pip3-%e6%9b%b4/
+摘要：pip源更新。 来源： Pypi | 镜像站使用帮助 | 清华大学开源软件镜像站 …
+
+标题：ursina 一个采用python和panda3d开发的游戏引擎
+链接：http://gis4g.pku.edu.cn/ursina-%e4%b8%80%e4%b8%aa%e9%87%87%e7%94%a8python%e5%92%8cpanda3d%e5%bc%80%e5%8f%91%e7%9a%84%e6%b8%b8%e6%88%8f%e5%bc%95%e6%93%8e/
+摘要：ursina 一个采用python和panda3d开发的游戏引擎
+
+标题：
+链接：http://gis4g.pku.edu.cn/6144-2/
+摘要：ursina 一个采用python和panda3d开发的游戏引擎
+
+标题：“红芯”还没过劲儿“木兰”又来了 国产换皮何时了？ – CHINA 中国 – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e7%ba%a2%e8%8a%af%e8%bf%98%e6%b2%a1%e8%bf%87%e5%8a%b2%e5%84%bf%e6%9c%a8%e5%85%b0%e5%8f%88%e6%9d%a5%e4%ba%86-%e5%9b%bd%e4%ba%a7%e6%8d%a2%e7%9a%ae%e4%bd%95%e6%97%b6/
+摘要：昨天晚上，被称为“一款定位于面向智能物联应用、采用最新编程语言设计理念和编译技术 …
+
+标题：如何将Python turtle图片保存为文件
+链接：http://gis4g.pku.edu.cn/python-turtle-savefile/
+摘要：可以讲图形保存为eps格式的矢量图形文件，高清晰度！
+
+标题：Python turtle可以用的颜色名称
+链接：http://gis4g.pku.edu.cn/python-turtle-color-names/
+摘要：标准颜色定义：【点击前往】
+
+标题：课程：Python语言基础与应用
+链接：http://gis4g.pku.edu.cn/event/pylang/
+标题：Python代码运行的可视化
+链接：http://gis4g.pku.edu.cn/python-viz/
+标题：Python艺术编程节
+链接：http://gis4g.pku.edu.cn/event/python-art-festival/
+摘要：为推动Python 语言在中小学教育中的发展， 由北京大学附属中学主办，地小空开 …
+
+标题：micro:bit创意作品提交要求
+链接：http://gis4g.pku.edu.cn/microbit-artwork-2018/
+摘要：作品提交资料 创意作品Python源代码； 实习报告（DOCX格式+PDF格式） …
+
+标题：Python奇遇记：特殊方法窥探
+链接：http://gis4g.pku.edu.cn/python-magic-method-2/
+摘要：https://segmentfault.com/a/1190000012223 …
+
+标题：Python语言初学者容易踏入的一些坑
+链接：http://gis4g.pku.edu.cn/python-error/
+摘要：1、不注意缩进 Python语言对缩进要求很严格，能够帮助编程者避免很多逻辑错误 …
+
+标题：Python成为2017年最受欢迎的编程语言
+链接：http://gis4g.pku.edu.cn/python-2017/
+摘要：根据IEEE Spectrum研究报告显示，在2016年排名第三的Python在 …
+
+标题：可迭代对象 vs 迭代器 vs 生成器
+链接：http://gis4g.pku.edu.cn/python-iterable/
+摘要：原文出处： nvie   译文出处：nummy 在使用Python的过程中，很容 …
+
+标题：Matplotlib 教程
+链接：http://gis4g.pku.edu.cn/matplotlib/
+摘要：Matplotlib 教程 本文为译文，原文载于此，译文原载于此。本文欢迎转载， …
+
+标题：为了 1% 情形，牺牲 99% 情形下的性能:蜗牛般的 Python 深拷贝
+链接：http://gis4g.pku.edu.cn/python-deepcopy/
+摘要：为了 1% 情形，牺牲 99% 情形下的性能:蜗牛般的 Python 深拷贝 最 …
+
+标题：标记重捕法代码
+链接：http://gis4g.pku.edu.cn/mark-recapture-code/
+摘要：运行结果： 平均误差 0.11835359999999996
+
+标题：标记重捕法2
+链接：http://gis4g.pku.edu.cn/mark-recapture2/
+标题：标记重捕法
+链接：http://gis4g.pku.edu.cn/mark-recapture/
+标题：树莓派扩展板创意作品提交要求
+链接：http://gis4g.pku.edu.cn/rpi-artwork-2017/
+摘要：作品提交资料 创意作品源代码； 实习报告（DOCX格式）； 作品照片：10张以内 …
+
+标题：关于Python递归深度限制
+链接：http://gis4g.pku.edu.cn/python-recursive/
+摘要：本文简单讨论了Python的递归深度限制及如何设置Python的递归深度。 Ru …
+
+标题：十分钟入门Matplotlib
+链接：http://gis4g.pku.edu.cn/matplotlib-10-mins/
+摘要：8 个月前 编译3822 本文的原作者是 Jamal Moir，是 Python …
+
+标题：Python语言：首次上机练习
+链接：http://gis4g.pku.edu.cn/sessdsa-practice-2/
+摘要：为了让大家更快熟悉Python编程环境，请手动输入如下的程序，并运行成功！ 调试 …
+
+标题：Re: 关于数据结构与算法期末大作业的一些个人看法
+链接：http://gis4g.pku.edu.cn/sessdsa-about-teamwork/
+摘要：X同学你好！ 很高兴能收到你的看法，这样有机会能跟你聊下大作业背后的故事。 本来 …
+
+标题：一行 Python 实现并行化 — 日常多线程操作的新思路
+链接：http://gis4g.pku.edu.cn/python-map/
+摘要：Python 在程序并行化方面多少有些声名狼藉。撇开技术上的问题，例如线程的实现 …
+
+标题：Python3的切片__getitem__方法
+链接：http://gis4g.pku.edu.cn/python3-slice-getitem/
+摘要：__getitem__ Fib实例虽然能作用于for循环，看起来和list有点像 …
+
+标题：Python3的print如何才能不换行?
+链接：http://gis4g.pku.edu.cn/python-print/
+摘要：Python3里的print已经从Python2中的语句转变为函数，定义如下：  …
+
+标题：逻辑表达式样例
+链接：http://gis4g.pku.edu.cn/logical-exp/
+摘要：( True or False ) and True or False and  …
+
+标题：为什么shortBubbleSort反倒比BubbleSort慢？
+链接：http://gis4g.pku.edu.cn/shortbubble-slow/
+摘要：来自宋欣源同学的问题： 我试了一下排序算法，发现shortBubbleSort比 …
+
+标题：上机作业7的测试数据（动态规划）
+链接：http://gis4g.pku.edu.cn/homework5-1testdata/
+摘要：测试用数据，可以和py文件放在同一个文件夹下import使用 [01背包测试]  …
+
+标题：Python turtle海龟制图的onclick事件
+链接：http://gis4g.pku.edu.cn/python-turtle-onclick/
+标题：如何让海龟暴走？
+链接：http://gis4g.pku.edu.cn/python-turtle-tracer/
+摘要：Python turtle模块的海龟作图，由于需要展示海龟运动的过程，缺省状态下 …
+
+标题：汉诺塔动画
+链接：http://gis4g.pku.edu.cn/tower-of-hanoi-gif/
+标题：关于__getslice__(self, i, j)的说明
+链接：http://gis4g.pku.edu.cn/getslice_homework/
+摘要：Python2中自定义类的切片s[i:j]是通过特殊方法__getslice__ …
+
+标题：Python海龟制图中的文字
+链接：http://gis4g.pku.edu.cn/turtle-font/
+摘要：可以用海龟的write方法显示文字，代码如下： 要正确显示汉字，需要配置IDLE …
+
+标题：Python IDLE的subprocess socket error错误解决
+链接：http://gis4g.pku.edu.cn/python-idle%e7%9a%84subprocess-socket-error%e9%94%99%e8%af%af%e8%a7%a3%e5%86%b3/
+摘要：启动Python IDLE出现如下错误： 原因： 怀疑跟防火墙设置有关，可能屏蔽 …
+
+标题：关于切片方法__getslice__的附加说明
+链接：http://gis4g.pku.edu.cn/about_getslice/
+摘要：本题可以用__getslice__或__getitem__实现， __getsl …
+
+标题：HTML样例
+链接：http://gis4g.pku.edu.cn/python-html-test1/
+摘要：请把下面的代码拷贝到你的程序里，直接检验和匹配htmlstr的内容就好了。
+
+标题：“enqueue和dequeue复杂度均为O(1)”的队列实现
+链接：http://gis4g.pku.edu.cn/python-queue-o1/
+摘要：投稿：蔡天泊（1300018705）
+
+标题：可以实现任意进制之间转换的程序
+链接：http://gis4g.pku.edu.cn/python-base-conversion1/
+摘要：投稿：宋欣源（1400012408）
+
+标题：Python自省（反射）指南
+链接：http://gis4g.pku.edu.cn/python-reflection/
+摘要：有时候我们会碰到这样的需求，需要执行对象的某个方法，或是需要对对象的某个字段赋值，而方法名或是字段名在编码代码时并不能确定，需要通过参数传递字符串的形式输入。举个具体的例子：当我们需要实现一个通用的DBM框架时，可能需要对数据对象的字段赋值，但我们无法预知用到这个框架的数据对象都有些什么字段，换言之，我们在写框架的时候需要通过某种机制访问未知的属性。
+
+标题：Python 魔术方法指南
+链接：http://gis4g.pku.edu.cn/python-magic-method/
+摘要：此教程为我的数篇文章中的一个重点。主题是魔术方法。 什么是魔术方法?他们是面向对象的Python的一切。他们是可以给你的类增加”magic”的特殊方法。他们总是被双下划线所包围(e.g. __init__ 或者 __lt__)。然而他们的文档却远没有提供应该有的内容。Python中所有的魔术方法均在Python官方文档中有相应描述，但是对于他们的描述比较混乱而且组织比较松散。很难找到有一个例子(也许他们原本打算的很好，在开始语言参考中有描述很详细，然而随之而来的确是枯燥的语法描述等等)。
+
+标题：Python中__str__和__repr__的区别
+链接：http://gis4g.pku.edu.cn/difference-between-str-and-repr-in-python/
+摘要：原文：http://stackoverflow.com/questions/14 …
+
+标题：Python中is和==的区别
+链接：http://gis4g.pku.edu.cn/python-equal/
+摘要：原文：http://m.blog.csdn.net/blog/imzoer_11 …
+
+标题：python:单引号,双引号和三引号的区别
+链接：http://gis4g.pku.edu.cn/python-quote1/
+摘要：原文：http://www.cnpythoner.com/post/81.htm …
+
+标题：Python3.x和Python2.x的区别
+链接：http://gis4g.pku.edu.cn/python3-x%e5%92%8cpython2-x%e7%9a%84%e5%8c%ba%e5%88%ab/
+摘要：原文：http://fergusj.blog.51cto.com/8835051 …
+
+标题：关于Python的垃圾回收机制
+链接：http://gis4g.pku.edu.cn/python-garbage-collection1/
+摘要：原文：https://sites.google.com/site/aotuwor …
+
+
+######互联网######
+
+标题：不在伊朗 他们如何靠网上信息判定客机被击落? – Media 全球媒体 – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e4%b8%8d%e5%9c%a8%e4%bc%8a%e6%9c%97-%e4%bb%96%e4%bb%ac%e5%a6%82%e4%bd%95%e9%9d%a0%e7%bd%91%e4%b8%8a%e4%bf%a1%e6%81%af%e5%88%a4%e5%ae%9a%e5%ae%a2%e6%9c%ba%e8%a2%ab%e5%87%bb%e8%90%bd-media-%e5%85%a8/
+摘要：据国外媒体报道，在乌克兰航空公司PS752客机坠毁的调查中，开源情报帮助揭开了真 …
+
+标题：雅虎拟拍卖约3000件专利 预计价格超10亿美元
+链接：http://gis4g.pku.edu.cn/yahoo-auction-patent/
+摘要：北京时间6月8日消息，据《华尔街日报》网络版报道，消息人士透露，雅虎已着手拍卖约 …
+
+
+######人工智能######
+
+标题：[图]你愿意参与创建火星的首个地图数据集吗？NASA启动AI4Mars​项目 – 科学探索 – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e5%9b%be%e4%bd%a0%e6%84%bf%e6%84%8f%e5%8f%82%e4%b8%8e%e5%88%9b%e5%bb%ba%e7%81%ab%e6%98%9f%e7%9a%84%e9%a6%96%e4%b8%aa%e5%9c%b0%e5%9b%be%e6%95%b0%e6%8d%ae%e9%9b%86%e5%90%97%ef%bc%9fnasa%e5%90%af/
+摘要：火星是非常值得人类探索的地方，吸引着无数天文科学家和科学爱好者。但对于大多数普通 …
+
+标题：科学家研发智能工具 可使照片清晰60倍 – AI 人工智能 – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e7%a7%91%e5%ad%a6%e5%ae%b6%e7%a0%94%e5%8f%91%e6%99%ba%e8%83%bd%e5%b7%a5%e5%85%b7-%e5%8f%af%e4%bd%bf%e7%85%a7%e7%89%87%e6%b8%85%e6%99%b060%e5%80%8d-ai-%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd-cnbeta-c/
+摘要：杜克大学的研究人员开发了一种人工智能工具，可以将模糊、无法辨认的人脸照片转化为计 …
+
+标题：基因遗传算法
+链接：http://gis4g.pku.edu.cn/%e5%9f%ba%e5%9b%a0%e9%81%97%e4%bc%a0%e7%ae%97%e6%b3%95/
+摘要：  The personal website of software  …
+
+标题：Image evolution:基因遗传算法
+链接：http://gis4g.pku.edu.cn/image-evolution%e5%9f%ba%e5%9b%a0%e9%81%97%e4%bc%a0%e7%ae%97%e6%b3%95/
+摘要：来源： Image evolution
+
+标题：Google用AI设计AI芯片 不到24小时就能设计出Tensor处理单元 – Google 谷歌 – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/google%e7%94%a8ai%e8%ae%be%e8%ae%a1ai%e8%8a%af%e7%89%87-%e4%b8%8d%e5%88%b024%e5%b0%8f%e6%97%b6%e5%b0%b1%e8%83%bd%e8%ae%be%e8%ae%a1%e5%87%batensor%e5%a4%84%e7%90%86%e5%8d%95%e5%85%83-google-%e8%b0%b7/
+摘要：芯片按月甚至年计算的设计周期与AI算法按周甚至按天迭代的周期之前的矛盾越来越明显 …
+
+标题：AlphaStar被职业玩家戏耍：在星际2上，人工智能无计可施
+链接：http://gis4g.pku.edu.cn/alphastar%e8%a2%ab%e8%81%8c%e4%b8%9a%e7%8e%a9%e5%ae%b6%e6%88%8f%e8%80%8d%ef%bc%9a%e5%9c%a8%e6%98%9f%e9%99%852%e4%b8%8a%ef%bc%8c%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e6%97%a0%e8%ae%a1%e5%8f%af%e6%96%bd/
+摘要：今年 1 月，谷歌旗下人工智能科技公司 DeepMind 的「星际争霸 2」人工 …
+
+标题：DeepMind星际争霸AI登上Nature，超越99.8％活跃玩家，玩转三大种族 | 机器之心
+链接：http://gis4g.pku.edu.cn/deepmind%e6%98%9f%e9%99%85%e4%ba%89%e9%9c%b8ai%e7%99%bb%e4%b8%8anature%ef%bc%8c%e8%b6%85%e8%b6%8a99-8%ef%bc%85%e6%b4%bb%e8%b7%83%e7%8e%a9%e5%ae%b6%ef%bc%8c%e7%8e%a9%e8%bd%ac%e4%b8%89%e5%a4%a7%e7%a7%8d/
+摘要：来源： DeepMind星际争霸AI登上Nature，超越99.8％活跃玩家，玩 …
+
+标题：阿里AI协助法官30分钟完成互联网庭审 – Aliyun 阿里云 – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e9%98%bf%e9%87%8cai%e5%8d%8f%e5%8a%a9%e6%b3%95%e5%ae%9830%e5%88%86%e9%92%9f%e5%ae%8c%e6%88%90%e4%ba%92%e8%81%94%e7%bd%91%e5%ba%ad%e5%ae%a1-aliyun-%e9%98%bf%e9%87%8c%e4%ba%91-cnbeta-com/
+摘要：在杭州市上城区和下城区人民法院，庭审画面通常是这样的：法官一人坐镇法庭，原告被告 …
+
+标题：美总统竞选人Andrew Yang：即便是马斯克也将能每月拿到1000美元 – the United States 美国 – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e7%be%8e%e6%80%bb%e7%bb%9f%e7%ab%9e%e9%80%89%e4%ba%baandrew-yang%ef%bc%9a%e5%8d%b3%e4%be%bf%e6%98%af%e9%a9%ac%e6%96%af%e5%85%8b%e4%b9%9f%e5%b0%86%e8%83%bd%e6%af%8f%e6%9c%88%e6%8b%bf%e5%88%b01000/
+摘要：据外媒报道，以民主党身份竞选美国总统的科技企业家AndrewYang表示，如果自 …
+
+标题：空客称首次实现基于图像识别的全自动起飞 – IT 与交通 – 航空 – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e7%a9%ba%e5%ae%a2%e7%a7%b0%e9%a6%96%e6%ac%a1%e5%ae%9e%e7%8e%b0%e5%9f%ba%e4%ba%8e%e5%9b%be%e5%83%8f%e8%af%86%e5%88%ab%e7%9a%84%e5%85%a8%e8%87%aa%e5%8a%a8%e8%b5%b7%e9%a3%9e-it-%e4%b8%8e%e4%ba%a4/
+摘要：欧洲空中客车公司16日发布新闻公告称，去年12月在法国图卢兹机场用一架空客测试飞 …
+
+标题：“红芯”还没过劲儿“木兰”又来了 国产换皮何时了？ – CHINA 中国 – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e7%ba%a2%e8%8a%af%e8%bf%98%e6%b2%a1%e8%bf%87%e5%8a%b2%e5%84%bf%e6%9c%a8%e5%85%b0%e5%8f%88%e6%9d%a5%e4%ba%86-%e5%9b%bd%e4%ba%a7%e6%8d%a2%e7%9a%ae%e4%bd%95%e6%97%b6/
+摘要：昨天晚上，被称为“一款定位于面向智能物联应用、采用最新编程语言设计理念和编译技术 …
+
+标题：不在伊朗 他们如何靠网上信息判定客机被击落? – Media 全球媒体 – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e4%b8%8d%e5%9c%a8%e4%bc%8a%e6%9c%97-%e4%bb%96%e4%bb%ac%e5%a6%82%e4%bd%95%e9%9d%a0%e7%bd%91%e4%b8%8a%e4%bf%a1%e6%81%af%e5%88%a4%e5%ae%9a%e5%ae%a2%e6%9c%ba%e8%a2%ab%e5%87%bb%e8%90%bd-media-%e5%85%a8/
+摘要：据国外媒体报道，在乌克兰航空公司PS752客机坠毁的调查中，开源情报帮助揭开了真 …
+
+标题：科学家用青蛙活细胞制成微型生物机器人 – 科学探索 – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e7%a7%91%e5%ad%a6%e5%ae%b6%e7%94%a8%e9%9d%92%e8%9b%99%e6%b4%bb%e7%bb%86%e8%83%9e%e5%88%b6%e6%88%90%e5%be%ae%e5%9e%8b%e7%94%9f%e7%89%a9%e6%9c%ba%e5%99%a8%e4%ba%ba-%e7%a7%91%e5%ad%a6%e6%8e%a2/
+摘要：在超级计算机的帮助下，佛蒙特大学和塔夫茨大学的研究人员们，利用青蛙的皮肤和心脏细 …
+
+标题：[视频]科学家利用超级计算机设计了可编程的新机器生物 – 科学探索 – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e8%a7%86%e9%a2%91%e7%a7%91%e5%ad%a6%e5%ae%b6%e5%88%a9%e7%94%a8%e8%b6%85%e7%ba%a7%e8%ae%a1%e7%ae%97%e6%9c%ba%e8%ae%be%e8%ae%a1%e4%ba%86%e5%8f%af%e7%bc%96%e7%a8%8b%e7%9a%84%e6%96%b0%e6%9c%ba%e5%99%a8/
+摘要：尽管机器人已经变得更加智能，在外观上也更接近人类，但它们距离真正意义上的“活着” …
+
+标题：谷歌AI模型胜过气象预测传统方法 – Google 谷歌 – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e8%b0%b7%e6%ad%8cai%e6%a8%a1%e5%9e%8b%e8%83%9c%e8%bf%87%e6%b0%94%e8%b1%a1%e9%a2%84%e6%b5%8b%e4%bc%a0%e7%bb%9f%e6%96%b9%e6%b3%95-google-%e8%b0%b7%e6%ad%8c-cnbeta-com/
+摘要：据外媒报道，几周前，谷歌人工智能(AI)使用了一个机器学习模型来改进对乳腺癌的筛 …
+
+标题：新AI系统可通过无创ECG数据追踪人体血糖水平 – AI 人工智能 – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e6%96%b0ai%e7%b3%bb%e7%bb%9f%e5%8f%af%e9%80%9a%e8%bf%87%e6%97%a0%e5%88%9becg%e6%95%b0%e6%8d%ae%e8%bf%bd%e8%b8%aa%e4%ba%ba%e4%bd%93%e8%a1%80%e7%b3%96%e6%b0%b4%e5%b9%b3-ai-%e4%ba%ba%e5%b7%a5%e6%99%ba/
+摘要：据外媒报道，数十年来，无创血糖监测器一直是医学诊断设备研发领域的圣杯之一。从腕表 …
+
+标题：政府、企业、学界联合发力向Deepfake宣战 – AI 人工智能 – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e6%94%bf%e5%ba%9c%e3%80%81%e4%bc%81%e4%b8%9a%e3%80%81%e5%ad%a6%e7%95%8c%e8%81%94%e5%90%88%e5%8f%91%e5%8a%9b%e5%90%91deepfake%e5%ae%a3%e6%88%98-ai-%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd-cnbeta-com/
+摘要：Deepfakes，这一AI领域的“大毒瘤”，正在引起越来越多来自行业的反击。当 …
+
+标题：微软披露“口述绘图”AI机器人研究的最新进展
+链接：http://gis4g.pku.edu.cn/ms-drawing-bot/
+摘要：微软相信 2018 会是“人工智能之年”，并且投资了多个 AI 项目，比如几天前 …
+
+标题：专家：人工智能将彻底颠覆传统人口问题
+链接：http://gis4g.pku.edu.cn/ai-population/
+摘要：人口学界一度被“低生育率陷阱”所困扰。“低生育率陷阱”理论是由荷兰人口学家 Lu …
+
+标题：Intel搞定神经拟态芯片：模拟人类大脑、自主学习
+链接：http://gis4g.pku.edu.cn/intel-loihi/
+摘要：除了49量子比特超到量子测试芯片，Intel还拿出了另外一款革命性的芯片，用于神 …
+
+标题：IBM称构建50量子比特量子计算处理器：计算能力惊人
+链接：http://gis4g.pku.edu.cn/ibm-quantum-50bits/
+摘要：11月17日消息，IBM发布消息称已经构建成功50量子比特的量子计算处理器的样机 …
+
+标题：IBM研发AI可预测化学反应结果
+链接：http://gis4g.pku.edu.cn/ibm-ai-chemstry/
+摘要：将原子视为字母分子视为单词，IBM 的 AI 软件利用翻译语言的方法去预测有机化 …
+
+标题：设计师要失业？阿里AI“鲁班”上岗：每秒做8000张海报
+链接：http://gis4g.pku.edu.cn/luban-ai/
+摘要：我们打开手机淘宝，几乎每次都是不一样的，其实这都是一个名叫“鲁班”的人工智能完成 …
+
+标题：柯洁回应新版本AlphaGo问世：人类太多余了
+链接：http://gis4g.pku.edu.cn/alphago-zero/
+摘要：DeepMind今天发布了一款新版本的AlphaGo程序，经过三天的训练，该系统 …
+
+标题：令人恐惧：AI发展出了自己的语言 人类无法理解
+链接：http://gis4g.pku.edu.cn/ai-language/
+摘要：Facebook在实验中让两个AI聊天机器人互相对话，发现机器人竟逐渐发展出人类 …
+
+标题：David Silver：新版AlphaGo不需要依赖外界导师
+链接：http://gis4g.pku.edu.cn/alphago-evolution/
+摘要：http://sports.sina.com.cn/go/2017-05-25/ …
+
+标题：AlphaGo之父：AI能帮助人类在理解世界上取得巨大突破
+链接：http://gis4g.pku.edu.cn/ai-understand-world/
+摘要：北京时间4月23日消息，谷歌旗下人工智能研究部门DeepMind联合创始人兼CE …
+
+标题：谷歌推出真正2.0版本AlphaGo 摈弃人类棋谱
+链接：http://gis4g.pku.edu.cn/alphago-2-0/
+摘要：1月26日消息，谷歌Deep Mind公司CEO哈萨比斯在17日出席德国慕尼黑举 …
+
+标题：IBM深度布局医药产业 Watson系统首入中国
+链接：http://gis4g.pku.edu.cn/watson-health/
+摘要：8月11日，IBM宣布其将于合作伙伴杭州认知网络科技有限公司一起，在中国推广基于 …
+
+标题：交通堵塞怎么办 交给无人驾驶去解决
+链接：http://gis4g.pku.edu.cn/robot-driver/
+摘要：一提到交通拥堵的原因，除了道路规划不合理、上下班车流量大之外，不遵守交通规则的司 …
+
+标题：AlphaGo后台数据首次公开 免费网站8月中旬将面世
+链接：http://gis4g.pku.edu.cn/alphago-opensource/
+摘要：俄罗斯时间7月25日下午6点(北京时间11：00pm)，谷歌旗下DeepMind …
+
+标题：机器人世界杯落下帷幕 德国队凭点球大战夺冠
+链接：http://gis4g.pku.edu.cn/robocup-2016/
+摘要：据科技网站TechRadar报道，今夏，欧洲杯战火重燃，机器人们也没闲着，201 …
+
+标题：深度学习用途广：Nvidia工程师机智赶跑草坪上撒野的邻家喵星人
+链接：http://gis4g.pku.edu.cn/nvidia-jetson-cat-detector/
+摘要：铲屎并不是一件轻松的差事，尤其是邻居家的喵星人隔三差五地到你家草坪上“撒野”的情 …
+
+标题：超人类主义：将大脑上传电脑获得永生
+链接：http://gis4g.pku.edu.cn/transhumanism/
+摘要：据英国每日邮报报道，人们可能一直都梦想着突破身体的限制：疼痛、疾病以及死亡。而现 …
+
+标题：[图+视频]艺术家打造出一台违反阿西莫夫第一法则的机器人
+链接：http://gis4g.pku.edu.cn/robot-rules-art/
+摘要：在《2001太空漫游》这部科幻作品中，太空飞船上的人工智能电脑哈尔 9000 变 …
+
+标题：刘谦们的福音？电脑将帮助魔术师设计新节目
+链接：http://gis4g.pku.edu.cn/ai-magic-art/
+摘要：北京时间6月11日消息，据科技网站TechRadar报道，说到电脑对工作的助力作 …
+
+标题：特斯拉车主福利：MIT愿意花1000美元看你开车
+链接：http://gis4g.pku.edu.cn/mit-agelab-tesla-data/
+摘要：据科技网站DigitalTrends报道，新技术和文化在以前所未有的速度向前发展 …
+
+标题：马斯克：我们可能生活在高端版本的《模拟人生》里
+链接：http://gis4g.pku.edu.cn/musk-virtual-world/
+摘要：如果你买不起特斯拉，也不要觉得懊恼，因为我们很可能都生活在一个模拟现实世界中。特 …
+
+标题：樊麾：接受AI的过程很痛苦 但早就不委屈了
+链接：http://gis4g.pku.edu.cn/fanhui-ai/
+摘要：李世石与AlphaGo比赛结束的当天，樊麾和其他DeepMind团队的成员一起站 …
+
+标题：《人类简史》作者：人工智能将催生“无用阶层”
+链接：http://gis4g.pku.edu.cn/useless-mankind/
+摘要：《人类简史》的作者、历史学家尤瓦尔·赫拉利(Yuval Harari)对人类的未 …
+
+标题：IBM类脑超算平台TrueNorth芯片将于本周送往劳伦斯利弗莫尔
+链接：http://gis4g.pku.edu.cn/llnl-truenorth/
+摘要：过去，我们经常听到把芯片当做是计算机的“电子大脑”的说法。不过劳伦斯·利弗莫尔国 …
+
+标题：美科学家制造出最简单的人造合成细胞
+链接：http://gis4g.pku.edu.cn/artificial-cell/
+摘要：美国科学家24日宣布设计并制造出最简单的人造合成细胞，其基因组是迄今已知最小的基 …
+
+标题：AlphaGo最终局战胜李世石 人机大战总比分4:1
+链接：http://gis4g.pku.edu.cn/alphago-lee-sedol/
+摘要：谷歌围棋人工智能AlphaGo今天与韩国棋手李世石进行最后一轮较量，AlphaG …
+
+标题：《Minecraft》游戏被微软用于训练人工智能
+链接：http://gis4g.pku.edu.cn/minecraft-ai/
+摘要：报道称，微软的研究人员正在最新的AIX平台上实现将《我的世界》沙盒游戏机制应用至 …
+
+标题：谷歌人工智能围棋程序AlphaGo战胜李世石
+链接：http://gis4g.pku.edu.cn/alphago/
+摘要：今天下午谷歌人工智能AlphaGo与韩国棋手李世石的第一场比赛结束，AlphaG …
+
+标题：谷歌深度学习程序PlaNet可自主识别照片地理位置
+链接：http://gis4g.pku.edu.cn/planet-google/
+摘要：谷歌最新的深度学习程序可以通过照片的内容判断拍摄地点。谷歌这个名为PlaNet的 …
+
+标题：谷歌机器学习获重大突破 围棋程序将大战李世石
+链接：http://gis4g.pku.edu.cn/alpha-go/
+摘要：1月28日上午消息，谷歌今日召开全球电话会议，旗下Deep MInd创始人戴密斯 …
+
+
+######人机交互######
+
+标题：还在用跑步轨迹刷朋友圈？他的记录方法绝对亮瞎_体育_腾讯网
+链接：http://gis4g.pku.edu.cn/%e8%bf%98%e5%9c%a8%e7%94%a8%e8%b7%91%e6%ad%a5%e8%bd%a8%e8%bf%b9%e5%88%b7%e6%9c%8b%e5%8f%8b%e5%9c%88%ef%bc%9f%e4%bb%96%e7%9a%84%e8%ae%b0%e5%bd%95%e6%96%b9%e6%b3%95%e7%bb%9d%e5%af%b9%e4%ba%ae%e7%9e%8e_/
+摘要：来源： 还在用跑步轨迹刷朋友圈？他的记录方法绝对亮瞎_体育_腾讯网
+
+标题：[图]Wireality：用弹性绳连接的指套让你“触碰”到VR物体 – VR / AR / 3D / IMAX – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e5%9b%bewireality%ef%bc%9a%e7%94%a8%e5%bc%b9%e6%80%a7%e7%bb%b3%e8%bf%9e%e6%8e%a5%e7%9a%84%e6%8c%87%e5%a5%97%e8%ae%a9%e4%bd%a0%e8%a7%a6%e7%a2%b0%e5%88%b0vr%e7%89%a9%e4%bd%93-vr/
+摘要：来自卡内基·梅隆大学未来界面小组的科研团队近日想出了一种新奇的方法，能够让VR用 …
+
+标题：Emoji、漫画和小说的未来
+链接：http://gis4g.pku.edu.cn/emoji%e3%80%81%e6%bc%ab%e7%94%bb%e5%92%8c%e5%b0%8f%e8%af%b4%e7%9a%84%e6%9c%aa%e6%9d%a5/
+摘要：作者：Ringo，作者：Tim Peters 译者：林沁 原文：https:// …
+
+标题：[图]奥迪推出VR看车 内部零件统统看得一清二楚
+链接：http://gis4g.pku.edu.cn/audi-vr/
+摘要：VR正在渗入各行各业，而不仅仅是作为个人玩家的娱乐设备。在上月的Audi Spo …
+
+标题：眼控家居亮相：用虚拟现实眼镜开电脑
+链接：http://gis4g.pku.edu.cn/vr-glass-hci/
+摘要：像霍金那样用眼睛安排生活？在昨日闭幕的第十一届中国国际养老、辅具及康复医疗博览会 …
+
+标题：联想发布首款Project Tango AR手机 – Phab2 Pro
+链接：http://gis4g.pku.edu.cn/tango-phab2-pro/
+摘要：在刚刚开始的Tech World大会上，联想和Google合作的全球第一款使用P …
+
+标题：[视频]Osmo Coding智能玩具：能让孩子学习编码的电子版乐高
+链接：http://gis4g.pku.edu.cn/osmo-coding-lego/
+摘要：教育游戏公司Osmo的主要产品是一款iPad 配件，基于“反射人工智能”技术，并 …
+
+标题：VR体感游戏Draw Your Blade让你随意画出武器
+链接：http://gis4g.pku.edu.cn/vr-game-draw-blade/
+摘要：HTC Vive虚拟现实设备中的体感控制为开发者们提供了许多创造可能，现在出现了 …
+
+标题：谷歌AnyPixel.js – 可令用户自己创造交互展示
+链接：http://gis4g.pku.edu.cn/anypixel-js/
+摘要：谷歌创造了一款新的开源软件AnyPixel.js，使得任何人都可以创造自己的大型 …
+
+标题：谷歌：市面上所有Android手机都达不到VR标准
+链接：http://gis4g.pku.edu.cn/daydream-vr/
+摘要：谷歌那极富野心的 Daydream VR 平台旨在将安卓的软件和硬件结合起来，打 …
+
+标题：[图]大学课堂上竟然可以发弹幕 段子表情包刷屏
+链接：http://gis4g.pku.edu.cn/new-media-classroom/
+摘要：“不能好好上课了哈哈哈哈哈哈哈哈！” 提到弹幕，很多人还认为只存在二次元网络世界 …
+
+标题：美国自行车团队正在用这款AR眼镜进行训练
+链接：http://gis4g.pku.edu.cn/ar-bicycle-racing/
+摘要：当美国自行车团队今年夏季参加里约奥运会的时候，他们将会拥有一个王牌– …
+
+标题：E Ink公布全彩色电子纸显示技术Advanced Color Paper
+链接：http://gis4g.pku.edu.cn/e-ink-color-acp/
+摘要：E Ink公司正式公布首个全彩色电子纸显示技术Advanced Color Pa …
+
+标题：便携式空调Noria实现想装哪就装哪
+链接：http://gis4g.pku.edu.cn/noria-air-condition/
+摘要：随着温度的攀升，空调自然是现代生活居家必备之物。空调的分类不外乎挂式、柜式、中央 …
+
+标题：eBay建首个虚拟现实百货商店
+链接：http://gis4g.pku.edu.cn/ebay-vr-shopping/
+摘要：近期美国在线零售商eBay宣布与澳大利亚零售商Myer合作推出首个虚拟现实百货商 …
+
+标题：[视频]谷歌Android创意实验项目精选：3D控制器
+链接：http://gis4g.pku.edu.cn/3d-controller-android/
+摘要：在Google成为Alphabet的子公司后，它又推出Android Exper …
+
+标题：虚拟现实的新用处：能帮每个人实现音乐梦
+链接：http://gis4g.pku.edu.cn/vr-musical-instrument/
+摘要：据外媒报道，说起VR技术，大家都会不自觉的想到游戏，但其实它的应用范围相当广，上 …
+
+标题：把微观世界呈现在你眼前 化学领域将用VR眼镜研究分子结构
+链接：http://gis4g.pku.edu.cn/vr-chemistry/
+摘要：科幻电影为人们展示的未来场景大多是背包飞行器、飞行汽车、隐身衣、心灵遥感等，这些 …
+
+标题：三星申请手势识别专利 双手凌空操作Gear VR
+链接：http://gis4g.pku.edu.cn/gear-vr-ui/
+摘要：根据美国专利局发布的一项三星的专利申请，三星为旗下移动虚拟现实头显Gear VR …
+
+标题：MobileFusion可将手机变身为一台3D扫描仪
+链接：http://gis4g.pku.edu.cn/mobilefusion/
+摘要：你有没有想过用手机来拍摄3D图像？微软研究院的MobileFusion项目或者可 …
+
+标题：Gloveone虚拟现实手套:你想摸什么就摸到什么
+链接：http://gis4g.pku.edu.cn/gloveone/
+摘要：虚拟现实设备时下非常火热，继虚拟现实头盔之后，人们开始研发虚拟现实手套。虚拟现实 …
+
+
+######全球变化######
+
+标题：木本植物的传播凸显了气候变化对环境的深远影响 – 科学探索 – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e6%9c%a8%e6%9c%ac%e6%a4%8d%e7%89%a9%e7%9a%84%e4%bc%a0%e6%92%ad%e5%87%b8%e6%98%be%e4%ba%86%e6%b0%94%e5%80%99%e5%8f%98%e5%8c%96%e5%af%b9%e7%8e%af%e5%a2%83%e7%9a%84%e6%b7%b1%e8%bf%9c%e5%bd%b1%e5%93%8d/
+摘要：据外媒NewAtlas报道，随着气候继续变暖，从大堡礁的“死亡事件”到喜马拉雅山 …
+
+标题：能“吃掉”塑料的毛毛虫未来有望被用于垃圾填埋场 – 科学探索 – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e8%83%bd%e5%90%83%e6%8e%89%e5%a1%91%e6%96%99%e7%9a%84%e6%af%9b%e6%af%9b%e8%99%ab%e6%9c%aa%e6%9d%a5%e6%9c%89%e6%9c%9b%e8%a2%ab%e7%94%a8%e4%ba%8e%e5%9e%83%e5%9c%be%e5%a1%ab%e5%9f%8b/
+摘要：来源： 能“吃掉”塑料的毛毛虫未来有望被用于垃圾填埋场 – 科学探索 …
+
+标题：澳大利亚首都地区因山火宣布进入紧急状态 – 警告! – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e6%be%b3%e5%a4%a7%e5%88%a9%e4%ba%9a%e9%a6%96%e9%83%bd%e5%9c%b0%e5%8c%ba%e5%9b%a0%e5%b1%b1%e7%81%ab%e5%ae%a3%e5%b8%83%e8%bf%9b%e5%85%a5%e7%b4%a7%e6%80%a5%e7%8a%b6%e6%80%81-%e8%ad%a6%e5%91%8a-cnbe/
+摘要：北京时间31日消息，澳大利亚政府周五宣布首都堪培拉及周边地区进入紧急状态，因为高 …
+
+标题：欧洲议会表决通过“脱欧”协议 为英国脱欧铺平道路 – Europe 欧洲 – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e6%ac%a7%e6%b4%b2%e8%ae%ae%e4%bc%9a%e8%a1%a8%e5%86%b3%e9%80%9a%e8%bf%87%e8%84%b1%e6%ac%a7%e5%8d%8f%e8%ae%ae-%e4%b8%ba%e8%8b%b1%e5%9b%bd%e8%84%b1%e6%ac%a7%e9%93%ba%e5%b9%b3%e9%81%93/
+摘要：欧洲议会批准英国首相鲍里斯·约翰逊的英国脱欧协议，为英国于1月31日有协议离开欧 …
+
+标题：法媒：今后30年 气候变暖将严重冲击社会经济 – 警告! – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e6%b3%95%e5%aa%92%ef%bc%9a%e4%bb%8a%e5%90%8e30%e5%b9%b4-%e6%b0%94%e5%80%99%e5%8f%98%e6%9a%96%e5%b0%86%e4%b8%a5%e9%87%8d%e5%86%b2%e5%87%bb%e7%a4%be%e4%bc%9a%e7%bb%8f%e6%b5%8e-%e8%ad%a6%e5%91%8a-c/
+摘要：麦肯锡咨询公司担心，气候变暖对投资者资产施加的压力可能会在全球范围内很快变得无法 …
+
+标题：BBC纪录片大全_最新美剧下载 | 纪录片之家
+链接：http://gis4g.pku.edu.cn/bbc%e7%ba%aa%e5%bd%95%e7%89%87%e5%a4%a7%e5%85%a8_%e6%9c%80%e6%96%b0%e7%be%8e%e5%89%a7%e4%b8%8b%e8%bd%bd-%e7%ba%aa%e5%bd%95%e7%89%87%e4%b9%8b%e5%ae%b6/
+摘要：来源： BBC纪录片大全_最新美剧下载 | 纪录片之家
+
+标题：盗火纪录片 – 全球纪录片数据库 – 纪录片下载
+链接：http://gis4g.pku.edu.cn/%e7%9b%97%e7%81%ab%e7%ba%aa%e5%bd%95%e7%89%87-%e5%85%a8%e7%90%83%e7%ba%aa%e5%bd%95%e7%89%87%e6%95%b0%e6%8d%ae%e5%ba%93-%e7%ba%aa%e5%bd%95%e7%89%87%e4%b8%8b%e8%bd%bd/
+摘要：来源： 盗火纪录片 – 全球纪录片数据库 – 纪录片下载
+
+标题：[图]宇航员晒澳洲大火太空俯拍图 直言从未见过如此恐怖的大火 – 硬件 – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e5%9b%be%e5%ae%87%e8%88%aa%e5%91%98%e6%99%92%e6%be%b3%e6%b4%b2%e5%a4%a7%e7%81%ab%e5%a4%aa%e7%a9%ba%e4%bf%af%e6%8b%8d%e5%9b%be-%e7%9b%b4%e8%a8%80%e4%bb%8e%e6%9c%aa%e8%a7%81%e8%bf%87%e5%a6%82/
+摘要：澳大利亚的森林大火不断传来坏消息：林火没有减弱的势头，反而在强风的助长下再次加剧 …
+
+标题：研究：海洋温度达到有记录以来最高水平 – 警告! – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e7%a0%94%e7%a9%b6%ef%bc%9a%e6%b5%b7%e6%b4%8b%e6%b8%a9%e5%ba%a6%e8%be%be%e5%88%b0%e6%9c%89%e8%ae%b0%e5%bd%95%e4%bb%a5%e6%9d%a5%e6%9c%80%e9%ab%98%e6%b0%b4%e5%b9%b3-%e8%ad%a6%e5%91%8a-cnbeta-com/
+摘要：据外媒报道，气候变化所带来的一些后果是显而易见的，比如目前肆虐澳大利亚的森林大火 …
+
+标题：大湖纷纷干涸 蓝藻爆发威胁200万人饮水
+链接：http://gis4g.pku.edu.cn/lake-dry-up/
+摘要：气候变暖、干旱和过度开发正使得地球上一些重要的水源地日渐干涸，生物栖息地和人类文 …
+
+标题：2016年全球二氧化碳浓度达到403ppm以上 创过去300万年来新高
+链接：http://gis4g.pku.edu.cn/co2-2016/
+摘要：尽管与燃烧化石燃料有关的法规和指南越来越多，以及包括太阳能和风力发电在内的绿色技 …
+
+标题：[视频]建个房屋等一年？交给这个公司10分钟就办好
+链接：http://gis4g.pku.edu.cn/mobile-house/
+摘要：根据国外媒体消息，英国的 Ten Fold Engineering 公司开发了一 …
+
+标题：史前大暖化
+链接：http://gis4g.pku.edu.cn/petm-warming/
+摘要：5600萬年前，全球上演了最劇烈的氣候升溫，現在我們又面臨了劇烈的全球暖化，史上 …
+
+标题：西伯利亚千米巨坑持续扩大 居民：地狱之门
+链接：http://gis4g.pku.edu.cn/siberia-batagaika-chasm/
+摘要：在俄罗斯亚纳河盆地附近广阔的永久冻土地区，有一个直径千米的神秘巨坑）——“巴塔盖 …
+
+标题：澳大利亚研发沙漠蕃茄 只需海水阳光便可种植
+链接：http://gis4g.pku.edu.cn/desert-farm/
+摘要：缺乏充足的饮用水与粮食，是人口快速成长的地球未来必须面对的重要课题。台湾“中时电 …
+
+标题：研究：全球变暖始于工业革命 人类180年前开始影响气候
+链接：http://gis4g.pku.edu.cn/global-warming-industry/
+摘要：由人类的各种行为所导致的气候变化已不算是什么新现象，不过对于气候变化究竟始于何时 …
+
+标题：北极在今年可能就会无冰 近十万年来首次
+链接：http://gis4g.pku.edu.cn/polar-ice-disappear/
+摘要：据俄罗斯“卫星”新闻网6月5日消息，剑桥大学教授彼得•沃德汉姆斯得出结论称，北极 …
+
+
+######农业######
+
+标题：法媒：今后30年 气候变暖将严重冲击社会经济 – 警告! – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e6%b3%95%e5%aa%92%ef%bc%9a%e4%bb%8a%e5%90%8e30%e5%b9%b4-%e6%b0%94%e5%80%99%e5%8f%98%e6%9a%96%e5%b0%86%e4%b8%a5%e9%87%8d%e5%86%b2%e5%87%bb%e7%a4%be%e4%bc%9a%e7%bb%8f%e6%b5%8e-%e8%ad%a6%e5%91%8a-c/
+摘要：麦肯锡咨询公司担心，气候变暖对投资者资产施加的压力可能会在全球范围内很快变得无法 …
+
+标题：大湖纷纷干涸 蓝藻爆发威胁200万人饮水
+链接：http://gis4g.pku.edu.cn/lake-dry-up/
+摘要：气候变暖、干旱和过度开发正使得地球上一些重要的水源地日渐干涸，生物栖息地和人类文 …
+
+标题：[图]Neom：沙特阿拉伯5000亿美元的超高科技未来大都市
+链接：http://gis4g.pku.edu.cn/neom/
+摘要：据外媒报道，沙特阿拉伯正在寻求一个后石油的未来，将5000亿美元用于一个名为Ne …
+
+标题：[视频]建个房屋等一年？交给这个公司10分钟就办好
+链接：http://gis4g.pku.edu.cn/mobile-house/
+摘要：根据国外媒体消息，英国的 Ten Fold Engineering 公司开发了一 …
+
+标题：“弹丸小国”荷兰农业技术先进得可怕 中美都得佩服
+链接：http://gis4g.pku.edu.cn/agri-holand/
+摘要：2017年09月16日 07:11 4052 次阅读 稿源：网易科学人 13 条 …
+
+标题：澳大利亚研发沙漠蕃茄 只需海水阳光便可种植
+链接：http://gis4g.pku.edu.cn/desert-farm/
+摘要：缺乏充足的饮用水与粮食，是人口快速成长的地球未来必须面对的重要课题。台湾“中时电 …
+
+标题：新研究成果让未来农业离我们又近了一步
+链接：http://gis4g.pku.edu.cn/aerofarms/
+摘要：如今，地球的人口数仍以每年 8000 万的量飞速增长。新增人口需要食物，这让农耕 …
+
+标题：无人机高速播种堪比向土壤中射子弹
+链接：http://gis4g.pku.edu.cn/drone-seed/
+摘要：据美国财经网站MarketWatch 6月16日报道，位于美国俄勒冈州西北部城镇 …
+
+
+######创新创业######
+
+标题：[视频]建个房屋等一年？交给这个公司10分钟就办好
+链接：http://gis4g.pku.edu.cn/mobile-house/
+摘要：根据国外媒体消息，英国的 Ten Fold Engineering 公司开发了一 …
+
+标题：迪士尼创业加速器新增9个企业：涵盖机器人、人工智能以及VR电影
+链接：http://gis4g.pku.edu.cn/disney-accelerate/
+摘要：自 2014 年起，迪士尼集团的创业加速器项目正式开启，发展到今天，已经是第三年 …
+
+标题：[图]时代终结 – 北京海龙电子城停业
+链接：http://gis4g.pku.edu.cn/hailong-closed/
+摘要：北京的DIY玩家应该对海龙电子城不太陌生，从今天开始，它将彻底成为历史。据北京青 …
+
+标题：海龙大厦今日清空做孵化器 但有卖家说要做钉子户
+链接：http://gis4g.pku.edu.cn/hailong-17-years/
+摘要：2016年7月7日，北京中关村海龙大厦里的大部分卖家收到了最后通牒：海龙大厦将被 …
+
+标题：[人物]那些未曾毕业的科技大佬们
+链接：http://gis4g.pku.edu.cn/vip-give-up-academic/
+摘要：又是一年毕业季，本是快乐的，然而科技界的一些大佬们也许正默默的郁闷着，原因很简单 …
+
+
+######区块链######
+
+标题：A virtual blockchain world
+链接：http://gis4g.pku.edu.cn/a-virtual-blockchain-world/
+摘要：来源： A virtual blockchain world
+
+标题：Decentraland
+链接：http://gis4g.pku.edu.cn/decentraland/
+摘要：来源： Decentraland
+
+标题：Blockchain 开源 Thunder 为实时比特币交易做铺垫
+链接：http://gis4g.pku.edu.cn/blockchain-thunder/
+摘要：感谢开源派的投递 BlockChain 是世界上最流行的比特币钱包背后的公司，正 …
+
+
+######单片机######
+
+标题：USB串口驱动下载：CP2104，CP210x
+链接：http://gis4g.pku.edu.cn/usb%e4%b8%b2%e5%8f%a3%e9%a9%b1%e5%8a%a8%e4%b8%8b%e8%bd%bd%ef%bc%9acp2104%ef%bc%8ccp210x/
+摘要：The CP210x USB to UART Bridge Virtual CO …
+
+标题：BPI-Bit STEAM 教育开发板 – Banana Pi Wiki
+链接：http://gis4g.pku.edu.cn/bpi-bit-steam-%e6%95%99%e8%82%b2%e5%bc%80%e5%8f%91%e6%9d%bf-banana-pi-wiki/
+摘要：来源： BPI-Bit STEAM 教育开发板 – Banana P …
+
+标题：micro:bit创意作品提交要求
+链接：http://gis4g.pku.edu.cn/microbit-artwork-2018/
+摘要：作品提交资料 创意作品Python源代码； 实习报告（DOCX格式+PDF格式） …
+
+标题：研究人员展示室内激光无线充电新技术
+链接：http://gis4g.pku.edu.cn/charge-using-laser/
+摘要：蓝牙和 Wi-Fi 已经让人们享受了多年的便利，但是无线充电技术却一直在充电功率 …
+
+标题：RS-485总线布线规则及方法
+链接：http://gis4g.pku.edu.cn/rs485-bus/
+摘要：摘要：本文阐述了RS-485双向串行总线的特点、RS-485总线在实际应用中的布 …
+
+标题：关于RS485总线通信协议开发注意事项
+链接：http://gis4g.pku.edu.cn/rs485-program/
+摘要：1       前言 近段时间发现我们系统在进行设备组态时，采用的串口复用方式在 …
+
+标题：UART通信可否只接VCC、RXD、TXD而不接GND？
+链接：http://gis4g.pku.edu.cn/uart-cable/
+摘要：假设有两款5V单片机，独立供电。按理，连接好RXD、TXD、GND是可以通信的。 …
+
+标题：TTL和RS232之间的详细对比
+链接：http://gis4g.pku.edu.cn/ttl-rs232/
+摘要：【背景】 之前就听过TTL，一直没搞懂其和RS232的区别。 最近，打算去买个U …
+
+标题：薄荷糖盒改造的树莓派模拟掌机mintyPi 2.0
+链接：http://gis4g.pku.edu.cn/mintypi2/
+摘要：改造大神sudomod利用Raspberry Pi Zero W套件，将Alto …
+
+标题：树莓派扩展板创意作品提交要求
+链接：http://gis4g.pku.edu.cn/rpi-artwork-2017/
+摘要：作品提交资料 创意作品源代码； 实习报告（DOCX格式）； 作品照片：10张以内 …
+
+标题：树莓派“瑞士军刀”扩展板（SAKS）
+链接：http://gis4g.pku.edu.cn/swiss-army-knife-shield-for-raspberry-pi/
+摘要：(SAKS V1.X 版本的产品说明已移动到 http://shumeipai. …
+
+标题：深度学习用途广：Nvidia工程师机智赶跑草坪上撒野的邻家喵星人
+链接：http://gis4g.pku.edu.cn/nvidia-jetson-cat-detector/
+摘要：铲屎并不是一件轻松的差事，尤其是邻居家的喵星人隔三差五地到你家草坪上“撒野”的情 …
+
+标题：首个基于龙芯的机器人控制器众筹成功即将量产
+链接：http://gis4g.pku.edu.cn/loongson-soc/
+摘要：感谢星原的投递 近日，龙芯俱乐部开发的业内首个基于国产龙芯的机器人控制器登陆聚丰 …
+
+标题：北大发明成果荣获第44届日内瓦国际发明展特别金奖
+链接：http://gis4g.pku.edu.cn/mobile-server-geneva/
+摘要：日期： 2016-04-25  信息来源： 科技开发部 2016年4月13日至1 …
+
+标题：[图]索尼挑战乐高推编程机器人KOOV 今秋上市
+链接：http://gis4g.pku.edu.cn/sony-koov-lego/
+摘要：3月29日消息，在29日索尼中国成立20周年的魅力赏活动上，KOOV概念模型首次 …
+
+标题：第三代树莓派正式发布：升级64位、性能提升十倍、售$35不变
+链接：http://gis4g.pku.edu.cn/raspberry-pi-3/
+摘要：第三代树莓派现已正式发布，感兴趣的网友只需花上同样的35美元（32欧元），即可购 …
+
+
+######博物馆######
+
+标题：机械之美——机械时期的计算设备
+链接：http://gis4g.pku.edu.cn/%e6%9c%ba%e6%a2%b0%e4%b9%8b%e7%be%8e-%e6%9c%ba%e6%a2%b0%e6%97%b6%e6%9c%9f%e7%9a%84%e8%ae%a1%e7%ae%97%e8%ae%be%e5%a4%87/
+摘要：来源： 机械之美——机械时期的计算设备
+
+标题：燕园文物数字博物馆
+链接：http://gis4g.pku.edu.cn/%e7%87%95%e5%9b%ad%e6%96%87%e7%89%a9%e6%95%b0%e5%ad%97%e5%8d%9a%e7%89%a9%e9%a6%86/
+摘要：来源： 燕园文物数字博物馆
+
+标题：60年发展史被短短6年颠覆：让人唏嘘的机械硬盘
+链接：http://gis4g.pku.edu.cn/harddisk-60-years/
+摘要：自计算机诞生的那一刻起，存储设备就扮演着不可或缺的角色。从某种程度上来讲，电脑性 …
+
+标题：百万美元主页是一个正在腐烂的数字遗物
+链接：http://gis4g.pku.edu.cn/million-dollar-page/
+摘要：2005 年，21 岁的英国学生 Alex Tew 有一个百万美元的创意，他将主 …
+
+标题：百年前奇葩发明“隔离头盔”重现生机 可防分心走神
+链接：http://gis4g.pku.edu.cn/isolator/
+摘要：据美国Buzzfeed网站4月23日报道，随着智能手机等设备出现，人们的注意力变 …
+
+标题：老外翻出远古5.25寸硬盘：4.3GB/速度不如U盘
+链接：http://gis4g.pku.edu.cn/bigfoot/
+摘要：现如今常见的硬盘大都是3.5英寸和2.5英寸两种规格，5.25英寸只剩下光驱在用 …
+
+
+######历史######
+
+标题：燕园文物数字博物馆
+链接：http://gis4g.pku.edu.cn/%e7%87%95%e5%9b%ad%e6%96%87%e7%89%a9%e6%95%b0%e5%ad%97%e5%8d%9a%e7%89%a9%e9%a6%86/
+摘要：来源： 燕园文物数字博物馆
+
+标题：谷歌首席未来学家：人类2029年开始实现永生
+链接：http://gis4g.pku.edu.cn/long-live-2029/
+摘要：网易科技讯 4月22日，据美国科技博客Geekwire报道，作家、发明家、计算机 …
+
+标题：60年发展史被短短6年颠覆：让人唏嘘的机械硬盘
+链接：http://gis4g.pku.edu.cn/harddisk-60-years/
+摘要：自计算机诞生的那一刻起，存储设备就扮演着不可或缺的角色。从某种程度上来讲，电脑性 …
+
+标题：百年前奇葩发明“隔离头盔”重现生机 可防分心走神
+链接：http://gis4g.pku.edu.cn/isolator/
+摘要：据美国Buzzfeed网站4月23日报道，随着智能手机等设备出现，人们的注意力变 …
+
+标题：电视机不为人知的早期历史：希特勒居然功劳巨大
+链接：http://gis4g.pku.edu.cn/tv-hitler/
+摘要：看过科幻电影《超时空接触》的朋友一定会对里面的这个情节印象深刻：女主角是个科学家 …
+
+标题：“北京人”是不是中国人的祖先？中国人起源于非洲还是东亚
+链接：http://gis4g.pku.edu.cn/chinese-sapiens/
+摘要：人类起源于非洲有三个概念，一个是古猿起源于非洲，一个就是古人类起源于非洲，一个是 …
+
+标题：《人类简史》作者：人工智能将催生“无用阶层”
+链接：http://gis4g.pku.edu.cn/useless-mankind/
+摘要：《人类简史》的作者、历史学家尤瓦尔·赫拉利(Yuval Harari)对人类的未 …
+
+标题：《人类简史》慕课视频
+链接：http://gis4g.pku.edu.cn/a-brief-history-of-humankind/
+摘要：http://space.bilibili.com/2138406/#!/vid …
+
+
+######听觉######
+
+标题：来自全球海洋最深处的声音：真的很吵
+链接：http://gis4g.pku.edu.cn/challenger-deep/
+摘要：你是否曾想象过深海里的声音？现在，美国国家海洋和大气协会、俄勒冈州立大学、美国海 …
+
+标题：与众不同的新概念耳机 这才是真正的立体声
+链接：http://gis4g.pku.edu.cn/ossicx/
+摘要：这年头的耳机产品如果不是追求音质，那就是侧重于便携性或外形。然而 OSSIC 公 …
+
+
+######地球科学######
+
+标题：地球五分之一的海床完成测绘 – 科学探索 – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e5%9c%b0%e7%90%83%e4%ba%94%e5%88%86%e4%b9%8b%e4%b8%80%e7%9a%84%e6%b5%b7%e5%ba%8a%e5%ae%8c%e6%88%90%e6%b5%8b%e7%bb%98-%e7%a7%91%e5%ad%a6%e6%8e%a2%e7%b4%a2-cnbeta-com/
+摘要：2016年，日本基金会宣布展开大洋地势图海床2030计划（GEBCOSeabed …
+
+标题：关于地图的那点颠覆的小事 – 正确答案
+链接：http://gis4g.pku.edu.cn/%e5%85%b3%e4%ba%8e%e5%9c%b0%e5%9b%be%e7%9a%84%e9%82%a3%e7%82%b9%e9%a2%a0%e8%a6%86%e7%9a%84%e5%b0%8f%e4%ba%8b-%e6%ad%a3%e7%a1%ae%e7%ad%94%e6%a1%88/
+摘要：来源： 关于地图的那点颠覆的小事 – 正确答案
+
+标题：假如地球是一个鸡蛋 – 科学探索 – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e5%81%87%e5%a6%82%e5%9c%b0%e7%90%83%e6%98%af%e4%b8%80%e4%b8%aa%e9%b8%a1%e8%9b%8b-%e7%a7%91%e5%ad%a6%e6%8e%a2%e7%b4%a2-cnbeta-com/
+摘要：目前，科学家们普遍认为，地球80%的成分是铁、硅、氧。在地球早期形成的过程中，比 …
+
+标题：[图]宇航员晒澳洲大火太空俯拍图 直言从未见过如此恐怖的大火 – 硬件 – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e5%9b%be%e5%ae%87%e8%88%aa%e5%91%98%e6%99%92%e6%be%b3%e6%b4%b2%e5%a4%a7%e7%81%ab%e5%a4%aa%e7%a9%ba%e4%bf%af%e6%8b%8d%e5%9b%be-%e7%9b%b4%e8%a8%80%e4%bb%8e%e6%9c%aa%e8%a7%81%e8%bf%87%e5%a6%82/
+摘要：澳大利亚的森林大火不断传来坏消息：林火没有减弱的势头，反而在强风的助长下再次加剧 …
+
+标题：地球上的水，来自彗星吗？
+链接：http://gis4g.pku.edu.cn/water-earth/
+摘要：去年差不多也是这个时候， ISON正凝聚着地球上所有观星者的目光。而距它的身姿消 …
+
+标题：中国地形
+链接：http://gis4g.pku.edu.cn/china-terrain/
+
+######地理信息系统######
+
+标题：开源空间信息软件专栏
+链接：http://gis4g.pku.edu.cn/%e5%bc%80%e6%ba%90%e7%a9%ba%e9%97%b4%e4%bf%a1%e6%81%af%e8%bd%af%e4%bb%b6%e4%b8%93%e6%a0%8f/
+摘要：一、WebGIS6.1、OpenLayers不睡觉的怪叔叔：OpenLayers …
+
+标题：GeoPython
+链接：http://gis4g.pku.edu.cn/geopython/
+摘要：geopython.github.io: The geopython Commu …
+
+标题：新视角再看霍乱地图 — 用等时圈挖掘数据信息
+链接：http://gis4g.pku.edu.cn/%e6%96%b0%e8%a7%86%e8%a7%92%e5%86%8d%e7%9c%8b%e9%9c%8d%e4%b9%b1%e5%9c%b0%e5%9b%be-%e7%94%a8%e7%ad%89%e6%97%b6%e5%9c%88%e6%8c%96%e6%8e%98%e6%95%b0%e6%8d%ae%e4%bf%a1%e6%81%af/
+摘要：英国医生约翰·斯诺绘制的1854年伦敦霍乱地图是数据可视化领域最著名的案例之一。 …
+
+标题：欧盟伽利略卫星导航系统将于本周四上线
+链接：http://gis4g.pku.edu.cn/gnss-galileo/
+摘要：据外媒报道，欧洲伽利略卫星导航系统(Galileo Satellite Navi …
+
+标题：不用街道和门牌号 这家公司打算重新定义“位置”
+链接：http://gis4g.pku.edu.cn/what3words/
+摘要：一般我们解释位置时，都是用街道、门牌和标志性建筑，但在这个世界上，有很多地方难以 …
+
+标题：中国首幅3D打印民用地图问世 精确度0.075毫米
+链接：http://gis4g.pku.edu.cn/3d-print-map-hebei/
+摘要：昨日，记者从河北省地理信息局了解到，在河北省地理空间技术创新基地，一张3D打印的 …
+
+
+######增强现实######
+
+标题：大疆发售“千元级”汽车激光雷达：探测距离可达1000米 – IT 与交通 – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e5%a4%a7%e7%96%86%e5%8f%91%e5%94%ae%e5%8d%83%e5%85%83%e7%ba%a7%e6%b1%bd%e8%bd%a6%e6%bf%80%e5%85%89%e9%9b%b7%e8%be%be%ef%bc%9a%e6%8e%a2%e6%b5%8b%e8%b7%9d%e7%a6%bb%e5%8f%af%e8%be%be10/
+摘要：继今年1月份在CES展出后，大疆Livox的“千元级”激光雷达正式发售。日前，大 …
+
+标题：NASA发现VR和AR在天文学和工程学中的真正用途 – VR / AR / 3D / IMAX – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/nasa%e5%8f%91%e7%8e%b0vr%e5%92%8car%e5%9c%a8%e5%a4%a9%e6%96%87%e5%ad%a6%e5%92%8c%e5%b7%a5%e7%a8%8b%e5%ad%a6%e4%b8%ad%e7%9a%84%e7%9c%9f%e6%ad%a3%e7%94%a8%e9%80%94-vr-ar-3d-imax-cnbeta-com/
+摘要：据外媒TechCrunch报道，在VR硬件问世多年后，其只在游戏等少数领域被大量 …
+
+标题：AR的过去、现在、未来与现实——揭秘苹果AR三大项目 – 映维网
+链接：http://gis4g.pku.edu.cn/ar%e7%9a%84%e8%bf%87%e5%8e%bb%e3%80%81%e7%8e%b0%e5%9c%a8%e3%80%81%e6%9c%aa%e6%9d%a5%e4%b8%8e%e7%8e%b0%e5%ae%9e-%e6%8f%ad%e7%a7%98%e8%8b%b9%e6%9e%9car%e4%b8%89%e5%a4%a7%e9%a1%b9/
+摘要：我将在本周23日China VR大会上分享VR部分，欢迎报名参加 来源： AR的 …
+
+标题：庚子鼠年生肖邮票发售，首次加入AR技术 – 映维网
+链接：http://gis4g.pku.edu.cn/%e5%ba%9a%e5%ad%90%e9%bc%a0%e5%b9%b4%e7%94%9f%e8%82%96%e9%82%ae%e7%a5%a8%e5%8f%91%e5%94%ae%ef%bc%8c%e9%a6%96%e6%ac%a1%e5%8a%a0%e5%85%a5ar%e6%8a%80%e6%9c%af-%e6%98%a0%e7%bb%b4%e7%bd%91/
+摘要：中国邮政官网日前正式发布了《庚子年》特种邮票。本次发行的庚子鼠年生肖邮票首次采用 …
+
+标题：Mojo推出世界首款AR隐形眼镜：Mojo Lens – 映维网
+链接：http://gis4g.pku.edu.cn/mojo%e6%8e%a8%e5%87%ba%e4%b8%96%e7%95%8c%e9%a6%96%e6%ac%bear%e9%9a%90%e5%bd%a2%e7%9c%bc%e9%95%9c%ef%bc%9amojo-lens-%e6%98%a0%e7%bb%b4%e7%bd%91/
+摘要：内置显示屏的隐形眼镜 来源： Mojo推出世界首款AR隐形眼镜：Mojo Len …
+
+标题：[图+视频]增强现实技术将经典艺术带进21世纪
+链接：http://gis4g.pku.edu.cn/ar-art/
+摘要：据外媒报道，ReBlink是一种艺术与技术的混搭品，来自多伦多的数字艺术家Ale …
+
+标题：ARToolkit：使用最广泛的 AR SDK
+链接：http://gis4g.pku.edu.cn/artoolkit/
+摘要：感谢开源派的投递 听说你在玩 Pokemon Go？这是一款是由任天堂、Poké …
+
+标题：精灵宝可梦GO(口袋妖怪GO)怎么玩？六个基本知识
+链接：http://gis4g.pku.edu.cn/pokemon-go/
+摘要：2016-07-08 10:54:01   来源：新浪游戏 口袋妖怪GO（精灵宝 …
+
+标题：[图]《精灵宝可梦GO》澳洲玩家已疯狂 半夜墓地都是人
+链接：http://gis4g.pku.edu.cn/pokemon-go-hot/
+摘要：《精灵宝可梦GO》已经在澳大利亚和新西兰上架多日，澳洲人民已经彻底疯狂了。昨天给 …
+
+标题：联想发布首款Project Tango AR手机 – Phab2 Pro
+链接：http://gis4g.pku.edu.cn/tango-phab2-pro/
+摘要：在刚刚开始的Tech World大会上，联想和Google合作的全球第一款使用P …
+
+标题：美国自行车团队正在用这款AR眼镜进行训练
+链接：http://gis4g.pku.edu.cn/ar-bicycle-racing/
+摘要：当美国自行车团队今年夏季参加里约奥运会的时候，他们将会拥有一个王牌– …
+
+标题：[动图]“块魂之父”将开发AR新作 活用谷歌Project Tango技术
+链接：http://gis4g.pku.edu.cn/katamari-damacy-ar/
+摘要：2004年发行的块魂（Katamari Damacy）是一款明亮、风格清新的另类 …
+
+标题：我校“考古虚拟仿真实验教学中心”获批“国家级虚拟仿真实验教学中心”称号
+链接：http://gis4g.pku.edu.cn/vir-archeology/
+摘要：[发布时间] 2016-03-02 http://www.lab.pku.edu …
+
+标题：一款能用手机APP让你“看”到器官的Virtuali-tee 的T恤
+链接：http://gis4g.pku.edu.cn/virtuali-tee/
+摘要：想象过用手机透视人体内部吗？这款名叫 Virtuali-tee 的T恤就可以让你 …
+
+
+######大数据######
+
+标题：特斯拉车主福利：MIT愿意花1000美元看你开车
+链接：http://gis4g.pku.edu.cn/mit-agelab-tesla-data/
+摘要：据科技网站DigitalTrends报道，新技术和文化在以前所未有的速度向前发展 …
+
+
+######太空探索######
+
+标题：研究揭示著名的“冥王星之心”如何产生风 从而导致其明亮的表面变暗 – 科学探索 – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e7%a0%94%e7%a9%b6%e6%8f%ad%e7%a4%ba%e8%91%97%e5%90%8d%e7%9a%84%e5%86%a5%e7%8e%8b%e6%98%9f%e4%b9%8b%e5%bf%83%e5%a6%82%e4%bd%95%e4%ba%a7%e7%94%9f%e9%a3%8e-%e4%bb%8e%e8%80%8c%e5%af%bc/
+摘要：据外媒NewAtlas报道，一项新的研究揭示了冥王星著名的心形氮冰区域如何在矮行 …
+
+标题：NASA拍到冰在过去12年间在火星陨石坑上“跳舞”的画面 – 科学探索 – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/nasa%e6%8b%8d%e5%88%b0%e5%86%b0%e5%9c%a8%e8%bf%87%e5%8e%bb12%e5%b9%b4%e9%97%b4%e5%9c%a8%e7%81%ab%e6%98%9f%e9%99%a8%e7%9f%b3%e5%9d%91%e4%b8%8a%e8%b7%b3%e8%88%9e%e7%9a%84%e7%94%bb/
+摘要：据外媒报道，你可能认为火星是一个非常静态的地方，因为它没有像我们地球上的海洋和大 …
+
+标题：SpaceX成功爆炸 人类太空飞行新纪元开启了？ – 科学探索 – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/spacex%e6%88%90%e5%8a%9f%e7%88%86%e7%82%b8-%e4%ba%ba%e7%b1%bb%e5%a4%aa%e7%a9%ba%e9%a3%9e%e8%a1%8c%e6%96%b0%e7%ba%aa%e5%85%83%e5%bc%80%e5%90%af%e4%ba%86%ef%bc%9f-%e7%a7%91%e5%ad%a6%e6%8e%a2%e7%b4%a2/
+摘要：北京时间1月20日早间消息，火箭爆炸通常意味着任务失败。但是在周日，SpaceX …
+
+标题：[图]宇航员晒澳洲大火太空俯拍图 直言从未见过如此恐怖的大火 – 硬件 – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e5%9b%be%e5%ae%87%e8%88%aa%e5%91%98%e6%99%92%e6%be%b3%e6%b4%b2%e5%a4%a7%e7%81%ab%e5%a4%aa%e7%a9%ba%e4%bf%af%e6%8b%8d%e5%9b%be-%e7%9b%b4%e8%a8%80%e4%bb%8e%e6%9c%aa%e8%a7%81%e8%bf%87%e5%a6%82/
+摘要：澳大利亚的森林大火不断传来坏消息：林火没有减弱的势头，反而在强风的助长下再次加剧 …
+
+标题：SpaceX猎鹰重型火箭发射成功 将携带跑车飞向火星
+链接：http://gis4g.pku.edu.cn/falcon-heavy-test/
+摘要：（原标题：美国“猎鹰重型”火箭将把特斯拉跑车送上天） 您的浏览器暂时无法播放此视 …
+
+标题：“上帝之眼”——NGC 7293
+链接：http://gis4g.pku.edu.cn/ngc7293/
+摘要：上帝之眼—NGC 7293· NGC 7293也称为螺旋星云，是一个大型的行星状 …
+
+标题：三维模拟外星生命：具有特殊的嘴巴形态 透明的皮肤
+链接：http://gis4g.pku.edu.cn/other-life/
+摘要：北京时间3月8日消息，据国外媒体报道，外星人的形态和行为方式一直是科幻小说中令人 …
+
+标题：[视频]火星上发现了大量的地下冰冻水
+链接：http://gis4g.pku.edu.cn/mars-ice/
+摘要：不知大家还有印象吗？北京时间2015年9月28日23时30分，在NASA华盛顿总 …
+
+标题：神秘无线电信号来自地球 搜寻地外文明不会止步
+链接：http://gis4g.pku.edu.cn/seti-signal/
+摘要：ET粉丝又要失望了！俄罗斯天文学家1日确认，去年5月探测到的神秘无线电信号来自地 …
+
+标题：针对“半人马座比邻星b”的生命搜寻行动即将开始
+链接：http://gis4g.pku.edu.cn/new-planet/
+摘要：欧洲南方天文台在距离太阳最近的恒星周围发现一颗位于宜居带的类地行星。 艺术家描绘 …
+
+标题：NASA火星生存模拟项目今日收官 6人与世隔绝生活一年
+链接：http://gis4g.pku.edu.cn/mars-live-test/
+摘要：据外媒报道，NASA长达一年的火星生存模拟项目于今日结束，这是NASA进行的第三 …
+
+
+######工业设计######
+
+标题：奥迪打造超大号“充电宝”：帮了电网一个大忙 还可同时为三台车加电 – IT 与交通 – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e5%a5%a5%e8%bf%aa%e6%89%93%e9%80%a0%e8%b6%85%e5%a4%a7%e5%8f%b7%e5%85%85%e7%94%b5%e5%ae%9d%ef%bc%9a%e5%b8%ae%e4%ba%86%e7%94%b5%e7%bd%91%e4%b8%80%e4%b8%aa%e5%a4%a7%e5%bf%99-%e8%bf%98/
+摘要：当下，随着汽车市场加速向电动化、智能化转型，就连BBA这样的传统燃油车豪华品牌也 …
+
+标题：你会在一个巨大的3D头部雕塑上分享你的自拍照吗？
+链接：http://gis4g.pku.edu.cn/as-we-are/
+摘要：对于很多喜欢在社交媒体上发布自拍照的人来说，他们经常会从数十张甚至数百张自拍照中 …
+
+标题：科学家计划尝试为养鸡场中的鸡设计VR场景
+链接：http://gis4g.pku.edu.cn/vr-for-chicken/
+摘要：http://www.cnbeta.com/articles/tech/6135 …
+
+标题：德国制造的VR背包电脑 配英特尔酷睿i7芯片
+链接：http://gis4g.pku.edu.cn/htc-vive-back-computer/
+摘要：虚拟现实(VR)的兴起激发了背包电脑等许多令人兴奋的电脑设计，因为目前主流的虚拟 …
+
+标题：学生团队研发廉价迷你卫星 外形酷似玩具
+链接：http://gis4g.pku.edu.cn/suncube/
+摘要：据香港“东网”8月16日报道，人造卫星技术普及，美国一些具有科研能力的高等学府， …
+
+标题：3D打印笔将塑料瓶和塑料袋转化成雕塑
+链接：http://gis4g.pku.edu.cn/chupacut/
+摘要：3Doodler等传统的3D打印笔都结合了热胶枪和3D打印机的功能，将塑料长丝加 …
+
+标题：[图+视频]俏皮Marty：一款面向孩子推出的编程学习机器人
+链接：http://gis4g.pku.edu.cn/marty-3d-print-robot/
+摘要：据外媒报道，Marty是一款用于教授孩子学习编程的机器人。虽然市面上不乏这种类型 …
+
+标题：印度大学生20天造出廉价3D打印机 获现金奖励
+链接：http://gis4g.pku.edu.cn/3d-printer-diy/
+摘要：据印度《经济时报》 6月15日报道，在印度南部班加罗尔，4名学生毅然决定利用厚木 …
+
+标题：经济方便的3D打印眼科检查工具正式上市
+链接：http://gis4g.pku.edu.cn/3d-print-visoscope/
+摘要：新西兰的眼部护理企业oDocs始终致力于失明的治疗和预防，特别是关注世界上一些没 …
+
+标题：[视频]Osmo Coding智能玩具：能让孩子学习编码的电子版乐高
+链接：http://gis4g.pku.edu.cn/osmo-coding-lego/
+摘要：教育游戏公司Osmo的主要产品是一款iPad 配件，基于“反射人工智能”技术，并 …
+
+标题：罗永浩自曝VR产品 或先于锤子T3发布
+链接：http://gis4g.pku.edu.cn/smartisan-vr-display/
+摘要：锤子科技在去年底发布了Smartisan T2，不过没有能够最大程度上地满足消费 …
+
+标题：UpLamp是一盏台灯 但是没有灯泡
+链接：http://gis4g.pku.edu.cn/uplamp/
+摘要：自从爱迪生发明灯泡以后，我们所能见到的灯几乎都差不多。不管是白炽灯泡还是 LED …
+
+标题：[图]Vitrima透镜支持3D视频原生拍摄
+链接：http://gis4g.pku.edu.cn/vitrima/
+摘要：有人认为三维视频是个技术革命， 有人则认为这只是一个噱头。 而Vitrima 3 …
+
+标题：便携式空调Noria实现想装哪就装哪
+链接：http://gis4g.pku.edu.cn/noria-air-condition/
+摘要：随着温度的攀升，空调自然是现代生活居家必备之物。空调的分类不外乎挂式、柜式、中央 …
+
+标题：谷歌最新Ara模块化手机图赏 最快明年上市
+链接：http://gis4g.pku.edu.cn/project-ara-progress/
+摘要：虽然谷歌当初宣布Project Ara模块化手机的时候令人们为之兴奋，然而接二连 …
+
+
+######开源软件######
+
+标题：开源空间信息软件专栏
+链接：http://gis4g.pku.edu.cn/%e5%bc%80%e6%ba%90%e7%a9%ba%e9%97%b4%e4%bf%a1%e6%81%af%e8%bd%af%e4%bb%b6%e4%b8%93%e6%a0%8f/
+摘要：一、WebGIS6.1、OpenLayers不睡觉的怪叔叔：OpenLayers …
+
+标题：mysql – ERROR 1698 (28000): Access denied for user ‘root’@’localhost’ – Stack Overflow
+链接：http://gis4g.pku.edu.cn/mysql-error-1698-28000-access-denied-for-user-rootlocalhost-stack-overflow/
+摘要：来源： mysql – ERROR 1698 (28000): Ac …
+
+标题：How to reset root MySQL password on Ubuntu 18.04 Bionic Beaver Linux – LinuxConfig.org
+链接：http://gis4g.pku.edu.cn/how-to-reset-root-mysql-password-on-ubuntu-18-04-bionic-beaver-linux-linuxconfig-org/
+摘要：来源： How to reset root MySQL password on  …
+
+标题：开源游戏引擎 Godot 3.2 稳定版发布：改进文档、支持 Android 和 WebAssembly – 游戏 – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e5%bc%80%e6%ba%90%e6%b8%b8%e6%88%8f%e5%bc%95%e6%93%8e-godot-3-2-%e7%a8%b3%e5%ae%9a%e7%89%88%e5%8f%91%e5%b8%83%ef%bc%9a%e6%94%b9%e8%bf%9b%e6%96%87%e6%a1%a3%e3%80%81%e6%94%af%e6%8c%81-android-%e5%92%8c/
+摘要：开源游戏引擎Godot3.2已按计划在今年1月发布了稳定版本，Godot3.2基 …
+
+
+######投稿######
+
+标题：为什么shortBubbleSort反倒比BubbleSort慢？
+链接：http://gis4g.pku.edu.cn/shortbubble-slow/
+摘要：来自宋欣源同学的问题： 我试了一下排序算法，发现shortBubbleSort比 …
+
+标题：“enqueue和dequeue复杂度均为O(1)”的队列实现
+链接：http://gis4g.pku.edu.cn/python-queue-o1/
+摘要：投稿：蔡天泊（1300018705）
+
+标题：可以实现任意进制之间转换的程序
+链接：http://gis4g.pku.edu.cn/python-base-conversion1/
+摘要：投稿：宋欣源（1400012408）
+
+
+######操作系统######
+
+标题：
+链接：http://gis4g.pku.edu.cn/6206-2/
+摘要：更新macOS 10.15 Catalina后，很多在10.14上可以使用的Ap …
+
+标题：x86桌面安卓Remix OS新版发布：支持32位老电脑
+链接：http://gis4g.pku.edu.cn/remixos/
+摘要：基于Android-x86项目打造的深度定制安卓系统Remix OS今天发布了最 …
+
+标题：世界之窗团队新作凤凰系统：x86桌面版安卓
+链接：http://gis4g.pku.edu.cn/phoenixos/
+摘要：安卓系统已经占据了全球多数智能手机，而在桌面领域还是Windows的天下。微软一 …
+
+
+######教育培训######
+
+标题：成果导向教育(OBE)简介 – 教育理论 – 信息化教育网
+链接：http://gis4g.pku.edu.cn/%e6%88%90%e6%9e%9c%e5%af%bc%e5%90%91%e6%95%99%e8%82%b2obe%e7%ae%80%e4%bb%8b-%e6%95%99%e8%82%b2%e7%90%86%e8%ae%ba-%e4%bf%a1%e6%81%af%e5%8c%96%e6%95%99%e8%82%b2%e7%bd%91/
+摘要：来源： 成果导向教育(OBE)简介 – 教育理论 – 信 …
+
+标题：中科院计算所发布国产编程语言“木兰” – CHINA 中国 – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e4%b8%ad%e7%a7%91%e9%99%a2%e8%ae%a1%e7%ae%97%e6%89%80%e5%8f%91%e5%b8%83%e5%9b%bd%e4%ba%a7%e7%bc%96%e7%a8%8b%e8%af%ad%e8%a8%80%e6%9c%a8%e5%85%b0-china-%e4%b8%ad%e5%9b%bd-cnbeta-c/
+摘要：1月15日，记者从中国科学院计算技术研究所（以下简称中科院计算所）计算机体系结构 …
+
+标题：微软用《我的世界》吸引学生走向编程的大门
+链接：http://gis4g.pku.edu.cn/code-org-mc/
+摘要：伴随着游戏销量突破百万，《我的世界》（Minecraft）受到了当代众多儿童的热 …
+
+标题：[图]奥迪推出VR看车 内部零件统统看得一清二楚
+链接：http://gis4g.pku.edu.cn/audi-vr/
+摘要：VR正在渗入各行各业，而不仅仅是作为个人玩家的娱乐设备。在上月的Audi Spo …
+
+标题：迪士尼创业加速器新增9个企业：涵盖机器人、人工智能以及VR电影
+链接：http://gis4g.pku.edu.cn/disney-accelerate/
+摘要：自 2014 年起，迪士尼集团的创业加速器项目正式开启，发展到今天，已经是第三年 …
+
+标题：因为怕水学不会游泳？VR技术说不定能帮你
+链接：http://gis4g.pku.edu.cn/vr-swimming-training/
+摘要：即使是在这个游泳池遍布，信息很发达的现代，仍然有许多人是旱鸭子。在学不会游泳的几 …
+
+标题：[图]大学课堂上竟然可以发弹幕 段子表情包刷屏
+链接：http://gis4g.pku.edu.cn/new-media-classroom/
+摘要：“不能好好上课了哈哈哈哈哈哈哈哈！” 提到弹幕，很多人还认为只存在二次元网络世界 …
+
+标题：虚拟现实的新用处：能帮每个人实现音乐梦
+链接：http://gis4g.pku.edu.cn/vr-musical-instrument/
+摘要：据外媒报道，说起VR技术，大家都会不自觉的想到游戏，但其实它的应用范围相当广，上 …
+
+
+######数算学生######
+
+标题：micro:bit创意作品提交要求
+链接：http://gis4g.pku.edu.cn/microbit-artwork-2018/
+摘要：作品提交资料 创意作品Python源代码； 实习报告（DOCX格式+PDF格式） …
+
+标题：国际航空无线电26英文字母读法表
+链接：http://gis4g.pku.edu.cn/nato-phonetic-alphabet/
+摘要：字母 解释 读音 中文解释 A ALPHA [‘&aelig;lfə]  …
+
+标题：树莓派扩展板创意作品提交要求
+链接：http://gis4g.pku.edu.cn/rpi-artwork-2017/
+摘要：作品提交资料 创意作品源代码； 实习报告（DOCX格式）； 作品照片：10张以内 …
+
+标题：Python语言：首次上机练习
+链接：http://gis4g.pku.edu.cn/sessdsa-practice-2/
+摘要：为了让大家更快熟悉Python编程环境，请手动输入如下的程序，并运行成功！ 调试 …
+
+标题：Re: 关于数据结构与算法期末大作业的一些个人看法
+链接：http://gis4g.pku.edu.cn/sessdsa-about-teamwork/
+摘要：X同学你好！ 很高兴能收到你的看法，这样有机会能跟你聊下大作业背后的故事。 本来 …
+
+标题：SESSDSA2016助教之选：TAC10
+链接：http://gis4g.pku.edu.cn/sessdsa16-tac10/
+摘要：  吴浩波、刘丽萍、崔炫娥、江欣余、郭惠昀、王天宇、张书莞、周思阳、聂 …
+
+标题：为什么shortBubbleSort反倒比BubbleSort慢？
+链接：http://gis4g.pku.edu.cn/shortbubble-slow/
+摘要：来自宋欣源同学的问题： 我试了一下排序算法，发现shortBubbleSort比 …
+
+标题：如何让海龟暴走？
+链接：http://gis4g.pku.edu.cn/python-turtle-tracer/
+摘要：Python turtle模块的海龟作图，由于需要展示海龟运动的过程，缺省状态下 …
+
+标题：“enqueue和dequeue复杂度均为O(1)”的队列实现
+链接：http://gis4g.pku.edu.cn/python-queue-o1/
+摘要：投稿：蔡天泊（1300018705）
+
+标题：可以实现任意进制之间转换的程序
+链接：http://gis4g.pku.edu.cn/python-base-conversion1/
+摘要：投稿：宋欣源（1400012408）
+
+
+######无人机######
+
+标题：Hover Camera Passport跟拍无人机上架苹果商城
+链接：http://gis4g.pku.edu.cn/hover-camera/
+摘要：无人机初创企业零零无限在去年发布的Hover Camera Passport小黑 …
+
+标题：大疆的一个无人机植保订单是如何完成的
+链接：http://gis4g.pku.edu.cn/dji-drone-farm/
+摘要：对于湖南郴州的村民来说，9月是个农忙的时节，大片的水稻田需要进行喷洒作业，尤其是 …
+
+标题：无人机高速播种堪比向土壤中射子弹
+链接：http://gis4g.pku.edu.cn/drone-seed/
+摘要：据美国财经网站MarketWatch 6月16日报道，位于美国俄勒冈州西北部城镇 …
+
+标题：国产无人机公司亿航：将在美内华达州测试载人无人机
+链接：http://gis4g.pku.edu.cn/ehang-drone/
+摘要：据英国《每日邮报》报道，中国无人机公司亿航今年在拉斯维加斯国际消费电子展（CES …
+
+标题：京东送货无人机成功完成首笔订单 全程5公里
+链接：http://gis4g.pku.edu.cn/drone-jd/
+摘要：6月8日上午9点，在江苏宿迁市曹集乡同庵村居委会内，一架三轴无人机缓缓起飞，十分 …
+
+标题：装有杀虫剂的无人机能够消灭黄蜂窝
+链接：http://gis4g.pku.edu.cn/drone-spray-hornet/
+摘要：Drone Volt是法国一家专业无人机企业,此前曾推出可以以很高的速率近距离3 …
+
+标题：DJI大疆公布无人机Geofencing安全禁飞功能
+链接：http://gis4g.pku.edu.cn/dji-geofencing/
+摘要：无人机制造商DJI大疆创新今日宣布即将为其无人机产品提供“Geofencing” …
+
+
+######机器人######
+
+标题：科学家用青蛙活细胞制成微型生物机器人 – 科学探索 – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e7%a7%91%e5%ad%a6%e5%ae%b6%e7%94%a8%e9%9d%92%e8%9b%99%e6%b4%bb%e7%bb%86%e8%83%9e%e5%88%b6%e6%88%90%e5%be%ae%e5%9e%8b%e7%94%9f%e7%89%a9%e6%9c%ba%e5%99%a8%e4%ba%ba-%e7%a7%91%e5%ad%a6%e6%8e%a2/
+摘要：在超级计算机的帮助下，佛蒙特大学和塔夫茨大学的研究人员们，利用青蛙的皮肤和心脏细 …
+
+标题：[视频]科学家利用超级计算机设计了可编程的新机器生物 – 科学探索 – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e8%a7%86%e9%a2%91%e7%a7%91%e5%ad%a6%e5%ae%b6%e5%88%a9%e7%94%a8%e8%b6%85%e7%ba%a7%e8%ae%a1%e7%ae%97%e6%9c%ba%e8%ae%be%e8%ae%a1%e4%ba%86%e5%8f%af%e7%bc%96%e7%a8%8b%e7%9a%84%e6%96%b0%e6%9c%ba%e5%99%a8/
+摘要：尽管机器人已经变得更加智能，在外观上也更接近人类，但它们距离真正意义上的“活着” …
+
+标题：交通堵塞怎么办 交给无人驾驶去解决
+链接：http://gis4g.pku.edu.cn/robot-driver/
+摘要：一提到交通拥堵的原因，除了道路规划不合理、上下班车流量大之外，不遵守交通规则的司 …
+
+标题：麦肯锡报告：机器人时代来袭将致60%行业受波折
+链接：http://gis4g.pku.edu.cn/robots-labor/
+摘要：据英国媒体《每日邮报》7月18日报道，麦肯锡公司最近的一份报告称，随着自动化的进 …
+
+标题：迪士尼创业加速器新增9个企业：涵盖机器人、人工智能以及VR电影
+链接：http://gis4g.pku.edu.cn/disney-accelerate/
+摘要：自 2014 年起，迪士尼集团的创业加速器项目正式开启，发展到今天，已经是第三年 …
+
+标题：机器人世界杯落下帷幕 德国队凭点球大战夺冠
+链接：http://gis4g.pku.edu.cn/robocup-2016/
+摘要：据科技网站TechRadar报道，今夏，欧洲杯战火重燃，机器人们也没闲着，201 …
+
+标题：千家企业调查：机器换人不会引发失业潮
+链接：http://gis4g.pku.edu.cn/robot-labor/
+摘要：招工难、用工荒，这是近年来我国传统制造业绕不开、躲不过的话题。为破解“招工难”， …
+
+标题：[图+视频]俏皮Marty：一款面向孩子推出的编程学习机器人
+链接：http://gis4g.pku.edu.cn/marty-3d-print-robot/
+摘要：据外媒报道，Marty是一款用于教授孩子学习编程的机器人。虽然市面上不乏这种类型 …
+
+标题：[图+视频]艺术家打造出一台违反阿西莫夫第一法则的机器人
+链接：http://gis4g.pku.edu.cn/robot-rules-art/
+摘要：在《2001太空漫游》这部科幻作品中，太空飞船上的人工智能电脑哈尔 9000 变 …
+
+标题：[视频]Osmo Coding智能玩具：能让孩子学习编码的电子版乐高
+链接：http://gis4g.pku.edu.cn/osmo-coding-lego/
+摘要：教育游戏公司Osmo的主要产品是一款iPad 配件，基于“反射人工智能”技术，并 …
+
+标题：凌乱的衣柜有救了 这台机器会自动叠衣服
+链接：http://gis4g.pku.edu.cn/foldimate/
+摘要：有数据显示，一个普通人一生中会花费 750 天的时间来洗衣服，叠衣服则需要花费  …
+
+标题：全世界最小的机器人面世 整体重量不足2克
+链接：http://gis4g.pku.edu.cn/nano-robot/
+摘要：在近日举行的 ICRA 2016 机器人与自动化大会上，来自美国马里兰大学的 S …
+
+标题：首个基于龙芯的机器人控制器众筹成功即将量产
+链接：http://gis4g.pku.edu.cn/loongson-soc/
+摘要：感谢星原的投递 近日，龙芯俱乐部开发的业内首个基于国产龙芯的机器人控制器登陆聚丰 …
+
+
+######树莓派######
+
+标题：在树莓派RaspberryPi上几种简单协议的实现
+链接：http://gis4g.pku.edu.cn/rpi-gpio-protocol/
+摘要：对自己的拖延症也真是恨铁不成钢，这又是一篇拖延得快要放弃的文章。快过年了，怎么也 …
+
+标题：树莓派 3 UART 及 GPIO 针脚定义
+链接：http://gis4g.pku.edu.cn/rpi-gpio-uart/
+摘要：本项目使用 TXD0、RXD0 进行 UART 通信，波特率为 115200，请 …
+
+标题：树莓派—GPIO应用详解
+链接：http://gis4g.pku.edu.cn/rpi-gpio-app/
+摘要：前言 经过上一篇文章的解说，相信大家都应该都可以掌握树莓派的安装和基本的使用，然 …
+
+标题：Raspbian Jessie 的 GPIO 串口配置
+链接：http://gis4g.pku.edu.cn/rpi-uart-gpio/
+摘要：Raspberry Pi 开源硬件提供了 GPIO (General Purpo …
+
+
+######模拟仿真######
+
+标题：游戏开发商Maxis并不认为自己的《模拟城市》能够走向专业化 – 游戏 – EA – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e6%b8%b8%e6%88%8f%e5%bc%80%e5%8f%91%e5%95%86maxis%e5%b9%b6%e4%b8%8d%e8%ae%a4%e4%b8%ba%e8%87%aa%e5%b7%b1%e7%9a%84%e3%80%8a%e6%a8%a1%e6%8b%9f%e5%9f%8e%e5%b8%82%e3%80%8b%e8%83%bd%e5%a4%9f%e8%b5%b0/
+摘要：《模拟城市》的开发商Maxis并不希望人们过于严肃的看待这款游戏，虽然它是受到了 …
+
+标题：三维模拟外星生命：具有特殊的嘴巴形态 透明的皮肤
+链接：http://gis4g.pku.edu.cn/other-life/
+摘要：北京时间3月8日消息，据国外媒体报道，外星人的形态和行为方式一直是科幻小说中令人 …
+
+标题：迪士尼创业加速器新增9个企业：涵盖机器人、人工智能以及VR电影
+链接：http://gis4g.pku.edu.cn/disney-accelerate/
+摘要：自 2014 年起，迪士尼集团的创业加速器项目正式开启，发展到今天，已经是第三年 …
+
+标题：[图]门票只需13欧：快带谢耳朵来德国汉堡 看微缩景观世界
+链接：http://gis4g.pku.edu.cn/hamburg-3d-model/
+摘要：在带着家人驾车横穿德国的旅途中，TheVerge编辑Jordan Golson带 …
+
+标题：把微观世界呈现在你眼前 化学领域将用VR眼镜研究分子结构
+链接：http://gis4g.pku.edu.cn/vr-chemistry/
+摘要：科幻电影为人们展示的未来场景大多是背包飞行器、飞行汽车、隐身衣、心灵遥感等，这些 …
+
+标题：美科学家制造出最简单的人造合成细胞
+链接：http://gis4g.pku.edu.cn/artificial-cell/
+摘要：美国科学家24日宣布设计并制造出最简单的人造合成细胞，其基因组是迄今已知最小的基 …
+
+标题：Python3的print如何才能不换行?
+链接：http://gis4g.pku.edu.cn/python-print/
+摘要：Python3里的print已经从Python2中的语句转变为函数，定义如下：  …
+
+标题：我校“考古虚拟仿真实验教学中心”获批“国家级虚拟仿真实验教学中心”称号
+链接：http://gis4g.pku.edu.cn/vir-archeology/
+摘要：[发布时间] 2016-03-02 http://www.lab.pku.edu …
+
+标题：一款能用手机APP让你“看”到器官的Virtuali-tee 的T恤
+链接：http://gis4g.pku.edu.cn/virtuali-tee/
+摘要：想象过用手机透视人体内部吗？这款名叫 Virtuali-tee 的T恤就可以让你 …
+
+标题：光计算机离我们究竟还有多远？
+链接：http://gis4g.pku.edu.cn/optical-calculating/
+摘要：光计算机与电子计算机相比，有许多天然的优势。那么光计算机离我们还有多远？本文讲述 …
+
+标题：神奇试衣间：扫描身材推算尺码 为顾客挑选衣服
+链接：http://gis4g.pku.edu.cn/fitting-room/
+摘要：据外媒报道，买衣服时屡次试衣服颇为浪费时间。澳大利亚一家科技公司mPort最近便 …
+
+标题：数据可听化：来 “听听” 维基百科吧
+链接：http://gis4g.pku.edu.cn/listen-wikipedia/
+摘要：  提起 “维基百科”（Wikipedia），很容易让人想起解释词条、 …
+
+标题：如果你能看得见无线信号，世界会是怎样的
+链接：http://gis4g.pku.edu.cn/signal-visualization/
+摘要：不知不觉间，无线信号就成了我们日常生活中根本不能缺少的一部分。我们总和它们生活在 …
+
+标题：首张电子地球海床照问世揭露地球不为人知的一面
+链接：http://gis4g.pku.edu.cn/gplates-cesium/
+摘要：据英国《每日邮报》8月10日报道，经过半个世纪的调查，取样1.45万份后，地球的 …
+
+标题：开源虚拟地形软件
+链接：http://gis4g.pku.edu.cn/os-virtual-terrain/
+摘要：Virtual Terrain Project: http://vterrain …
+
+标题：球面纹理概述
+链接：http://gis4g.pku.edu.cn/sphere-texture/
+摘要：http://vterrain.org/Textures/spherical.h …
+
+标题：开发者免费应用能让你用浏览器实现串流游戏
+链接：http://gis4g.pku.edu.cn/jsmpeg/
+摘要：jsmpeg是一个轻量级MPEG1解码器，它是由作者从头以C语言编写出来，并不像 …
+
+标题：用firestorm连接实习OpenSim服务器
+链接：http://gis4g.pku.edu.cn/sess-summer-project-login/
+摘要：实习服务器的客户端登录地址：http://162.105.17.48:9000/ …
+
+标题：大陆漂移学说
+链接：http://gis4g.pku.edu.cn/continent-drift/
+摘要：介绍等等。
+
+标题：Secondlife平台开发练习题
+链接：http://gis4g.pku.edu.cn/sp2015-exe/
+摘要：练习平台 先在自己本机OpenSim服务器上练习； 完成后转移到小组公共服务器（ …
+
+标题：实时模拟: 地球的轨道上都漂着些什么？
+链接：http://gis4g.pku.edu.cn/stuffinspace/
+摘要：来自德克萨斯州的18岁少年，James Yoder，完成了一个激情项目：stuf …
+
+
+######游戏######
+
+标题：开源游戏引擎 Godot 3.2 稳定版发布：改进文档、支持 Android 和 WebAssembly – 游戏 – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e5%bc%80%e6%ba%90%e6%b8%b8%e6%88%8f%e5%bc%95%e6%93%8e-godot-3-2-%e7%a8%b3%e5%ae%9a%e7%89%88%e5%8f%91%e5%b8%83%ef%bc%9a%e6%94%b9%e8%bf%9b%e6%96%87%e6%a1%a3%e3%80%81%e6%94%af%e6%8c%81-android-%e5%92%8c/
+摘要：开源游戏引擎Godot3.2已按计划在今年1月发布了稳定版本，Godot3.2基 …
+
+标题：精灵宝可梦GO(口袋妖怪GO)怎么玩？六个基本知识
+链接：http://gis4g.pku.edu.cn/pokemon-go/
+摘要：2016-07-08 10:54:01   来源：新浪游戏 口袋妖怪GO（精灵宝 …
+
+标题：[图]《精灵宝可梦GO》澳洲玩家已疯狂 半夜墓地都是人
+链接：http://gis4g.pku.edu.cn/pokemon-go-hot/
+摘要：《精灵宝可梦GO》已经在澳大利亚和新西兰上架多日，澳洲人民已经彻底疯狂了。昨天给 …
+
+标题：[图]Minecraft Battle Mini-Game将于6月21日上线
+链接：http://gis4g.pku.edu.cn/minecraft-battle/
+摘要：接下来是主机端Minecraft玩家时间！昨天，Xbox官方推特账号宣布Mine …
+
+
+######游戏化学习######
+
+标题：[图]你愿意参与创建火星的首个地图数据集吗？NASA启动AI4Mars​项目 – 科学探索 – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e5%9b%be%e4%bd%a0%e6%84%bf%e6%84%8f%e5%8f%82%e4%b8%8e%e5%88%9b%e5%bb%ba%e7%81%ab%e6%98%9f%e7%9a%84%e9%a6%96%e4%b8%aa%e5%9c%b0%e5%9b%be%e6%95%b0%e6%8d%ae%e9%9b%86%e5%90%97%ef%bc%9fnasa%e5%90%af/
+摘要：火星是非常值得人类探索的地方，吸引着无数天文科学家和科学爱好者。但对于大多数普通 …
+
+标题：学习也可以是一种游戏 5家提供游戏式学习服务的创新公司
+链接：http://gis4g.pku.edu.cn/game-based-learning-five/
+摘要：文/Jane Power铂尔教育 随着广大教师和教育工作者认识到游戏提供给学生的 …
+
+标题：[视频]《我的世界》Windows 10版本正式加入Oculus Rift VR支持
+链接：http://gis4g.pku.edu.cn/minecraft-oculus-rift/
+摘要：微软近日正式推出了《我的世界》Windows 10版本大型更新，增加了许多玩家期 …
+
+标题：[图]大学课堂上竟然可以发弹幕 段子表情包刷屏
+链接：http://gis4g.pku.edu.cn/new-media-classroom/
+摘要：“不能好好上课了哈哈哈哈哈哈哈哈！” 提到弹幕，很多人还认为只存在二次元网络世界 …
+
+标题：编程要从娃娃抓起：谷歌与麻省理工合作开发“乐高编程”
+链接：http://gis4g.pku.edu.cn/scratch-blocks/
+摘要：谷歌年度开发者大会要到本周三才会正式拉开帷幕，但约有120名最年轻的开发者已经可 …
+
+标题：Minecraft虚拟燕园项目获得“北大研究”课题立项
+链接：http://gis4g.pku.edu.cn/minecraftyanyuan/
+摘要：“基于Minecraft的虚拟燕园”项目参与了2015年度“北大研究”课题申报。 …
+
+标题：微软为教孩子们编程 用《我的世界》做了个编程教程
+链接：http://gis4g.pku.edu.cn/code_minecraft/
+摘要：作为“Hour of Code（编程一小时）”的一部分，微软最近发布了一个基于《 …
+
+
+######物联网######
+
+标题：超远测距激光雷达 Livox 泰览 Tele-15 正式上架发售
+链接：http://gis4g.pku.edu.cn/%e8%b6%85%e8%bf%9c%e6%b5%8b%e8%b7%9d%e6%bf%80%e5%85%89%e9%9b%b7%e8%be%be-livox-%e6%b3%b0%e8%a7%88-tele-15-%e6%ad%a3%e5%bc%8f%e4%b8%8a%e6%9e%b6%e5%8f%91%e5%94%ae/
+摘要：在年初CES上，Livox发布的Livox泰览 Tele-15成为了各方关注的焦 …
+
+标题：大疆发售“千元级”汽车激光雷达：探测距离可达1000米 – IT 与交通 – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e5%a4%a7%e7%96%86%e5%8f%91%e5%94%ae%e5%8d%83%e5%85%83%e7%ba%a7%e6%b1%bd%e8%bd%a6%e6%bf%80%e5%85%89%e9%9b%b7%e8%be%be%ef%bc%9a%e6%8e%a2%e6%b5%8b%e8%b7%9d%e7%a6%bb%e5%8f%af%e8%be%be10/
+摘要：继今年1月份在CES展出后，大疆Livox的“千元级”激光雷达正式发售。日前，大 …
+
+标题：RS-485总线布线规则及方法
+链接：http://gis4g.pku.edu.cn/rs485-bus/
+摘要：摘要：本文阐述了RS-485双向串行总线的特点、RS-485总线在实际应用中的布 …
+
+标题：交通堵塞怎么办 交给无人驾驶去解决
+链接：http://gis4g.pku.edu.cn/robot-driver/
+摘要：一提到交通拥堵的原因，除了道路规划不合理、上下班车流量大之外，不遵守交通规则的司 …
+
+标题：学生团队研发廉价迷你卫星 外形酷似玩具
+链接：http://gis4g.pku.edu.cn/suncube/
+摘要：据香港“东网”8月16日报道，人造卫星技术普及，美国一些具有科研能力的高等学府， …
+
+标题：第三代树莓派正式发布：升级64位、性能提升十倍、售$35不变
+链接：http://gis4g.pku.edu.cn/raspberry-pi-3/
+摘要：第三代树莓派现已正式发布，感兴趣的网友只需花上同样的35美元（32欧元），即可购 …
+
+标题：这只猫的三餐取决于能否找到有RFID标签的”猎物“
+链接：http://gis4g.pku.edu.cn/cat-rfid/
+摘要：这只名为“Monkey”的猫永远无法免费从它的主人Ben Millam手中获得免 …
+
+
+######硬件######
+
+标题：超远测距激光雷达 Livox 泰览 Tele-15 正式上架发售
+链接：http://gis4g.pku.edu.cn/%e8%b6%85%e8%bf%9c%e6%b5%8b%e8%b7%9d%e6%bf%80%e5%85%89%e9%9b%b7%e8%be%be-livox-%e6%b3%b0%e8%a7%88-tele-15-%e6%ad%a3%e5%bc%8f%e4%b8%8a%e6%9e%b6%e5%8f%91%e5%94%ae/
+摘要：在年初CES上，Livox发布的Livox泰览 Tele-15成为了各方关注的焦 …
+
+标题：大疆发售“千元级”汽车激光雷达：探测距离可达1000米 – IT 与交通 – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e5%a4%a7%e7%96%86%e5%8f%91%e5%94%ae%e5%8d%83%e5%85%83%e7%ba%a7%e6%b1%bd%e8%bd%a6%e6%bf%80%e5%85%89%e9%9b%b7%e8%be%be%ef%bc%9a%e6%8e%a2%e6%b5%8b%e8%b7%9d%e7%a6%bb%e5%8f%af%e8%be%be10/
+摘要：继今年1月份在CES展出后，大疆Livox的“千元级”激光雷达正式发售。日前，大 …
+
+标题：当手机品牌为电池绞尽脑汁时 用户们想起了十年前的科技 – 视点·观察 – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e5%bd%93%e6%89%8b%e6%9c%ba%e5%93%81%e7%89%8c%e4%b8%ba%e7%94%b5%e6%b1%a0%e7%bb%9e%e5%b0%bd%e8%84%91%e6%b1%81%e6%97%b6-%e7%94%a8%e6%88%b7%e4%bb%ac%e6%83%b3%e8%b5%b7%e4%ba%86%e5%8d%81%e5%b9%b4%e5%89%8d/
+摘要：前阵子，差评君看到了一个很好玩的想法：发明一个可拆卸电池，没电时像换卡一样的直接 …
+
+标题：苹果今年底或发布首款ARM架构的Mac电脑 – Apple Mac – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e8%8b%b9%e6%9e%9c%e4%bb%8a%e5%b9%b4%e5%ba%95%e6%88%96%e5%8f%91%e5%b8%83%e9%a6%96%e6%ac%bearm%e6%9e%b6%e6%9e%84%e7%9a%84mac%e7%94%b5%e8%84%91-apple-mac-cnbeta-com/
+摘要：外媒9to5Mac消息，苹果除了为新MacBook用户提供剪刀式开关键盘消息外， …
+
+标题：Synology 群晖网络路由器端口映射 – NAS – 阳天知识
+链接：http://gis4g.pku.edu.cn/synology-%e7%be%a4%e6%99%96%e7%bd%91%e7%bb%9c%e8%b7%af%e7%94%b1%e5%99%a8%e7%ab%af%e5%8f%a3%e6%98%a0%e5%b0%84-nas-%e9%98%b3%e5%a4%a9%e7%9f%a5%e8%af%86/
+摘要：​Synology 群晖端口映射表，NAS路由器端口映射参考表。 来源： Syn …
+
+标题：腾讯云首次引入希捷双磁臂硬盘 – Seagate 希捷 – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e8%85%be%e8%ae%af%e4%ba%91%e9%a6%96%e6%ac%a1%e5%bc%95%e5%85%a5%e5%b8%8c%e6%8d%b7%e5%8f%8c%e7%a3%81%e8%87%82%e7%a1%ac%e7%9b%98-seagate-%e5%b8%8c%e6%8d%b7-cnbeta-com/
+摘要：希捷今日宣布，腾讯云在国内第一家部署了希捷银河Exos2X14企业级硬盘，这也是 …
+
+
+######科学######
+
+标题：地球上最原始的生命长啥样？
+链接：http://gis4g.pku.edu.cn/original-life/
+摘要：10月13日消息 福布斯网站选登了一篇Quora上的问答：地球上最原始的生命长什 …
+
+标题：最新板块构造学说或将改写日后教科书
+链接：http://gis4g.pku.edu.cn/new-plate-theory/
+摘要：据英国每日邮报报道，一直以来人们都以为山峦形成和地震活动都是地球巨大板块边界相互 …
+
+标题：1480光年外恒星亮度神秘变化：人工设施还是自然现象？
+链接：http://gis4g.pku.edu.cn/dyson-ring/
+摘要：北京时间5月13日消息，据物理学家组织网站报道，可能会让很多外星人爱好者们感到失 …
+
+标题：或存在史前外星文明 高智生物演变可能早于人类
+链接：http://gis4g.pku.edu.cn/civilization-planet/
+摘要：据外媒5月3日报道，一项新研究表明，人类可通过某种方式验证德雷克方程式，进一步探 …
+
+标题：国际圆周率日：3.14159……你能背出几位数？
+链接：http://gis4g.pku.edu.cn/pi-day/
+摘要：3月14日是什么日子？很多人被搞得一头雾水。您知道“国际圆周率日”吗？圆周率？没 …
+
+标题：来自全球海洋最深处的声音：真的很吵
+链接：http://gis4g.pku.edu.cn/challenger-deep/
+摘要：你是否曾想象过深海里的声音？现在，美国国家海洋和大气协会、俄勒冈州立大学、美国海 …
+
+标题：[图]听听火星的声音:下一代火星探测器将携带麦克风
+链接：http://gis4g.pku.edu.cn/mars-sound/
+摘要：北京时间3月3日消息，NASA的喷气推进实验室目前正在研发好奇号火星探测器的下一 …
+
+标题：太空作家回答关于“新视野号”飞跃冥王星的十大问题
+链接：http://gis4g.pku.edu.cn/newhorizonpluto/
+摘要：http://www.cnbeta.com/articles/411047.ht …
+
+标题：一张图看懂“太空任务”：新视野号飞掠冥王星
+链接：http://gis4g.pku.edu.cn/newhorizontask/
+摘要：http://www.cnbeta.com/articles/411143.ht …
+
+标题：新视野号明晚抵达冥王星 最近地月距离仅1/30
+链接：http://gis4g.pku.edu.cn/newhorizon/
+摘要：http://www.cnbeta.com/articles/410301.ht …
+
+
+######科幻######
+
+标题：最后的问题（阿西莫夫）
+链接：http://gis4g.pku.edu.cn/last-question/
+摘要：艾西摩夫本人曾经表示，在他众多的科幻作品之中，《最后的问题》是他认为最感满意的一篇。的确，这是一篇令任何作家都会引以为傲的杰出创作。
+
+
+######移动设备######
+
+标题：研究人员展示室内激光无线充电新技术
+链接：http://gis4g.pku.edu.cn/charge-using-laser/
+摘要：蓝牙和 Wi-Fi 已经让人们享受了多年的便利，但是无线充电技术却一直在充电功率 …
+
+标题：联想发布首款Project Tango AR手机 – Phab2 Pro
+链接：http://gis4g.pku.edu.cn/tango-phab2-pro/
+摘要：在刚刚开始的Tech World大会上，联想和Google合作的全球第一款使用P …
+
+标题：UpLamp是一盏台灯 但是没有灯泡
+链接：http://gis4g.pku.edu.cn/uplamp/
+摘要：自从爱迪生发明灯泡以后，我们所能见到的灯几乎都差不多。不管是白炽灯泡还是 LED …
+
+标题：谷歌：市面上所有Android手机都达不到VR标准
+链接：http://gis4g.pku.edu.cn/daydream-vr/
+摘要：谷歌那极富野心的 Daydream VR 平台旨在将安卓的软件和硬件结合起来，打 …
+
+标题：[图]Vitrima透镜支持3D视频原生拍摄
+链接：http://gis4g.pku.edu.cn/vitrima/
+摘要：有人认为三维视频是个技术革命， 有人则认为这只是一个噱头。 而Vitrima 3 …
+
+标题：谷歌在与甲骨文版权诉讼中获胜 结束6年拉锯战
+链接：http://gis4g.pku.edu.cn/google-wins-java-case/
+摘要：据今日美国报报道，美国旧金山联邦法庭陪审团今日做出裁决，认定谷歌安卓操作系统并未 …
+
+标题：美国自行车团队正在用这款AR眼镜进行训练
+链接：http://gis4g.pku.edu.cn/ar-bicycle-racing/
+摘要：当美国自行车团队今年夏季参加里约奥运会的时候，他们将会拥有一个王牌– …
+
+标题：E Ink公布全彩色电子纸显示技术Advanced Color Paper
+链接：http://gis4g.pku.edu.cn/e-ink-color-acp/
+摘要：E Ink公司正式公布首个全彩色电子纸显示技术Advanced Color Pa …
+
+标题：北大发明成果荣获第44届日内瓦国际发明展特别金奖
+链接：http://gis4g.pku.edu.cn/mobile-server-geneva/
+摘要：日期： 2016-04-25  信息来源： 科技开发部 2016年4月13日至1 …
+
+标题：谷歌最新Ara模块化手机图赏 最快明年上市
+链接：http://gis4g.pku.edu.cn/project-ara-progress/
+摘要：虽然谷歌当初宣布Project Ara模块化手机的时候令人们为之兴奋，然而接二连 …
+
+标题：[视频]谷歌Android创意实验项目精选：3D控制器
+链接：http://gis4g.pku.edu.cn/3d-controller-android/
+摘要：在Google成为Alphabet的子公司后，它又推出Android Exper …
+
+标题：三星申请手势识别专利 双手凌空操作Gear VR
+链接：http://gis4g.pku.edu.cn/gear-vr-ui/
+摘要：根据美国专利局发布的一项三星的专利申请，三星为旗下移动虚拟现实头显Gear VR …
+
+标题：x86桌面安卓Remix OS新版发布：支持32位老电脑
+链接：http://gis4g.pku.edu.cn/remixos/
+摘要：基于Android-x86项目打造的深度定制安卓系统Remix OS今天发布了最 …
+
+标题：世界之窗团队新作凤凰系统：x86桌面版安卓
+链接：http://gis4g.pku.edu.cn/phoenixos/
+摘要：安卓系统已经占据了全球多数智能手机，而在桌面领域还是Windows的天下。微软一 …
+
+标题：有光就能上网！号称比Wi-Fi牛的Li-Fi是什么？
+链接：http://gis4g.pku.edu.cn/lifi/
+摘要：即使你从来没有听说过 Li-Fi，你现在也可以知道它到底是个什么东西。Li-Fi …
+
+标题：报道称今年会有更多智能机采用双后置摄像头
+链接：http://gis4g.pku.edu.cn/double-camera/
+摘要：LG G5或许会领衔今年的双摄像头旗舰风潮，但它绝不会是2016年唯一一个这么做 …
+
+
+######算法######
+
+标题：机械之美——机械时期的计算设备
+链接：http://gis4g.pku.edu.cn/%e6%9c%ba%e6%a2%b0%e4%b9%8b%e7%be%8e-%e6%9c%ba%e6%a2%b0%e6%97%b6%e6%9c%9f%e7%9a%84%e8%ae%a1%e7%ae%97%e8%ae%be%e5%a4%87/
+摘要：来源： 机械之美——机械时期的计算设备
+
+标题：游戏开发商Maxis并不认为自己的《模拟城市》能够走向专业化 – 游戏 – EA – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e6%b8%b8%e6%88%8f%e5%bc%80%e5%8f%91%e5%95%86maxis%e5%b9%b6%e4%b8%8d%e8%ae%a4%e4%b8%ba%e8%87%aa%e5%b7%b1%e7%9a%84%e3%80%8a%e6%a8%a1%e6%8b%9f%e5%9f%8e%e5%b8%82%e3%80%8b%e8%83%bd%e5%a4%9f%e8%b5%b0/
+摘要：《模拟城市》的开发商Maxis并不希望人们过于严肃的看待这款游戏，虽然它是受到了 …
+
+标题：外国“手工耿”油管上演 NBA 大结局？崔宝秋：空心球更香 – 人物 – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e5%a4%96%e5%9b%bd%e6%89%8b%e5%b7%a5%e8%80%bf%e6%b2%b9%e7%ae%a1%e4%b8%8a%e6%bc%94-nba-%e5%a4%a7%e7%bb%93%e5%b1%80%ef%bc%9f%e5%b4%94%e5%ae%9d%e7%a7%8b%ef%bc%9a%e7%a9%ba%e5%bf%83/
+摘要：疫情居家隔离期间，很多人都闲不住，在家拍起了视频。最近就有这样一位新晋YouTu …
+
+标题：IBM称构建50量子比特量子计算处理器：计算能力惊人
+链接：http://gis4g.pku.edu.cn/ibm-quantum-50bits/
+摘要：11月17日消息，IBM发布消息称已经构建成功50量子比特的量子计算处理器的样机 …
+
+标题：AlphaGo后台数据首次公开 免费网站8月中旬将面世
+链接：http://gis4g.pku.edu.cn/alphago-opensource/
+摘要：俄罗斯时间7月25日下午6点(北京时间11：00pm)，谷歌旗下DeepMind …
+
+标题：各种图Graph的绘制软件Graphviz
+链接：http://gis4g.pku.edu.cn/graphviz/
+摘要：Graphviz （英文：Graph Visualization Softwar …
+
+标题：一行 Python 实现并行化 — 日常多线程操作的新思路
+链接：http://gis4g.pku.edu.cn/python-map/
+摘要：Python 在程序并行化方面多少有些声名狼藉。撇开技术上的问题，例如线程的实现 …
+
+标题：AlphaGo最终局战胜李世石 人机大战总比分4:1
+链接：http://gis4g.pku.edu.cn/alphago-lee-sedol/
+摘要：谷歌围棋人工智能AlphaGo今天与韩国棋手李世石进行最后一轮较量，AlphaG …
+
+标题：量子计算机将能分解任意大数
+链接：http://gis4g.pku.edu.cn/quantum-computing/
+摘要：MIT和 Innsbruck大学的计算机科学家组装了一台5量子比特的量子计算机， …
+
+标题：[动图]YouTube新功能让制作者轻松”P掉”视频内的闲杂人等
+链接：http://gis4g.pku.edu.cn/video-mosaic/
+摘要：据外媒报道，对于视频制作者来说，因为拍摄场景中出现的一点小差错而重拍是件恼人的事 …
+
+标题：谷歌深度学习程序PlaNet可自主识别照片地理位置
+链接：http://gis4g.pku.edu.cn/planet-google/
+摘要：谷歌最新的深度学习程序可以通过照片的内容判断拍摄地点。谷歌这个名为PlaNet的 …
+
+标题：谷歌机器学习获重大突破 围棋程序将大战李世石
+链接：http://gis4g.pku.edu.cn/alpha-go/
+摘要：1月28日上午消息，谷歌今日召开全球电话会议，旗下Deep MInd创始人戴密斯 …
+
+标题：背包问题
+链接：http://gis4g.pku.edu.cn/knapsack/
+摘要：  背包问题的一个例子：应该选择哪些盒子，才能使价格尽可能地大，而保持重量小于或 …
+
+标题：汉诺塔动画
+链接：http://gis4g.pku.edu.cn/tower-of-hanoi-gif/
+
+######编程教育######
+
+标题：高德纳称《编程艺术》完结无定日 – 人物 – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e9%ab%98%e5%be%b7%e7%ba%b3%e7%a7%b0%e3%80%8a%e7%bc%96%e7%a8%8b%e8%89%ba%e6%9c%af%e3%80%8b%e5%ae%8c%e7%bb%93%e6%97%a0%e5%ae%9a%e6%97%a5-%e4%ba%ba%e7%89%a9-cnbeta-com/
+摘要：计算机科学家高德纳对数字的痴迷很早就表现出来。他在13岁时参加了一家糖果公司的比 …
+
+标题：BPI-Bit STEAM 教育开发板 – Banana Pi Wiki
+链接：http://gis4g.pku.edu.cn/bpi-bit-steam-%e6%95%99%e8%82%b2%e5%bc%80%e5%8f%91%e6%9d%bf-banana-pi-wiki/
+摘要：来源： BPI-Bit STEAM 教育开发板 – Banana P …
+
+标题：200年来 科技圈那些“硬核女神” – 人物 – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/200%e5%b9%b4%e6%9d%a5-%e7%a7%91%e6%8a%80%e5%9c%88%e9%82%a3%e4%ba%9b%e7%a1%ac%e6%a0%b8%e5%a5%b3%e7%a5%9e-%e4%ba%ba%e7%89%a9-cnbeta-com/
+摘要：当你看到“程序员”这个词时，脑海是不是浮现出一个男性形象？的确，很多互联网公司的 …
+
+标题：“红芯”还没过劲儿“木兰”又来了 国产换皮何时了？ – CHINA 中国 – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e7%ba%a2%e8%8a%af%e8%bf%98%e6%b2%a1%e8%bf%87%e5%8a%b2%e5%84%bf%e6%9c%a8%e5%85%b0%e5%8f%88%e6%9d%a5%e4%ba%86-%e5%9b%bd%e4%ba%a7%e6%8d%a2%e7%9a%ae%e4%bd%95%e6%97%b6/
+摘要：昨天晚上，被称为“一款定位于面向智能物联应用、采用最新编程语言设计理念和编译技术 …
+
+标题：中科院计算所发布国产编程语言“木兰” – CHINA 中国 – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e4%b8%ad%e7%a7%91%e9%99%a2%e8%ae%a1%e7%ae%97%e6%89%80%e5%8f%91%e5%b8%83%e5%9b%bd%e4%ba%a7%e7%bc%96%e7%a8%8b%e8%af%ad%e8%a8%80%e6%9c%a8%e5%85%b0-china-%e4%b8%ad%e5%9b%bd-cnbeta-c/
+摘要：1月15日，记者从中国科学院计算技术研究所（以下简称中科院计算所）计算机体系结构 …
+
+标题：课程：Python语言基础与应用
+链接：http://gis4g.pku.edu.cn/event/pylang/
+标题：2038年问题
+链接：http://gis4g.pku.edu.cn/year-2038/
+摘要：http://www.guokr.com/post/638665/ 在计算机应用 …
+
+标题：字符编码笔记：ASCII，Unicode和UTF-8
+链接：http://gis4g.pku.edu.cn/unicode-utf-8/
+摘要：http://www.ruanyifeng.com/blog/2007/10/a …
+
+标题：微软用《我的世界》吸引学生走向编程的大门
+链接：http://gis4g.pku.edu.cn/code-org-mc/
+摘要：伴随着游戏销量突破百万，《我的世界》（Minecraft）受到了当代众多儿童的热 …
+
+标题：[视频]小学生现在可以通过美味的百奇饼干学习编程
+链接：http://gis4g.pku.edu.cn/glicode/
+摘要：由日本江崎格力高株式会社生产百奇(Pocky)因为其各式各样的口味而受到世界各地 …
+
+标题：编程也能好玩：Swift Playgrounds上手评测
+链接：http://gis4g.pku.edu.cn/swift-playgrounds/
+摘要：如果你已经安装了 iOS 10 公共测试版，而且使用的还是 iPad，那么你很可 …
+
+标题：[图+视频]俏皮Marty：一款面向孩子推出的编程学习机器人
+链接：http://gis4g.pku.edu.cn/marty-3d-print-robot/
+摘要：据外媒报道，Marty是一款用于教授孩子学习编程的机器人。虽然市面上不乏这种类型 …
+
+标题：[视频]Osmo Coding智能玩具：能让孩子学习编码的电子版乐高
+链接：http://gis4g.pku.edu.cn/osmo-coding-lego/
+摘要：教育游戏公司Osmo的主要产品是一款iPad 配件，基于“反射人工智能”技术，并 …
+
+标题：辨识度强：专为编程设计的免费字体Mononoki
+链接：http://gis4g.pku.edu.cn/coding-font-mononoki/
+摘要：许多程序员不会去特别关注他们每天都在面对的编程字体,但编码工作需要长时间盯着屏幕 …
+
+标题：编程要从娃娃抓起：谷歌与麻省理工合作开发“乐高编程”
+链接：http://gis4g.pku.edu.cn/scratch-blocks/
+摘要：谷歌年度开发者大会要到本周三才会正式拉开帷幕，但约有120名最年轻的开发者已经可 …
+
+标题：[图]索尼挑战乐高推编程机器人KOOV 今秋上市
+链接：http://gis4g.pku.edu.cn/sony-koov-lego/
+摘要：3月29日消息，在29日索尼中国成立20周年的魅力赏活动上，KOOV概念模型首次 …
+
+标题：第三代树莓派正式发布：升级64位、性能提升十倍、售$35不变
+链接：http://gis4g.pku.edu.cn/raspberry-pi-3/
+摘要：第三代树莓派现已正式发布，感兴趣的网友只需花上同样的35美元（32欧元），即可购 …
+
+标题：微软为教孩子们编程 用《我的世界》做了个编程教程
+链接：http://gis4g.pku.edu.cn/code_minecraft/
+摘要：作为“Hour of Code（编程一小时）”的一部分，微软最近发布了一个基于《 …
+
+标题：Python 魔术方法指南
+链接：http://gis4g.pku.edu.cn/python-magic-method/
+摘要：此教程为我的数篇文章中的一个重点。主题是魔术方法。 什么是魔术方法?他们是面向对象的Python的一切。他们是可以给你的类增加”magic”的特殊方法。他们总是被双下划线所包围(e.g. __init__ 或者 __lt__)。然而他们的文档却远没有提供应该有的内容。Python中所有的魔术方法均在Python官方文档中有相应描述，但是对于他们的描述比较混乱而且组织比较松散。很难找到有一个例子(也许他们原本打算的很好，在开始语言参考中有描述很详细，然而随之而来的确是枯燥的语法描述等等)。
+
+
+######艺术######
+
+标题：Python艺术编程节
+链接：http://gis4g.pku.edu.cn/event/python-art-festival/
+摘要：为推动Python 语言在中小学教育中的发展， 由北京大学附属中学主办，地小空开 …
+
+标题：你会在一个巨大的3D头部雕塑上分享你的自拍照吗？
+链接：http://gis4g.pku.edu.cn/as-we-are/
+摘要：对于很多喜欢在社交媒体上发布自拍照的人来说，他们经常会从数十张甚至数百张自拍照中 …
+
+标题：百万美元主页是一个正在腐烂的数字遗物
+链接：http://gis4g.pku.edu.cn/million-dollar-page/
+摘要：2005 年，21 岁的英国学生 Alex Tew 有一个百万美元的创意，他将主 …
+
+标题：[图+视频]增强现实技术将经典艺术带进21世纪
+链接：http://gis4g.pku.edu.cn/ar-art/
+摘要：据外媒报道，ReBlink是一种艺术与技术的混搭品，来自多伦多的数字艺术家Ale …
+
+标题：[视频]谷歌艺术文化网站再添50余座自然艺术博物馆的虚拟之旅
+链接：http://gis4g.pku.edu.cn/google-art-vr/
+摘要：谷歌街景已经记录下了全球很多城市和道路，但也偶尔带领用户去探索大堡礁、大峡谷、亚 …
+
+标题：[图+视频]艺术家打造出一台违反阿西莫夫第一法则的机器人
+链接：http://gis4g.pku.edu.cn/robot-rules-art/
+摘要：在《2001太空漫游》这部科幻作品中，太空飞船上的人工智能电脑哈尔 9000 变 …
+
+标题：刘谦们的福音？电脑将帮助魔术师设计新节目
+链接：http://gis4g.pku.edu.cn/ai-magic-art/
+摘要：北京时间6月11日消息，据科技网站TechRadar报道，说到电脑对工作的助力作 …
+
+
+######虚拟世界######
+
+标题：A virtual blockchain world
+链接：http://gis4g.pku.edu.cn/a-virtual-blockchain-world/
+摘要：来源： A virtual blockchain world
+
+标题：Decentraland
+链接：http://gis4g.pku.edu.cn/decentraland/
+摘要：来源： Decentraland
+
+标题：微软用《我的世界》吸引学生走向编程的大门
+链接：http://gis4g.pku.edu.cn/code-org-mc/
+摘要：伴随着游戏销量突破百万，《我的世界》（Minecraft）受到了当代众多儿童的热 …
+
+标题：马斯克：我们可能生活在高端版本的《模拟人生》里
+链接：http://gis4g.pku.edu.cn/musk-virtual-world/
+摘要：如果你买不起特斯拉，也不要觉得懊恼，因为我们很可能都生活在一个模拟现实世界中。特 …
+
+标题：[图+视频]《我的世界》玩家耗费400小时打造的杰作”Phain”
+链接：http://gis4g.pku.edu.cn/minecraft-phain/
+摘要：《我的世界》资深玩家Darastlix和他的团队最近完成了一个非常了不起的项目， …
+
+标题：[图+视频]国人用《我的世界》重现圆明园建筑群
+链接：http://gis4g.pku.edu.cn/minecraft-yuanmingyuan/
+摘要：沙盒游戏《我的世界》因为极大的自由度催生了很多新鲜的创意，这个立足于建筑设计的想 …
+
+标题：[图]乐高大师拼出世界著名建筑 逼真壮观
+链接：http://gis4g.pku.edu.cn/lego-building/
+摘要：据英国《每日邮报》3月15日报道，美国44岁男子亚当·塔克（Adam Reed  …
+
+标题：与众不同的新概念耳机 这才是真正的立体声
+链接：http://gis4g.pku.edu.cn/ossicx/
+摘要：这年头的耳机产品如果不是追求音质，那就是侧重于便携性或外形。然而 OSSIC 公 …
+
+标题：Minecraft虚拟燕园项目获得“北大研究”课题立项
+链接：http://gis4g.pku.edu.cn/minecraftyanyuan/
+摘要：“基于Minecraft的虚拟燕园”项目参与了2015年度“北大研究”课题申报。 …
+
+标题：微软为教孩子们编程 用《我的世界》做了个编程教程
+链接：http://gis4g.pku.edu.cn/code_minecraft/
+摘要：作为“Hour of Code（编程一小时）”的一部分，微软最近发布了一个基于《 …
+
+标题：推出新作品 《第二人生》创始人继续走在VR社交的路上
+链接：http://gis4g.pku.edu.cn/high-fidelity-rosedale/
+摘要：1992年的时候，有一本科幻小说叫《雪崩》，该书的作者Neal Stephens …
+
+
+######虚拟仿真######
+
+标题：超远测距激光雷达 Livox 泰览 Tele-15 正式上架发售
+链接：http://gis4g.pku.edu.cn/%e8%b6%85%e8%bf%9c%e6%b5%8b%e8%b7%9d%e6%bf%80%e5%85%89%e9%9b%b7%e8%be%be-livox-%e6%b3%b0%e8%a7%88-tele-15-%e6%ad%a3%e5%bc%8f%e4%b8%8a%e6%9e%b6%e5%8f%91%e5%94%ae/
+摘要：在年初CES上，Livox发布的Livox泰览 Tele-15成为了各方关注的焦 …
+
+标题：初探虚幻引擎5
+链接：http://gis4g.pku.edu.cn/%e5%88%9d%e6%8e%a2%e8%99%9a%e5%b9%bb%e5%bc%95%e6%93%8e5/
+摘要：揭开虚幻引擎5与其全新核心技术的神秘面纱。它们将帮助开发者解放潜能，为次世代游戏 …
+
+标题：NASA发现VR和AR在天文学和工程学中的真正用途 – VR / AR / 3D / IMAX – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/nasa%e5%8f%91%e7%8e%b0vr%e5%92%8car%e5%9c%a8%e5%a4%a9%e6%96%87%e5%ad%a6%e5%92%8c%e5%b7%a5%e7%a8%8b%e5%ad%a6%e4%b8%ad%e7%9a%84%e7%9c%9f%e6%ad%a3%e7%94%a8%e9%80%94-vr-ar-3d-imax-cnbeta-com/
+摘要：据外媒TechCrunch报道，在VR硬件问世多年后，其只在游戏等少数领域被大量 …
+
+标题：你会在一个巨大的3D头部雕塑上分享你的自拍照吗？
+链接：http://gis4g.pku.edu.cn/as-we-are/
+摘要：对于很多喜欢在社交媒体上发布自拍照的人来说，他们经常会从数十张甚至数百张自拍照中 …
+
+标题：空间战场态势感知系统
+链接：http://gis4g.pku.edu.cn/digital-hail/
+摘要：http://www.jianshu.com/p/5cd4079d2b8c 《兵 …
+
+标题：[视频]这个AR技术更好将虚拟与现实结合起来
+链接：http://gis4g.pku.edu.cn/ar-light-art/
+摘要：电脑、3D扫描场景，现实与投射光混合到一起。你能想象得到这几种元素搭配到一起，会 …
+
+标题：用数字柠檬制作一杯柠檬水
+链接：http://gis4g.pku.edu.cn/digital-lemon/
+摘要：或许有一天，别人递给你一个数字柠檬，可以制作一杯虚拟柠檬水。一系列传感器和电极能 …
+
+标题：日本Silicon公司发布“大蛇”引擎与开源游戏引擎Xenko技术演示
+链接：http://gis4g.pku.edu.cn/silicon-3d-engine/
+摘要：日本东京Silicon工作室以开发的游戏引擎闻名游戏圈，其光照渲染插件引擎“Ye …
+
+标题：马斯克：我们可能生活在高端版本的《模拟人生》里
+链接：http://gis4g.pku.edu.cn/musk-virtual-world/
+摘要：如果你买不起特斯拉，也不要觉得懊恼，因为我们很可能都生活在一个模拟现实世界中。特 …
+
+标题：[图]门票只需13欧：快带谢耳朵来德国汉堡 看微缩景观世界
+链接：http://gis4g.pku.edu.cn/hamburg-3d-model/
+摘要：在带着家人驾车横穿德国的旅途中，TheVerge编辑Jordan Golson带 …
+
+标题：[视频]在VR体验中你可以真实接触到Minecraft砖块
+链接：http://gis4g.pku.edu.cn/minecraft-vr/
+摘要：普遍认为虚拟现实（VR）是交互体验的下一站，且拥有无限的应用前景和发展潜能。但V …
+
+标题：把微观世界呈现在你眼前 化学领域将用VR眼镜研究分子结构
+链接：http://gis4g.pku.edu.cn/vr-chemistry/
+摘要：科幻电影为人们展示的未来场景大多是背包飞行器、飞行汽车、隐身衣、心灵遥感等，这些 …
+
+标题：我校“考古虚拟仿真实验教学中心”获批“国家级虚拟仿真实验教学中心”称号
+链接：http://gis4g.pku.edu.cn/vir-archeology/
+摘要：[发布时间] 2016-03-02 http://www.lab.pku.edu …
+
+
+######虚拟现实######
+
+标题：戛纳XR首次走进中国！ 携手VeeR打造360VR沉浸影像展_YNET.com北青网
+链接：http://gis4g.pku.edu.cn/%e6%88%9b%e7%ba%b3xr%e9%a6%96%e6%ac%a1%e8%b5%b0%e8%bf%9b%e4%b8%ad%e5%9b%bd%ef%bc%81-%e6%90%ba%e6%89%8bveer%e6%89%93%e9%80%a0360vr%e6%b2%89%e6%b5%b8%e5%bd%b1%e5%83%8f%e5%b1%95_ynet-com%e5%8c%97/
+摘要：北青新闻,娱乐,社会,体育,财经,生活等全领域内容 来源： 戛纳XR首次走进中国 …
+
+标题：这届学生会玩 广州一高校在游戏中“开发”毕业典礼 – 网游 – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e8%bf%99%e5%b1%8a%e5%ad%a6%e7%94%9f%e4%bc%9a%e7%8e%a9-%e5%b9%bf%e5%b7%9e%e4%b8%80%e9%ab%98%e6%a0%a1%e5%9c%a8%e6%b8%b8%e6%88%8f%e4%b8%ad%e5%bc%80%e5%8f%91%e6%af%95%e4%b8%9a%e5%85%b8/
+摘要：广州大学华软软件学院一款在游戏中“开发”的毕业典礼在网络上“火”了。这是该校21 …
+
+标题：初探虚幻引擎5
+链接：http://gis4g.pku.edu.cn/%e5%88%9d%e6%8e%a2%e8%99%9a%e5%b9%bb%e5%bc%95%e6%93%8e5/
+摘要：揭开虚幻引擎5与其全新核心技术的神秘面纱。它们将帮助开发者解放潜能，为次世代游戏 …
+
+标题：Magic Leap宣布裁员千人并远离消费市场 – VR / AR / 3D / IMAX – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/magic-leap%e5%ae%a3%e5%b8%83%e8%a3%81%e5%91%98%e5%8d%83%e4%ba%ba%e5%b9%b6%e8%bf%9c%e7%a6%bb%e6%b6%88%e8%b4%b9%e5%b8%82%e5%9c%ba-vr-ar-3d-imax-cnbeta-com/
+摘要：彭博社报道称，MagicLeap刚刚宣布了将要裁员约1000人和远离消费市场的消 …
+
+标题：[图]Wireality：用弹性绳连接的指套让你“触碰”到VR物体 – VR / AR / 3D / IMAX – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e5%9b%bewireality%ef%bc%9a%e7%94%a8%e5%bc%b9%e6%80%a7%e7%bb%b3%e8%bf%9e%e6%8e%a5%e7%9a%84%e6%8c%87%e5%a5%97%e8%ae%a9%e4%bd%a0%e8%a7%a6%e7%a2%b0%e5%88%b0vr%e7%89%a9%e4%bd%93-vr/
+摘要：来自卡内基·梅隆大学未来界面小组的科研团队近日想出了一种新奇的方法，能够让VR用 …
+
+标题：光追版《我的世界》开放抢先体验：简直不是同一款游戏 – 网游 – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e5%85%89%e8%bf%bd%e7%89%88%e3%80%8a%e6%88%91%e7%9a%84%e4%b8%96%e7%95%8c%e3%80%8b%e5%bc%80%e6%94%be%e6%8a%a2%e5%85%88%e4%bd%93%e9%aa%8c%ef%bc%9a%e7%ae%80%e7%9b%b4%e4%b8%8d%e6%98%af%e5%90%8c%e4%b8%80/
+摘要：经过大半年的等待，NVIDIA、微软联合宣布，《我的世界》RTX光追版(Mine …
+
+标题：编辑和发布 VR 视频
+链接：http://gis4g.pku.edu.cn/%e7%bc%96%e8%be%91%e5%92%8c%e5%8f%91%e5%b8%83-vr-%e8%a7%86%e9%a2%91/
+摘要：将 360° 或 180° 媒体导入 Premiere Pro，对项目进行编辑， …
+
+标题：Godot Engine – Free and open source 2D and 3D game engine
+链接：http://gis4g.pku.edu.cn/godot-engine-free-and-open-source-2d-and-3d-game-engine/
+摘要：来源： Godot Engine – Free and open s …
+
+标题：Panda3D | Open Source Framework for 3D Rendering & Games
+链接：http://gis4g.pku.edu.cn/panda3d-open-source-framework-for-3d-rendering-games/
+摘要：Panda3D is an open-source, cross-platfor …
+
+标题：Chrome 81即将迎来WebXR增强现实支持改进 – Google Chrome 谷歌浏览器 – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/chrome-81%e5%8d%b3%e5%b0%86%e8%bf%8e%e6%9d%a5webxr%e5%a2%9e%e5%bc%ba%e7%8e%b0%e5%ae%9e%e6%94%af%e6%8c%81%e6%94%b9%e8%bf%9b-google-chrome-%e8%b0%b7%e6%ad%8c%e6%b5%8f%e8%a7%88%e5%99%a8-cnbeta-com/
+摘要：现代的Web浏览器，其功能已经与互联网早期有极大的不同，甚至可以运行Web版操作 …
+
+标题：ursina 一个采用python和panda3d开发的游戏引擎
+链接：http://gis4g.pku.edu.cn/ursina-%e4%b8%80%e4%b8%aa%e9%87%87%e7%94%a8python%e5%92%8cpanda3d%e5%bc%80%e5%8f%91%e7%9a%84%e6%b8%b8%e6%88%8f%e5%bc%95%e6%93%8e/
+摘要：ursina 一个采用python和panda3d开发的游戏引擎
+
+标题：
+链接：http://gis4g.pku.edu.cn/6144-2/
+摘要：ursina 一个采用python和panda3d开发的游戏引擎
+
+标题：NASA发现VR和AR在天文学和工程学中的真正用途 – VR / AR / 3D / IMAX – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/nasa%e5%8f%91%e7%8e%b0vr%e5%92%8car%e5%9c%a8%e5%a4%a9%e6%96%87%e5%ad%a6%e5%92%8c%e5%b7%a5%e7%a8%8b%e5%ad%a6%e4%b8%ad%e7%9a%84%e7%9c%9f%e6%ad%a3%e7%94%a8%e9%80%94-vr-ar-3d-imax-cnbeta-com/
+摘要：据外媒TechCrunch报道，在VR硬件问世多年后，其只在游戏等少数领域被大量 …
+
+标题：日本虚拟UP主崛起威胁真正名人 已有超过9000个虚拟形象 – VR / AR / 3D / IMAX – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/%e6%97%a5%e6%9c%ac%e8%99%9a%e6%8b%9fup%e4%b8%bb%e5%b4%9b%e8%b5%b7%e5%a8%81%e8%83%81%e7%9c%9f%e6%ad%a3%e5%90%8d%e4%ba%ba-%e5%b7%b2%e6%9c%89%e8%b6%85%e8%bf%879000%e4%b8%aa%e8%99%9a%e6%8b%9f%e5%bd%a2/
+摘要：1月19日，据媒体报道，数字动画角色:虚拟UP主(VTuber)将改变目前的广告 …
+
+标题：开发者用Oculus Quest将家变成MR游乐场，构建『少数派报告』科幻未来 – 映维网
+链接：http://gis4g.pku.edu.cn/%e5%bc%80%e5%8f%91%e8%80%85%e7%94%a8oculus-quest%e5%b0%86%e5%ae%b6%e5%8f%98%e6%88%90mr%e6%b8%b8%e4%b9%90%e5%9c%ba%ef%bc%8c%e6%9e%84%e5%bb%ba%e3%80%8e%e5%b0%91%e6%95%b0%e6%b4%be%e6%8a%a5%e5%91%8a/
+摘要：科幻作品变成了现实 来源： 开发者用Oculus Quest将家变成MR游乐场， …
+
+标题：AR的过去、现在、未来与现实——揭秘苹果AR三大项目 – 映维网
+链接：http://gis4g.pku.edu.cn/ar%e7%9a%84%e8%bf%87%e5%8e%bb%e3%80%81%e7%8e%b0%e5%9c%a8%e3%80%81%e6%9c%aa%e6%9d%a5%e4%b8%8e%e7%8e%b0%e5%ae%9e-%e6%8f%ad%e7%a7%98%e8%8b%b9%e6%9e%9car%e4%b8%89%e5%a4%a7%e9%a1%b9/
+摘要：我将在本周23日China VR大会上分享VR部分，欢迎报名参加 来源： AR的 …
+
+标题：庚子鼠年生肖邮票发售，首次加入AR技术 – 映维网
+链接：http://gis4g.pku.edu.cn/%e5%ba%9a%e5%ad%90%e9%bc%a0%e5%b9%b4%e7%94%9f%e8%82%96%e9%82%ae%e7%a5%a8%e5%8f%91%e5%94%ae%ef%bc%8c%e9%a6%96%e6%ac%a1%e5%8a%a0%e5%85%a5ar%e6%8a%80%e6%9c%af-%e6%98%a0%e7%bb%b4%e7%bd%91/
+摘要：中国邮政官网日前正式发布了《庚子年》特种邮票。本次发行的庚子鼠年生肖邮票首次采用 …
+
+标题：VR版春晚来了，央视启动2020春晚5G+8K/4K/VR创新应用 – 映维网
+链接：http://gis4g.pku.edu.cn/vr%e7%89%88%e6%98%a5%e6%99%9a%e6%9d%a5%e4%ba%86%ef%bc%8c%e5%a4%ae%e8%a7%86%e5%90%af%e5%8a%a82020%e6%98%a5%e6%99%9a5g8k-4k-vr%e5%88%9b%e6%96%b0%e5%ba%94%e7%94%a8-%e6%98%a0%e7%bb%b4%e7%bd%91/
+摘要：中央广播电视总台2020年春节联欢晚会5G+8K/4K/VR创新应用于今天正式启 …
+
+标题：Mojo推出世界首款AR隐形眼镜：Mojo Lens – 映维网
+链接：http://gis4g.pku.edu.cn/mojo%e6%8e%a8%e5%87%ba%e4%b8%96%e7%95%8c%e9%a6%96%e6%ac%bear%e9%9a%90%e5%bd%a2%e7%9c%bc%e9%95%9c%ef%bc%9amojo-lens-%e6%98%a0%e7%bb%b4%e7%bd%91/
+摘要：内置显示屏的隐形眼镜 来源： Mojo推出世界首款AR隐形眼镜：Mojo Len …
+
+标题：5G+8K的春节联欢晚会什么样？只要你想也可以用VR看 – 国产剧 – cnBeta.COM
+链接：http://gis4g.pku.edu.cn/5g8k%e7%9a%84%e6%98%a5%e8%8a%82%e8%81%94%e6%ac%a2%e6%99%9a%e4%bc%9a%e4%bb%80%e4%b9%88%e6%a0%b7%ef%bc%9f%e5%8f%aa%e8%a6%81%e4%bd%a0%e6%83%b3%e4%b9%9f%e5%8f%af%e4%bb%a5%e7%94%a8vr%e7%9c%8b-%e5%9b%bd/
+摘要：近年来的春晚可为与科技手段一直拥有不解之缘，去年的自动驾驶车队、此前的智能手套舞 …
+
+标题：Sansar｜继“第二人生”虚拟网络游戏后，林登实验室又一力作
+链接：http://gis4g.pku.edu.cn/sansar-lindenlab/
+摘要：2003年，林登实验室（Linden Lab）推出了一款3D模拟现实网络游戏“第 …
+
+标题：再探 “第二人生”
+链接：http://gis4g.pku.edu.cn/secondlife-again/
+摘要：还记得“第二人生”吗？曾几何时，这款大红大紫的应用被视为“互联网发展的未来”，其 …
+
+标题：科学家利用虚拟现实来治疗幻痛
+链接：http://gis4g.pku.edu.cn/vr-phantom-pain/
+摘要：那些因为脊椎受伤而成为截瘫患者的人，通常要面对的不仅仅是失去双腿的感觉，他们还必 …
+
+标题：玩家自制《我的世界》超大地形图 5K分辨率的马赛克也能这么美
+链接：http://gis4g.pku.edu.cn/minecraft-terrain-art/
+摘要：谁说马赛克就不好看？在充满无限可能的《我的世界》中，马赛克构筑的世界同样美丽。玩 …
+
+标题：FreemoVR系统可以发现动物如何对虚拟现实世界作出反应
+链接：http://gis4g.pku.edu.cn/freemovr/
+摘要：据外媒报道，科学家创造了一个虚拟现实系统，让果蝇围绕一个虚拟柱形物飞行，而斑马鱼 …
+
+标题：技术雷达之Web VR浅尝
+链接：http://gis4g.pku.edu.cn/webvr/
+摘要：http://benweizhu.github.io/blog/2017/04/ …
+
+标题：大约30分钟，就能设置好Vive
+链接：http://gis4g.pku.edu.cn/vive-setup/
+摘要：HTC官方宣称“仅需要大约30分钟，就能设置好Vive”，笔者实践后的结果与其基 …
+
+标题：科学家计划尝试为养鸡场中的鸡设计VR场景
+链接：http://gis4g.pku.edu.cn/vr-for-chicken/
+摘要：http://www.cnbeta.com/articles/tech/6135 …
+
+标题：[视频]这个AR技术更好将虚拟与现实结合起来
+链接：http://gis4g.pku.edu.cn/ar-light-art/
+摘要：电脑、3D扫描场景，现实与投射光混合到一起。你能想象得到这几种元素搭配到一起，会 …
+
+标题：日本Silicon公司发布“大蛇”引擎与开源游戏引擎Xenko技术演示
+链接：http://gis4g.pku.edu.cn/silicon-3d-engine/
+摘要：日本东京Silicon工作室以开发的游戏引擎闻名游戏圈，其光照渲染插件引擎“Ye …
+
+标题：为了把设计图变得更直观 建筑公司也在用VR
+链接：http://gis4g.pku.edu.cn/vr-building-plan/
+摘要：荷兰的ZGF建筑师事务所在设计西雅图市中心一座44层楼的高塔时，采用了虚拟现实技 …
+
+标题：[视频]谷歌艺术文化网站再添50余座自然艺术博物馆的虚拟之旅
+链接：http://gis4g.pku.edu.cn/google-art-vr/
+摘要：谷歌街景已经记录下了全球很多城市和道路，但也偶尔带领用户去探索大堡礁、大峡谷、亚 …
+
+标题：[图]奥迪推出VR看车 内部零件统统看得一清二楚
+链接：http://gis4g.pku.edu.cn/audi-vr/
+摘要：VR正在渗入各行各业，而不仅仅是作为个人玩家的娱乐设备。在上月的Audi Spo …
+
+标题：德国制造的VR背包电脑 配英特尔酷睿i7芯片
+链接：http://gis4g.pku.edu.cn/htc-vive-back-computer/
+摘要：虚拟现实(VR)的兴起激发了背包电脑等许多令人兴奋的电脑设计，因为目前主流的虚拟 …
+
+标题：迪士尼创业加速器新增9个企业：涵盖机器人、人工智能以及VR电影
+链接：http://gis4g.pku.edu.cn/disney-accelerate/
+摘要：自 2014 年起，迪士尼集团的创业加速器项目正式开启，发展到今天，已经是第三年 …
+
+标题：因为怕水学不会游泳？VR技术说不定能帮你
+链接：http://gis4g.pku.edu.cn/vr-swimming-training/
+摘要：即使是在这个游泳池遍布，信息很发达的现代，仍然有许多人是旱鸭子。在学不会游泳的几 …
+
+标题：超人类主义：将大脑上传电脑获得永生
+链接：http://gis4g.pku.edu.cn/transhumanism/
+摘要：据英国每日邮报报道，人们可能一直都梦想着突破身体的限制：疼痛、疾病以及死亡。而现 …
+
+标题：眼控家居亮相：用虚拟现实眼镜开电脑
+链接：http://gis4g.pku.edu.cn/vr-glass-hci/
+摘要：像霍金那样用眼睛安排生活？在昨日闭幕的第十一届中国国际养老、辅具及康复医疗博览会 …
+
+标题：联想发布首款Project Tango AR手机 – Phab2 Pro
+链接：http://gis4g.pku.edu.cn/tango-phab2-pro/
+摘要：在刚刚开始的Tech World大会上，联想和Google合作的全球第一款使用P …
+
+标题：VR体感游戏Draw Your Blade让你随意画出武器
+链接：http://gis4g.pku.edu.cn/vr-game-draw-blade/
+摘要：HTC Vive虚拟现实设备中的体感控制为开发者们提供了许多创造可能，现在出现了 …
+
+标题：罗永浩自曝VR产品 或先于锤子T3发布
+链接：http://gis4g.pku.edu.cn/smartisan-vr-display/
+摘要：锤子科技在去年底发布了Smartisan T2，不过没有能够最大程度上地满足消费 …
+
+标题：马斯克：我们可能生活在高端版本的《模拟人生》里
+链接：http://gis4g.pku.edu.cn/musk-virtual-world/
+摘要：如果你买不起特斯拉，也不要觉得懊恼，因为我们很可能都生活在一个模拟现实世界中。特 …
+
+标题：谷歌：市面上所有Android手机都达不到VR标准
+链接：http://gis4g.pku.edu.cn/daydream-vr/
+摘要：谷歌那极富野心的 Daydream VR 平台旨在将安卓的软件和硬件结合起来，打 …
+
+标题：[图]Vitrima透镜支持3D视频原生拍摄
+链接：http://gis4g.pku.edu.cn/vitrima/
+摘要：有人认为三维视频是个技术革命， 有人则认为这只是一个噱头。 而Vitrima 3 …
+
+标题：eBay建首个虚拟现实百货商店
+链接：http://gis4g.pku.edu.cn/ebay-vr-shopping/
+摘要：近期美国在线零售商eBay宣布与澳大利亚零售商Myer合作推出首个虚拟现实百货商 …
+
+标题：网易正式宣布代理《我的世界》国服
+链接：http://gis4g.pku.edu.cn/163-minecraft/
+摘要：感谢李海的投递 当微软以25亿美元收购Mojang的《我的世界》时，全世界的玩家 …
+
+标题：[视频]谷歌Android创意实验项目精选：3D控制器
+链接：http://gis4g.pku.edu.cn/3d-controller-android/
+摘要：在Google成为Alphabet的子公司后，它又推出Android Exper …
+
+标题：[图+视频]《我的世界》玩家耗费400小时打造的杰作”Phain”
+链接：http://gis4g.pku.edu.cn/minecraft-phain/
+摘要：《我的世界》资深玩家Darastlix和他的团队最近完成了一个非常了不起的项目， …
+
+标题：虚拟现实的新用处：能帮每个人实现音乐梦
+链接：http://gis4g.pku.edu.cn/vr-musical-instrument/
+摘要：据外媒报道，说起VR技术，大家都会不自觉的想到游戏，但其实它的应用范围相当广，上 …
+
+标题：[视频]在VR体验中你可以真实接触到Minecraft砖块
+链接：http://gis4g.pku.edu.cn/minecraft-vr/
+摘要：普遍认为虚拟现实（VR）是交互体验的下一站，且拥有无限的应用前景和发展潜能。但V …
+
+标题：把微观世界呈现在你眼前 化学领域将用VR眼镜研究分子结构
+链接：http://gis4g.pku.edu.cn/vr-chemistry/
+摘要：科幻电影为人们展示的未来场景大多是背包飞行器、飞行汽车、隐身衣、心灵遥感等，这些 …
+
+标题：三星申请手势识别专利 双手凌空操作Gear VR
+链接：http://gis4g.pku.edu.cn/gear-vr-ui/
+摘要：根据美国专利局发布的一项三星的专利申请，三星为旗下移动虚拟现实头显Gear VR …
+
+标题：虚拟现实爆发年：VR眼镜“3元包邮”
+链接：http://gis4g.pku.edu.cn/vr-cardboard/
+摘要：称今年是VR眼镜爆发的一年毫不为过，微软VR头盔窜上太空、HTC欲求通过虚拟VR …
+
+标题：我校“考古虚拟仿真实验教学中心”获批“国家级虚拟仿真实验教学中心”称号
+链接：http://gis4g.pku.edu.cn/vir-archeology/
+摘要：[发布时间] 2016-03-02 http://www.lab.pku.edu …
+
+标题：与众不同的新概念耳机 这才是真正的立体声
+链接：http://gis4g.pku.edu.cn/ossicx/
+摘要：这年头的耳机产品如果不是追求音质，那就是侧重于便携性或外形。然而 OSSIC 公 …
+
+标题：Minecraft虚拟燕园项目获得“北大研究”课题立项
+链接：http://gis4g.pku.edu.cn/minecraftyanyuan/
+摘要：“基于Minecraft的虚拟燕园”项目参与了2015年度“北大研究”课题申报。 …
+
+标题：推出新作品 《第二人生》创始人继续走在VR社交的路上
+链接：http://gis4g.pku.edu.cn/high-fidelity-rosedale/
+摘要：1992年的时候，有一本科幻小说叫《雪崩》，该书的作者Neal Stephens …
+
+
+######计算######
+
+标题：机械之美——机械时期的计算设备
+链接：http://gis4g.pku.edu.cn/%e6%9c%ba%e6%a2%b0%e4%b9%8b%e7%be%8e-%e6%9c%ba%e6%a2%b0%e6%97%b6%e6%9c%9f%e7%9a%84%e8%ae%a1%e7%ae%97%e8%ae%be%e5%a4%87/
+摘要：来源： 机械之美——机械时期的计算设备
+
+标题：能分清直方图和柱状图，你就是图表届的“头号”玩家
+链接：http://gis4g.pku.edu.cn/%e8%83%bd%e5%88%86%e6%b8%85%e7%9b%b4%e6%96%b9%e5%9b%be%e5%92%8c%e6%9f%b1%e7%8a%b6%e5%9b%be%ef%bc%8c%e4%bd%a0%e5%b0%b1%e6%98%af%e5%9b%be%e8%a1%a8%e5%b1%8a%e7%9a%84%e5%a4%b4%e5%8f%b7/
+摘要：虽然直方图是柱状图的一种（毕竟乍眼看都是很多柱子的样子），但是其实它俩一个喜欢数 …
+
+标题：比根号2更“无理”的数| 果壳 科技有意思
+链接：http://gis4g.pku.edu.cn/%e6%af%94%e6%a0%b9%e5%8f%b72%e6%9b%b4%e6%97%a0%e7%90%86%e7%9a%84%e6%95%b0-%e6%9e%9c%e5%a3%b3-%e7%a7%91%e6%8a%80%e6%9c%89%e6%84%8f%e6%80%9d/
+摘要：来源： 比根号2更“无理”的数| 果壳 科技有意思
+
+标题：【果壳网专访】斯蒂芬·沃尔夫勒姆：宇宙的本质是计算| 果壳 科技有意思
+链接：http://gis4g.pku.edu.cn/%e3%80%90%e6%9e%9c%e5%a3%b3%e7%bd%91%e4%b8%93%e8%ae%bf%e3%80%91%e6%96%af%e8%92%82%e8%8a%ac%c2%b7%e6%b2%83%e5%b0%94%e5%a4%ab%e5%8b%92%e5%a7%86%ef%bc%9a%e5%ae%87%e5%ae%99%e7%9a%84%e6%9c%ac%e8%b4%a8/
+摘要：来源： 【果壳网专访】斯蒂芬·沃尔夫勒姆：宇宙的本质是计算| 果壳 科技有意思
+
+标题：IBM类脑超算平台TrueNorth芯片将于本周送往劳伦斯利弗莫尔
+链接：http://gis4g.pku.edu.cn/llnl-truenorth/
+摘要：过去，我们经常听到把芯片当做是计算机的“电子大脑”的说法。不过劳伦斯·利弗莫尔国 …
+
+标题：AlphaGo最终局战胜李世石 人机大战总比分4:1
+链接：http://gis4g.pku.edu.cn/alphago-lee-sedol/
+摘要：谷歌围棋人工智能AlphaGo今天与韩国棋手李世石进行最后一轮较量，AlphaG …
+
+标题：量子计算机将能分解任意大数
+链接：http://gis4g.pku.edu.cn/quantum-computing/
+摘要：MIT和 Innsbruck大学的计算机科学家组装了一台5量子比特的量子计算机， …
+
+标题：光计算机离我们究竟还有多远？
+链接：http://gis4g.pku.edu.cn/optical-calculating/
+摘要：光计算机与电子计算机相比，有许多天然的优势。那么光计算机离我们还有多远？本文讲述 …
+
