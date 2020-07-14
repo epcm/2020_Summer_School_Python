@@ -1,3 +1,4 @@
+# 爬取gis4g各个标签对应的文章标题、URL、摘要，并存入工作目录下名为gis4g_articles的txt文件
 import requests
 from bs4 import BeautifulSoup
 
